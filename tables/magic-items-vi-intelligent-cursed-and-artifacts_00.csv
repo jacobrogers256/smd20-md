@@ -1,0 +1,14 @@
+"Intelligent Item Alignment"
+"d%","Alignment of Item"
+"01–05","Chaotic good"
+"06–15","Chaotic neutral*"
+"16–20","Chaotic evil"
+"21–25","Neutral evil*"
+"26–30","Lawful evil"
+"31–55","Lawful good"
+"56–60","Lawful neutral*"
+"61–80","Neutral good*"
+"81–100","Neutral"
+"* The item can also be used by any character whose alignment corresponds to the nonneutral portion of the
+            item’s alignment."
+

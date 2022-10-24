@@ -1,0 +1,10 @@
+"Table: Donning Armor"
+"Armor Type","Don","Don Hastily","Remove"
+"Shield (any)","1 move action","n/a","1 move action"
+"Padded, leather, hide, studded leather, or chain shirt","1 minute","5 rounds","1 minute 1"
+"Breastplate, scale mail, chainmail, banded mail, or splint mail","4 minutes 1","1 minute","1 minute 1"
+"Half-plate or full plate","4 minutes 2","4 minutes 1","1d4+1 minutes 1"
+"1 If the character has some help, cut this time in half. A single character doing nothing else can help one
+            or two adjacent characters. Two characters can’t help each other don armor at the same time."
+"2 The wearer must have help to don this armor. Without help, it can be donned only hastily."
+

@@ -1,0 +1,11 @@
+"Water Elemental Sizes"
+"Vortex"
+"Elemental","Height","Weight","Save DC","Damage","Height"
+"","",""
+"Small","4 ft.","34 lb.","13","1d4","10–20 ft."
+"Medium","8 ft.","280 lb.","15","1d6","10–30 ft."
+"Large","16 ft.","2,250 lb.","19","2d6","10–40 ft."
+"Huge","32 ft.","18,000 lb.","25","2d8","10–50 ft."
+"Greater","36 ft.","21,000 lb.","28","2d8","10–60 ft."
+"Elder","40 ft.","24,000 lb.","31","2d8","10–60 ft."
+

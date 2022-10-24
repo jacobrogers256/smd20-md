@@ -1,0 +1,9 @@
+"DC","Task"
+"30","If reduced to negative hit points but not dead, make a Stabilize Self check. If successful, the character
+            does not go unconscious and can continue taking actions until he or she bleeds to death or stabilizes (the
+            character can also continue making stabilization checks). If healed or stabilized, the character continues
+            to take actions normally."
+"60","On a successful Stabilize Self check, the character gains damage reduction 2/–. The damage reduction lasts
+            for 12 hours. The character cannot check for damage reduction more than once per day. Damage reduction
+            gained through Stabilize Self does not stack with damage reduction gained through any other source."
+

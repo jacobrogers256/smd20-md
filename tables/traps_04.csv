@@ -1,0 +1,12 @@
+"Table: Cost Modifiers for Magic Device Traps"
+"Feature","Cost Modifier"
+"Alarm spell used in trigger","—"
+"One-Shot Trap",""
+"Each spell used in trap","+50 gp x caster level x spell level,  +4 XP x caster level x spell level"
+"Material components","+ Cost of all material components"
+"XP components","+ Total of XP components x 5 gp"
+"Automatic Reset Trap",""
+"Each spell used in trap","+500 gp x caster level x spell level,  +40 XP x caster level x spell level"
+"Material components","+ Cost of all material components x 100 gp"
+"XP components","+ Total of XP components x 500 gp"
+

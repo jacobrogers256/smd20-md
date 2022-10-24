@@ -1,0 +1,13 @@
+"Table: Special Ability Types"
+"Extraordinary","Spell-Like","Supernatural"
+""
+"Dispel","No","Yes","No"
+"Spell resistance","No","Yes","No"
+"Antimagic field","No","Yes","Yes"
+"Attack of opportunity","No","Yes","No"
+"Dispel: Can dispel magic and similar spells dispel the effects of abilities of that type?"
+"Spell Resistance: Does spell resistance protect a creature from these abilities?"
+"Antimagic Field: Does an antimagic field or similar magic suppress the ability?"
+"Attack of Opportunity: Does using the ability provoke attacks of opportunity the way that casting a
+            spell does?"
+

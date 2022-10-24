@@ -1,0 +1,6 @@
+"Condition","Chance of Page Turning"
+"Caster employing a spell usable by own class and level","10%"
+"Caster employing a spell not usable by own class and level","20%"
+"Nonspellcaster employing divine spell","25%"
+"Nonspellcaster employing arcane spell","30%"
+

@@ -1,0 +1,13 @@
+"Table: The Dwarven Defender"
+"Level","Base Attack Bonus","Fort Save","Ref Save","Will Save","AC Bonus","Special"
+"1st","+1","+2","+0","+2","+1","Defensive stance 1/day"
+"2nd","+2","+3","+0","+3","+1","Uncanny dodge"
+"3rd","+3","+3","+1","+3","+1","Defensive stance 2/day"
+"4th","+4","+4","+1","+4","+2","Trap sense +1"
+"5th","+5","+4","+1","+4","+2","Defensive stance 3/day"
+"6th","+6","+5","+2","+5","+2","Damage reduction 3/–, improved uncanny dodge"
+"7th","+7","+5","+2","+5","+3","Defensive stance 4/day"
+"8th","+8","+6","+2","+6","+3","Mobile defense, trap sense +2"
+"9th","+9","+6","+3","+6","+3","Defensive stance 5/day"
+"10th","+10","+7","+3","+7","+4","Damage reduction 6/–"
+

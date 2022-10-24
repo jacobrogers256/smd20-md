@@ -1,0 +1,14 @@
+"Table: Random Shield Type"
+"d%","Shield","Shield Cost 1"
+"01–10","Buckler","+165 gp"
+"11–15","Shield, light wooden 2","+153 gp"
+"16–20","Shield, light steel 3","+159 gp"
+"21–30","Shield, heavy wooden 2","+157 gp"
+"31–95","Shield, heavy steel 3","+170 gp"
+"96–100","Shield, tower 2","+180 gp"
+"All magic shields are masterwork shields (with an armor check penalty 1 lower than normal)."
+"1 Add to enhancement bonus on Table: Epic Armor and Shields to determine total market price."
+"2Roll d% to determine material: 01–70 wood; 71–99 dark-wood; 100 other. Adjust price accordingly."
+"3Roll d% to determine material: 01–70 steel; 71–90 mithral; 91–99 adamantine; 100 other. Adjust price
+            accordingly."
+

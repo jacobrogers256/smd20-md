@@ -1,0 +1,6 @@
+"Type of Listener","Effect"
+"Followers of the same deity","Automatic if 10 or fewer HD, otherwise Will save (DC 20 + 1/2 high proselytizer’s class level + Wis
+            modifier)"
+"Others of the same alignment","Automatic if 5 or fewer HD, otherwise Will save (as above)"
+"All others","Will save (as above)"
+

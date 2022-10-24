@@ -1,0 +1,9 @@
+"Condition","Reader’s Forgery Check Modifier"
+"Type of document unknown to reader","–2"
+"Type of document somewhat known to reader","+0"
+"Type of document well known to reader","+2"
+"Handwriting not known to reader","–2"
+"Handwriting somewhat known to reader","+0"
+"Handwriting intimately known to reader","+2"
+"Reader only casually reviews the document","–2"
+

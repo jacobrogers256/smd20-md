@@ -1,0 +1,16 @@
+"Table: Epic Item Communication"
+"d%","Communication Mode","Market Price Modifier"
+"01–10","Semiempathy 1","+1,000 gp"
+"11–35","Empathy 2","+2,000 gp"
+"36–75","Speech 3","+3,000 gp"
+"76–85","Telepathy 4","+5,000 gp"
+"86–100","Speech 3 and telepathy 4","+8,000 gp"
+"1 The possessor receives some signal (a throb or tingle, for example) when the item’s ability functions."
+"2 The possessor feels urges and sometimes emotions from the item that encourage or discourage certain
+            courses of action."
+"3Speaks Common plus one language per point of Intelligence bonus. Roll d%: 01–05, the item cannot read any
+            languages; 06–75, the item can read any language it can speak (+1,000 gp to market price); 76–90, it can
+            read all languages (+2,000 gp to market price); 91–100, it can read all languages as well as read magic (+3,000 gp to market price)."
+"4 The item can communicate silently with any wielder who has an Intelligence of 1 or higher, regardless of
+            any language barrier."
+

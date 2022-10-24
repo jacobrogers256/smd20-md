@@ -1,0 +1,12 @@
+"Dragon Space/Reach, Attacks, and Damage"
+"Size","Space/Reach*","1 Bite","2 Claws","2 Wings","1 Tail Slap","1Crush","1 Tail Sweep"
+"Tiny","2-1/2 ft./0 ft. (5 ft. with bite)","1d4","1d3","—","—","—","—"
+"Small","5 ft./5 ft.","1d6","1d4","—","—","—","—"
+"Medium","5 ft./5 ft.","1d8","1d6","1d4","—","—","—"
+"Large","10 ft./5 ft. (10 ft. with bite)","2d6","1d8","1d6","1d8","—","—"
+"Huge","15 ft./10 ft. (15 ft. with bite)","2d8","2d6","1d8","2d6","2d8","—"
+"Gargantuan","20 ft./15 ft. (20 ft. with bite)","4d6","2d8","2d6","2d8","4d6","2d6"
+"Colossal","30 ft./20 ft. (30 ft. with bite)","4d8","4d6","2d8","4d6","4d8","2d8"
+"*A dragon’s bite attack has reach as if the creature were one size category larger. All other attacks are
+            made with the standard reach for the dragon’s size."
+

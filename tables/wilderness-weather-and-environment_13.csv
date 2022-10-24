@@ -1,0 +1,11 @@
+"Table: Random Weather"
+"d%","Weather","Cold Climate","Temperate Climate 1","Desert"
+"01–70","Normal weather","Cold, calm","Normal for season 2","Hot, calm"
+"71–80","Abnormal weather","Heat wave (01–30) or cold snap (31–100)","Heat wave (01–50) or cold snap (51–100)","Hot, windy"
+"81–90","Inclement weather","Precipitation (snow)","Precipitation (normal for season)","Hot, windy"
+"91–99","Storm","Snowstorm","Thunderstorm, snowstorm 3","Duststorm"
+"100","Powerful storm","Blizzard","Windstorm, blizzard 4 , hurricane, tornado","Downpour"
+"1 Temperate includes forest, hills, marsh, mountains, plains, and warm aquatic."
+"2 Winter is cold, summer is warm, spring and autumn are temperate. Marsh regions are slightly warmer in
+            winter."
+

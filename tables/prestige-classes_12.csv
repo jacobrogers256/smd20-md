@@ -1,0 +1,13 @@
+"Table: The Eldritch Knight"
+"Level","Base Attack Bonus","Fort Save","Ref Save","Will Save","Special"
+"1st","+1","+2","+0","+0","Bonus feat"
+"2nd","+2","+3","+0","+0","+1 level of existing arcane spellcasting class"
+"3rd","+3","+3","+1","+1","+1 level of existing arcane spellcasting class"
+"4th","+4","+4","+1","+1","+1 level of existing arcane spellcasting class"
+"5th","+5","+4","+1","+1","+1 level of existing arcane spellcasting class"
+"6th","+6","+5","+2","+2","+1 level of existing arcane spellcasting class"
+"7th","+7","+5","+2","+2","+1 level of existing arcane spellcasting class"
+"8th","+8","+6","+2","+2","+1 level of existing arcane spellcasting class"
+"9th","+9","+6","+3","+3","+1 level of existing arcane spellcasting class"
+"10th","+10","+7","+3","+3","+1 level of existing arcane spellcasting class"
+

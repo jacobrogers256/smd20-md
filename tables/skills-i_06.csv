@@ -1,0 +1,7 @@
+"Climb DC Modifier 1","Example Surface or Activity"
+"–10","Climbing a chimney (artificial or natural) or other location where you can brace against two opposite walls
+            (reduces DC by 10)."
+"–5","Climbing a corner where you can brace against perpendicular walls (reduces DC by 5)."
+"+5","Surface is slippery (increases DC by 5)."
+"1These modifiers are cumulative; use any that apply."
+

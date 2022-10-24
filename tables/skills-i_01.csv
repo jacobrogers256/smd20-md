@@ -1,0 +1,13 @@
+"Table: Example Opposed Checks"
+"Task","Skill (Key Ability)","Opposing Skill (Key Ability)"
+"Con someone","Bluff (Cha)","Sense Motive (Wis)"
+"Pretend to be someone else","Disguise (Cha)","Spot (Wis)"
+"Create a false map","Forgery (Int)","Forgery (Int)"
+"Hide from someone","Hide (Dex)","Spot (Wis)"
+"Make a bully back down","Intimidate (Cha)","Special 1"
+"Sneak up on someone","Move Silently (Dex)","Listen (Wis)"
+"Steal a coin pouch","Sleight of Hand (Dex)","Spot (Wis)"
+"Tie a prisoner securely","Use Rope (Dex)","Escape Artist (Dex)"
+"1 An Intimidate check is opposed by the target’s level check, not a skill check. See the
+            Intimidate skill description for more information."
+

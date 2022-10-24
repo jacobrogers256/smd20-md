@@ -1,0 +1,13 @@
+"Table: The High Proselytizer"
+"Level","Special","Spells per Day"
+"1st","Proselytize 1/day",""
+"2nd","Heal 1/day","+1 level of divine spellcasting class"
+"3rd","Proselytize (deific touch) 1/day",""
+"4th","Bonus feat","+1 level of divine spellcasting class"
+"5th","Proselytize (deific word) 1/day",""
+"6th","Heal 2/day","+1 level of divine spellcasting class"
+"7th","Proselytize (deific face) 1/day",""
+"8th","Bonus feat","+1 level of divine spellcasting class"
+"9th","Proselytize (deific aura) 1/day",""
+"10th","Heal 3/day","+1 level of divine spellcasting class"
+

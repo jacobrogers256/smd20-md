@@ -1,0 +1,12 @@
+"Dragon Breath Weapons"
+"Dragon Size","Line* (Length)","Cone** (Length)"
+"Tiny","30 ft.","15 ft."
+"Small","40 ft.","20 ft."
+"Medium","60 ft.","30 ft."
+"Large","80 ft.","40 ft."
+"Huge","100 ft.","50 ft."
+"Gargantuan","120 ft.","60 ft."
+"Colossal","140 ft.","70 ft."
+"*A line is always 5 feet high and 5 feet wide."
+"**A cone is as high and wide as its length."
+

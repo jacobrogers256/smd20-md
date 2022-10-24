@@ -1,0 +1,15 @@
+"Table: Attack Roll Modifiers"
+"Attacker is . . .","Melee","Ranged"
+"Dazzled","–1","–1"
+"Entangled","–2 1","–2 1"
+"Flanking defender","+2","—"
+"Invisible","+2 2","+2 2"
+"On higher ground","+1","+0"
+"Prone","–4","— 3"
+"Shaken or frightened","–2","–2"
+"Squeezing through a space","–4","–4"
+"1 An entangled character also takes a –4 penalty to Dexterity, which may affect his attack roll."
+"2 The defender loses any Dexterity bonus to AC. This bonus doesn’t apply if the target is blinded."
+"3 Most ranged weapons can’t be used while the attacker is prone, but you can use a crossbow or shuriken
+            while prone at no penalty."
+
