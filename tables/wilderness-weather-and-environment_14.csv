@@ -1,0 +1,32 @@
+"Table: Wind Effects"
+"Wind Force","Wind Speed","Ranged Attacks Normal/Siege Weapons 1","Creature Size 2","Wind Effect on Creatures","Fort Save DC"
+"Light","0–10 mph","—/—","Any","None","—"
+"Moderate","11–20 mph","—/—","Any","None","—"
+"Strong","21–30 mph","–2/—","Tiny or smaller","Knocked down","10"
+"","","","Small or larger","None",""
+"Severe","31–50 mph","–4/—","Tiny","Blown away","15"
+"","","","Small","Knocked down",""
+"","","","Medium","Checked",""
+"","","","Large or larger","None",""
+"Windstorm","51–74 mph","Impossible/–4","Small or smaller","Blown away","18"
+"","","","Medium","Knocked down",""
+"","","","Large or Huge","Checked",""
+"","","","Gargantuan or Colossal","None",""
+"Hurricane","75–174 mph","Impossible/–8","Medium or smaller","Blown away","20"
+"","","","Large","Knocked down",""
+"","","","Huge","Checked",""
+"","","","Gargantuan or Colossal","None",""
+"Tornado","175–300 mph","Impossible/impossible","Large or smaller","Blown away","30"
+"","","","Huge","Knocked down",""
+"","","","Gargantuan or Colossal","Checked",""
+"1 The siege weapon category includes ballista and catapult attacks as well as boulders tossed by giants."
+"2 Flying or airborne creatures are treated as one size category smaller than their actual size, so an
+            airborne Gargantuan dragon is treated as Huge for purposes of wind effects."
+"Checked: Creatures are unable to move forward against the force of the wind. Flying creatures are
+            blown back 1d6×5 feet."
+"Knocked Down: Creatures are knocked prone by the force of the wind. Flying creatures are instead
+            blown back 1d6×10 feet."
+"Blown Away: Creatures on the ground are knocked prone and rolled 1d4×10 feet, taking 1d4 points of
+            nonlethal damage per 10 feet. Flying creatures are blown back 2d6×10 feet and take 2d6 points of nonlethal
+            damage due to battering and buffeting."
+

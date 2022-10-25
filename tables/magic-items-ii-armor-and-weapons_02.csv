@@ -1,0 +1,11 @@
+"Table: Random Shield Type"
+"d%","Shield","Shield Cost 1"
+"01–10","Buckler","+165 gp"
+"11–15","Shield, light, wooden","+153 gp"
+"16–20","Shield, light, steel","+159 gp"
+"21–30","Shield, heavy, wooden","+157 gp"
+"31–95","Shield, heavy, steel","+170 gp"
+"96–100","Shield, tower","+180 gp"
+"1 Add to enhancement bonus on Table: Armor and Shields to determine total market price."
+"All magic shields are masterwork shields (with an armor check penalty 1 less than normal)."
+

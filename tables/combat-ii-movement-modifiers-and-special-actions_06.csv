@@ -1,0 +1,12 @@
+"Table: Turning Undead"
+"Turning Check Result","Most Powerful Undead Affected (Maximum Hit Dice)"
+"0 or lower","Cleric’s level – 4"
+"1–3","Cleric’s level – 3"
+"4–6","Cleric’s level – 2"
+"7–9","Cleric’s level – 1"
+"10–12","Cleric’s level"
+"13–15","Cleric’s level + 1"
+"16–18","Cleric’s level + 2"
+"19–21","Cleric’s level + 3"
+"22 or higher","Cleric’s level + 4"
+

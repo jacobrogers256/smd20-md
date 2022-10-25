@@ -1,0 +1,9 @@
+"Potion Base Prices (By Brewer’s Class)"
+"Spell Level","Clr, Drd, Wiz","Sor","Brd","Pal, Rgr*"
+"0","25 gp","25 gp","25 gp","—"
+"1st","50 gp","50 gp","100 gp","100 gp"
+"2nd","300 gp","400 gp","400 gp","400 gp"
+"3rd","750 gp","900 gp","1,050 gp","750 gp"
+"* Caster level is half class level."
+"Prices assume that the potion was made at the minimum caster level."
+

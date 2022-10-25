@@ -1,0 +1,13 @@
+"Table: Substance Hardness and Hit Points"
+"Substance","Hardness","Hit Points"
+"Paper or cloth","0","2/inch of thickness"
+"Rope","0","2/inch of thickness"
+"Glass","1","1/inch of thickness"
+"Ice","0","3/inch of thickness"
+"Leather or hide","2","5/inch of thickness"
+"Wood","5","10/inch of thickness"
+"Stone","8","15/inch of thickness"
+"Iron or steel","10","30/inch of thickness"
+"Mithral","15","30/inch of thickness"
+"Adamantine","20","40/inch of thickness"
+

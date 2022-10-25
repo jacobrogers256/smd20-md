@@ -1,0 +1,8 @@
+"Table: Size Modifiers"
+"Size","Size Modifier","Size","Size Modifier"
+"Colossal","–8","Small","+1"
+"Gargantuan","–4","Tiny","+2"
+"Huge","–2","Diminutive","+4"
+"Large","–1","Fine","+8"
+"Medium","+0","",""
+

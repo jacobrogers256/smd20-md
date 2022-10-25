@@ -1,0 +1,6 @@
+[submodule "srd-v3.5-md"]
+	path = srd-v3.5-md
+	url = https://github.com/jacobrogers256/srd-v3.5-md.git
+[submodule "srd-d20modern-md"]
+	path = srd-d20modern-md
+	url = https://github.com/esemwy/srd-d20modern-md.git

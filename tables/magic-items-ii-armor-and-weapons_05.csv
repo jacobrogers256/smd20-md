@@ -1,0 +1,5 @@
+"Fortification Type","Chance for Normal Damage","Base Price Modifier"
+"Light","25%","+1 bonus"
+"Moderate","75%","+3 bonus"
+"Heavy","100%","+5 bonus"
+

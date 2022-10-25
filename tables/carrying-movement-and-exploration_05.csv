@@ -1,0 +1,12 @@
+"Table: Terrain and Overland Movement"
+"Terrain","Highway","Road or Trail","Trackless"
+"Desert, sandy","x1","x1/2","x1/2"
+"Forest","x1","x1","x1/2"
+"Hills","x1","x3/4","x1/2"
+"Jungle","x1","x3/4","x1/4"
+"Moor","x1","x1","x3/4"
+"Mountains","x3/4","x3/4","x1/2"
+"Plains","x1","x1","x3/4"
+"Swamp","x1","x3/4","x1/2"
+"Tundra, frozen","x1","x3/4","x3/4"
+

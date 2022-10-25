@@ -1,0 +1,9 @@
+"New Attitude"
+"Initial Attitude","Hos","Unf","Indif","Friend","Help","Fanatic"
+""
+"Hostile","Less than 20","20","25","35","50","150"
+"Unfriendly","Less than 5","5","15","25","40","120"
+"Indifferent","—","Less than 1","1","15","30","90"
+"Friendly","—","—","Less than 1","1","20","60"
+"Helpful","—","—","—","Less than 1","1","50"
+

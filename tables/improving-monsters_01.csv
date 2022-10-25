@@ -1,0 +1,12 @@
+"Table: Changes to Statistics by Size"
+"Old Size*","New Size","Str","Dex","Con","Natural Armor","AC/ Attack"
+"Fine","Diminutive","Same","–2","Same","Same","–4"
+"Diminutive","Tiny","+2","–2","Same","Same","–2"
+"Tiny","Small","+4","–2","Same","Same","–1"
+"Small","Medium","+4","–2","+2","Same","–1"
+"Medium","Large","+8","–2","+4","+2","–1"
+"Large","Huge","+8","–2","+4","+3","–1"
+"Huge","Gargantuan","+8","Same","+4","+4","–2"
+"Gargantuan","Colossal","+8","Same","+4","+5","–4"
+"*Repeat the adjustment if the creature moves up more than one size."
+

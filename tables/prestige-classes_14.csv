@@ -1,0 +1,13 @@
+"Hierophant Alignment","Opposed Alignment"
+"Lawful good","Chaotic evil"
+"Neutral good","Neutral evil"
+"Chaotic good","Lawful evil"
+"Lawful neutral","Chaotic neutral"
+"Neutral","Lawful good, chaotic good, lawful evil, chaotic evil*"
+"Chaotic neutral","Lawful neutral"
+"Lawful evil","Chaotic good"
+"Neutral evil","Neutral good"
+"Chaotic evil","Lawful good"
+"* A neutral hierophant chooses one of these alignments to be the one that he opposes, for the purposes of
+            this special ability."
+

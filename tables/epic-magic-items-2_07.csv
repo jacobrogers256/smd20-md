@@ -1,0 +1,12 @@
+"Table: Epic Item Intelligence, Wisdom, Charisma, and Capabilities"
+"d%","Ability Scores","Capabilities"
+"01–22","Two 2d6+10, one 3d6","Three primary abilities, one extraordinary power"
+"23–40","Two 2d6+11, one 3d6","Three primary abilities, two extraordinary powers"
+"41–54","Two 2d6+12, one 3d6","Four primary abilities, two extraordinary powers"
+"55–64","Two 2d6+14, one 3d6","Four primary abilities, three extraordinary powers"
+"65–71","Two 2d6+16, one 3d6","Four primary abilities, three extraordinary powers, one awesome power"
+"72–73","Two 2d6+18, one 3d6","Four primary abilities, three extraordinary powers, two awesome powers"
+"74","Roll again, but add 1d6 to each ability score 1"
+"75–100","Use nonepic magic item Table: Item Intelligence, Wisdom, Charisma, and Capabilities"
+"1 Cumulative if rolled multiple times."
+

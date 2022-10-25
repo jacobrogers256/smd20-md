@@ -1,0 +1,18 @@
+"Table: Epic Armor and Shields"
+"d%","Enhancement Bonus","Market Price"
+"2"
+"01–21","+11","+1,210,000 gp"
+"22–39","+12","+1,440,000 gp"
+"40–54","+13","+1,690,000 gp"
+"55–66","+14","+1,960,000 gp"
+"67–76","+15","+2,250,000 gp"
+"77–84","+16","+2,560,000 gp"
+"85–90","+17","+2,890,000 gp"
+"91–94","+18","+3,240,000 gp"
+"95–97","+19","+3,610,000 gp"
+"98–99","+20","+4,000,000 gp"
+"100","Roll again and add +10 to bonus 1"
+"1 This is cumulative if rolled multiple times.",""
+"2 For enhancement bonuses higher than +20, the market price modifier is equal to the square of the bonus
+            x10,000 gp."
+

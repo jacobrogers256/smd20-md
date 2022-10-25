@@ -1,0 +1,10 @@
+"Base Magic Supplies and XP Cost to Craft a Wand (By Crafter’s Class)"
+"Spell Level","Clr, Drd, Wiz","Sor","Brd","Pal, Rgr*"
+"0","187 gp 5 sp  +15 XP","187 gp 5 sp  +15 XP","187 gp 5 sp  +15 XP","—"
+"1st","375 gp  +30 XP","375 gp  +30 XP","750 gp  +60 XP","750 gp  +60 XP"
+"2nd","2,250 gp  +180 XP","3,000 gp  +240 XP","3,000 gp  +240 XP","3,000 gp  +240 XP"
+"3rd","5,625 gp  +450 XP","6,750 gp  +540 XP","7,875 gp  +630 XP","5,625 gp  +450 XP"
+"4th","10,500 gp  +840 XP","12,000 gp  +960 XP","15,000 gp  +1200 XP","10,500 gp  +840 XP"
+"* Caster level is half class level."
+"Costs assume that the creator makes the wand at the minimum caster level."
+

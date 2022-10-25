@@ -1,0 +1,18 @@
+"Table: Psionic Ranged Weapon Special Abilities"
+"Minor","Medium","Major","Special Ability","Base Price Modifier"
+"01–20","01–15","—","Teleporting","+1 bonus 1"
+"21–40","16–30","—","Psychokinetic","+1 bonus 1"
+"41–100","31–45","01–30","Collision","+2 bonus 1"
+"—","46–50","31–40","Suppression","+2 bonus 1"
+"—","51–66","41–65","Psychokinetic burst","+2 bonus 1"
+"—","67–74","66–69","Psibane","+2 bonus 1"
+"—","75–78","70–73","Manifester","+16,000 gp"
+"—","79–82","74–79","Dislocator","+3 bonus 1"
+"—","83–98","80–90","Great dislocator","+4 bonus 1"
+"—","—","91–97","Coup de grace","+5 bonus 1"
+"—","99–100","98–100","Roll again twice 2","—"
+"1 Add to enhancement bonus to determine total market price."
+"2 Reroll if you get a duplicate special ability, an ability incompatible with an ability that you’ve already
+            rolled, or if the extra ability puts you over the +10 limit. A weapon’s enhancement bonus and special
+            ability bonus equivalents can’t total more than +10."
+

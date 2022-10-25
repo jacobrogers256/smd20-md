@@ -1,0 +1,16 @@
+"Table: Improved Monster CR Increase"
+"Creature’s Original Type","CR Increase"
+"Other Modifiers:"
+"Aberration, construct, elemental, fey, giant, humanoid, ooze, plant, undead, vermin","+1 per 4 HD added"
+"Animal, magical beast, monstrous humanoid","+1 per 3 HD added"
+"Dragon, outsider, nonassociated class levels","+1 per 2 HD or 2 levels added"
+"Directly associated class levels","+1 per level added"
+""
+"Size increased to Large or larger","+1 to CR"
+"Monster’s ability scores based on elite array*","+1 to CR"
+"Monster possesses special attacks or qualities that significantly improve combat effectiveness","+2 to CR"
+"Monster possesses special attacks or qualities that improve combat effectiveness in a minor way","+1 to CR"
+"Template added","+ template CR modifier"
+"* Do not apply this increase if you advance a monster by class levels. (Monsters advanced by class levels
+            are assumed to use the elite array.)"
+

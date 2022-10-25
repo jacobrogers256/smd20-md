@@ -1,0 +1,9 @@
+"Table: Siege Engines"
+"Item","Cost","Damage","Critical","Range Increment","Typical Crew"
+"Catapult, heavy","800 gp","6d6","—","200 ft. (100 ft. minimum)","4"
+"Catapult, light","550 gp","4d6","—","150 ft. (100 ft. minimum)","2"
+"Ballista","500 gp","3d8","19–20","120 ft.","1"
+"Ram","1,000 gp","3d6*","—","—","10"
+"Siege tower","2,000 gp","—","—","—","20"
+"* See description for special rules."
+

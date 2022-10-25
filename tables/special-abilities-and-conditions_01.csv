@@ -1,0 +1,19 @@
+"Table: Diseases"
+"Disease","Infection DC","Incubation","Damage"
+"Blinding sickness","Ingested 16","1d3 days","1d4 Str 1"
+"Cackle fever","Inhaled 16","1 day","1d6 Wis"
+"Demon fever","Injury 18","1 day","1d6 Con 2"
+"Devil chills 3","Injury 14","1d4 days","1d4 Str"
+"Filth fever","Injury 12","1d3 days","1d3 Dex, 1d3 Con"
+"Mindfire","Inhaled 12","1 day","1d4 Int"
+"Mummy rot 4","Contact 20","1 day","1d6 Con"
+"Red ache","Injury 15","1d3 days","1d6 Str"
+"Shakes","Contact 13","1 day","1d8 Dex"
+"Slimy doom","Contact 14","1 day","1d4 Con 2"
+"1 Each time the victim takes 2 or more damage from the disease, he must make another Fortitude save or be
+            permanently blinded."
+"2 When damaged, character must succeed on another saving throw or 1 point of damage is permanent drain
+            instead."
+"3 The victim must make three successful Fortitude saving throws in a row to recover from devil chills."
+"4 Successful saves do not allow the character to recover. Only magical healing can save the character."
+

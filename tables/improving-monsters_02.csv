@@ -1,0 +1,12 @@
+"Table: Increased Damage By Size"
+"Old Damage (Each)*","New Damage"
+"1d2","1d3"
+"1d3","1d4"
+"1d4","1d6"
+"1d6","1d8"
+"1d8","2d6"
+"1d10","2d8"
+"2d6","3d6"
+"2d8","3d8"
+"* Repeat the adjustment if the creature moves up more than one size category."
+
