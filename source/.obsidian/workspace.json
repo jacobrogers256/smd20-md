@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "1ff9bfbb2d93b09e",
+    "type": "split",
+    "children": [
+      {
+        "id": "127976843f14e25f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d35e4159d178f22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 basic-rules-and-legal/0 license.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "902051bcced2a8cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 monsters/1 Monsters Intro.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "baf26599712ac58d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 monsters/5 Monsters Animals.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8867927438a093ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 monsters/2 Monsters I.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "29382dc764ccf66e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 monsters/2 Monsters I.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b7db70611dd59184",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 monsters/4 Monsters III.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1be7acd992610d00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 monsters/8 Improving Monsters.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "02019f6687eacc7e",
+    "type": "split",
+    "children": [
+      {
+        "id": "d3bffe0b3cdd371c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4acc3ca0967e88b9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "879c6928abcc877a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8e6992d28fac18f6",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e0d01f8b1870ef54",
+    "type": "split",
+    "children": [
+      {
+        "id": "edfae2d3a4395d8c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19a038b438bad09c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1 monsters/8 Improving Monsters.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d867de2a928703bb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1 monsters/8 Improving Monsters.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "55e8076a4b08ee92",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c8b5e564f57971c9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1 monsters/8 Improving Monsters.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "1be7acd992610d00",
+  "lastOpenFiles": [
+    "1 monsters/5 Monsters Animals.md",
+    "1 monsters/4 Monsters III.md",
+    "1 monsters/3 Monsters II.md",
+    "1 monsters/2 Monsters I.md",
+    "1 monsters/1 Monsters Intro.md",
+    "0 basic-rules-and-legal/0 license.md",
+    "1 monsters/8 Improving Monsters.md"
+  ]
+}
