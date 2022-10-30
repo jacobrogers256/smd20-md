@@ -1,0 +1,120 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Table: The Explorer"
+        ],
+        [
+            "Class Level",
+            "Base Attack Bonus",
+            "Fort Save",
+            "Ref Save",
+            "Will Save",
+            "Special",
+            "Defense Bonus",
+            "Reputation Bonus"
+        ]
+    ],
+    "rows": [
+        [
+            "1st",
+            "+0",
+            "+1",
+            "+1",
+            "+1",
+            "Explorer lore, survivalist",
+            "+1",
+            "+0"
+        ],
+        [
+            "2nd",
+            "+1",
+            "+2",
+            "+2",
+            "+2",
+            "Resolve, skilled searcher",
+            "+1",
+            "+0"
+        ],
+        [
+            "3rd",
+            "+2",
+            "+2",
+            "+2",
+            "+2",
+            "Bonus feat",
+            "+2",
+            "+1"
+        ],
+        [
+            "4th",
+            "+3",
+            "+2",
+            "+2",
+            "+2",
+            "Trap sense (+1)",
+            "+2",
+            "+1"
+        ],
+        [
+            "5th",
+            "+3",
+            "+3",
+            "+3",
+            "+3",
+            "Extra step",
+            "+3",
+            "+1"
+        ],
+        [
+            "6th",
+            "+4",
+            "+3",
+            "+3",
+            "+3",
+            "Bonus feat",
+            "+3",
+            "+2"
+        ],
+        [
+            "7th",
+            "+5",
+            "+4",
+            "+4",
+            "+4",
+            "Trap sense (+2)",
+            "+4",
+            "+2"
+        ],
+        [
+            "8th",
+            "+6",
+            "+4",
+            "+4",
+            "+4",
+            "Explorer\u0092s evasion",
+            "+4",
+            "+2"
+        ],
+        [
+            "9th",
+            "+6",
+            "+4",
+            "+4",
+            "+4",
+            "Bonus feat",
+            "+5",
+            "+3"
+        ],
+        [
+            "10th",
+            "+7",
+            "+5",
+            "+5",
+            "+5",
+            "Extra step, trap sense (+3)",
+            "+5",
+            "+3"
+        ]
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Table: Grapple Modifiers"
+        ],
+        [
+            "Size (Example)",
+            "Grapple Modifier"
+        ]
+    ],
+    "rows": [
+        [
+            "Colossal (blue whale [90 ft. long])",
+            "+16"
+        ],
+        [
+            "Gargantuan (gray whale [40 ft. long])",
+            "+12"
+        ],
+        [
+            "Huge (elephant)",
+            "+8"
+        ],
+        [
+            "Large (lion)",
+            "+4"
+        ],
+        [
+            "Medium-size (human)",
+            "+0"
+        ],
+        [
+            "Small (German shepherd)",
+            "\u00964"
+        ],
+        [
+            "Tiny (housecat)",
+            "\u00968"
+        ],
+        [
+            "Diminutive (rat)",
+            "\u009612"
+        ],
+        [
+            "Fine (horsefly)",
+            "\u009616"
+        ]
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Table: Grappler Pilot Check DCs"
+        ],
+        [
+            "Size of Target",
+            "Pilot Check DC"
+        ]
+    ],
+    "rows": [
+        [
+            "Colossal",
+            "5 + target\u0092s Defense"
+        ],
+        [
+            "Gargantuan",
+            "10 + target\u0092s Defense"
+        ],
+        [
+            "Huge",
+            "15 + target\u0092s Defense"
+        ],
+        [
+            "Large",
+            "20 + target\u0092s Defense"
+        ],
+        [
+            "Medium-size",
+            "25 + target\u0092s Defense"
+        ],
+        [
+            "Small",
+            "30 + target\u0092s Defense"
+        ]
+    ]
+}

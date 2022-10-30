@@ -1,0 +1,40 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Table: Starship Self-Destruct Systems"
+        ],
+        [
+            "Starship Type",
+            "Collateral Damage",
+            "Purchase DC"
+        ]
+    ],
+    "rows": [
+        [
+            "Ultralight",
+            "1d6\u00d710",
+            "26"
+        ],
+        [
+            "Light",
+            "2d6\u00d710",
+            "32"
+        ],
+        [
+            "Mediumweight",
+            "3d6\u00d710",
+            "38"
+        ],
+        [
+            "Heavy",
+            "4d6\u00d710",
+            "44"
+        ],
+        [
+            "Superheavy",
+            "5d6\u00d710",
+            "50"
+        ]
+    ]
+}

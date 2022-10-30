@@ -1,0 +1,62 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Name",
+            "Damage",
+            "Critical",
+            "Damage Type",
+            "Range Increment",
+            "Rate of Fire",
+            "Magazine",
+            "Size",
+            "Weight",
+            "Purchase DC",
+            "Restriction"
+        ]
+    ],
+    "rows": [
+        [
+            "M2HB (heavy machine gun)",
+            "2d12",
+            "20",
+            "Ballistic",
+            "110 ft.",
+            "A",
+            "Linked",
+            "Huge",
+            "75 lb.",
+            "22",
+            "Mil (+3)"
+        ],
+        [
+            "M72A3 LAW (rocket launcher)",
+            "10d6 2",
+            "\u0097",
+            "\u0097",
+            "150 ft.",
+            "1",
+            "1 int.",
+            "Large",
+            "5 lb.",
+            "15",
+            "Mil (+3)"
+        ],
+        [
+            "M79 (grenade launcher)",
+            "Varies 2",
+            "\u0097",
+            "\u0097",
+            "70 ft.",
+            "1",
+            "1 int.",
+            "Large",
+            "7 lb.",
+            "14",
+            "Mil (+3)"
+        ],
+        [
+            "1 This mastercraft weapon grants a +1 bonus on attack\nrolls .  2 This weapon does special damage. See the weapon description.  3 See the description of this weapon for special rules."
+        ]
+    ]
+}

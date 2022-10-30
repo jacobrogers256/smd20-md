@@ -1,0 +1,40 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Document Type"
+        ],
+        [
+            "Factor",
+            "Check Modifier",
+            "Time"
+        ]
+    ],
+    "rows": [
+        [
+            "Simple (typed letter, business card)",
+            "+0",
+            "10 min."
+        ],
+        [
+            "Moderate (letterhead, business form)",
+            "\u00962",
+            "20 min."
+        ],
+        [
+            "Complex (stock certificate, driver\u0092s license)",
+            "\u00964",
+            "1 hr."
+        ],
+        [
+            "Difficult (passport)",
+            "\u00968",
+            "4 hr."
+        ],
+        [
+            "Extreme (military/law enforcement ID)",
+            "\u009616",
+            "24 hr."
+        ]
+    ]
+}

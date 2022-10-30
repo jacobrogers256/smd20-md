@@ -1,0 +1,31 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Skill Check Result",
+            "Effort Achieved"
+        ]
+    ],
+    "rows": [
+        [
+            "9 or lower",
+            "Untalented amateur"
+        ],
+        [
+            "10\u009619",
+            "Talented amateur"
+        ],
+        [
+            "20\u009624",
+            "Professional"
+        ],
+        [
+            "25\u009630",
+            "Expert"
+        ],
+        [
+            "31 or higher",
+            "Master"
+        ]
+    ]
+}

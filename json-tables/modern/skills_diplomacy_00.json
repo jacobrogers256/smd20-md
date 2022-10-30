@@ -1,0 +1,37 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Attitude",
+            "Means",
+            "Possible Actions"
+        ]
+    ],
+    "rows": [
+        [
+            "Hostile",
+            "Will take risks to hurt or avoid you",
+            "Attack, interfere, berate, flee"
+        ],
+        [
+            "Unfriendly",
+            "Wishes you ill",
+            "Mislead, gossip, avoid, watch suspiciously, insult"
+        ],
+        [
+            "Indifferent",
+            "Doesn\u0092t much care",
+            "Act as socially expected"
+        ],
+        [
+            "Friendly",
+            "Wishes you well",
+            "Chat, advise, offer limited help, advocate"
+        ],
+        [
+            "Helpful",
+            "Will take risks to help you",
+            "Protect, back up, heal, aid"
+        ]
+    ]
+}

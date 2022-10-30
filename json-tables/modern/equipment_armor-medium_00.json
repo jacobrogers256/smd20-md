@@ -1,0 +1,67 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Name",
+            "Type",
+            "Equipment Bonus",
+            "Nonprof. Bonus",
+            "Maximum Dex Bonus",
+            "Armor Penalty",
+            "Speed (30 ft.)",
+            "Weight",
+            "Purchase DC",
+            "Restriction"
+        ]
+    ],
+    "rows": [
+        [
+            "Concealable vest",
+            "Concealable",
+            "+4",
+            "+2",
+            "+4",
+            "\u00963",
+            "25",
+            "4 lb.",
+            "15",
+            "Lic (+1)"
+        ],
+        [
+            "Chainmail shirt",
+            "Archaic",
+            "+5",
+            "+2",
+            "+2",
+            "\u00965",
+            "20",
+            "40 lb.",
+            "18",
+            "\u0097"
+        ],
+        [
+            "Light-duty vest",
+            "Tactical",
+            "+5",
+            "+2",
+            "+3",
+            "\u00964",
+            "25",
+            "8 lb.",
+            "16",
+            "Lic (+1)"
+        ],
+        [
+            "Tactical vest",
+            "Tactical",
+            "+6",
+            "+2",
+            "+2",
+            "\u00965",
+            "25",
+            "10 lb.",
+            "17",
+            "Lic (+1)"
+        ]
+    ]
+}

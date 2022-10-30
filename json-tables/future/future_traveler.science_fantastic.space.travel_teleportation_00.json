@@ -1,0 +1,49 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Table: Transport Booth Purchase DC Modifiers"
+        ],
+        [
+            "Transport Booth\u0092s Purchase DC",
+            "Communication System Modifier"
+        ],
+        [
+            "Progress Level 5: Information Age"
+        ],
+        [
+            "Progress Level 6: Fusion Age"
+        ],
+        [
+            "Progress Level 7: Gravity Age"
+        ],
+        [
+            "Progress Level 8: Energy Age"
+        ],
+        [
+            "Progress Level 9: Matter Age"
+        ]
+    ],
+    "rows": [
+        [
+            "Radio Transceiver",
+            "+0"
+        ],
+        [
+            "Laser Transceiver",
+            "+3"
+        ],
+        [
+            "Mass Transceiver",
+            "+5"
+        ],
+        [
+            "Drive Transceiver",
+            "+8"
+        ],
+        [
+            "Ansible",
+            "+13"
+        ]
+    ]
+}

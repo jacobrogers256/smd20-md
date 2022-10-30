@@ -1,0 +1,58 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Frame Shape and Locomotion 1",
+            "DC Modifier"
+        ],
+        [
+            "External Components 2",
+            "DC Modifier"
+        ],
+        [
+            "Remote Range 1",
+            "DC Modifier"
+        ]
+    ],
+    "rows": [
+        [
+            "Bipedal",
+            "+4"
+        ],
+        [
+            "Quadruped",
+            "+3"
+        ],
+        [
+            "Treads",
+            "+2"
+        ],
+        [
+            "Wheels",
+            "+1"
+        ],
+        [
+            "Manipulators 3",
+            "+3"
+        ],
+        [
+            "Audio/visual sensor",
+            "+2"
+        ],
+        [
+            "Remote control link, 100 feet",
+            "+1"
+        ],
+        [
+            "Remote control link, 200 feet",
+            "+3"
+        ],
+        [
+            "Remote control link, 300 feet",
+            "+5"
+        ],
+        [
+            "1 Select only one of the options in this category.  2 Select one or more of the options in this category.  3 Necessary for a robot built to use any skill except Listen or Spot."
+        ]
+    ]
+}

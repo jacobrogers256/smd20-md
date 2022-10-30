@@ -1,0 +1,121 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Table: Skill Points per Class Level for Nonhumans"
+        ],
+        [
+            "Basic Class",
+            "Skill Points per Level 1"
+        ],
+        [
+            "Advanced Class",
+            "Skill Points per Level"
+        ],
+        [
+            "Campaign-Specific Advanced Class",
+            "Skill Points per Level"
+        ]
+    ],
+    "rows": [
+        [
+            "Strong",
+            "2 + Int modifier"
+        ],
+        [
+            "Fast",
+            "4 + Int modifier"
+        ],
+        [
+            "Tough",
+            "2 + Int modifier"
+        ],
+        [
+            "Smart",
+            "8 + Int modifier"
+        ],
+        [
+            "Dedicated",
+            "4 + Int modifier"
+        ],
+        [
+            "Charismatic",
+            "6 + Int modifier"
+        ],
+        [
+            "Soldier",
+            "4 + Int modifier"
+        ],
+        [
+            "Martial Artist",
+            "2 + Int modifier"
+        ],
+        [
+            "Gunslinger",
+            "4 + Int modifier"
+        ],
+        [
+            "Infiltrator",
+            "6 + Int modifier"
+        ],
+        [
+            "Daredevil",
+            "4 + Int modifier"
+        ],
+        [
+            "Bodyguard",
+            "2 + Int modifier"
+        ],
+        [
+            "Field Scientist",
+            "6 + Int modifier"
+        ],
+        [
+            "Techie",
+            "6 + Int modifier"
+        ],
+        [
+            "Field Medic",
+            "4 + Int modifier"
+        ],
+        [
+            "Investigator",
+            "4 + Int modifier"
+        ],
+        [
+            "Personality",
+            "4 + Int modifier"
+        ],
+        [
+            "Negotiator",
+            "4 + Int modifier"
+        ],
+        [
+            "Mage",
+            "6 + Int modifier"
+        ],
+        [
+            "Acolyte",
+            "4+ Int modifier"
+        ],
+        [
+            "Shadow Slayer",
+            "2+ Int modifier"
+        ],
+        [
+            "Occultist",
+            "4+ Int modifier"
+        ],
+        [
+            "Telepath",
+            "4+ Int modifier"
+        ],
+        [
+            "Battle Mind",
+            "2+ Int modifier"
+        ],
+        [
+            "1 Humanoids with 1 or fewer Hit Dice advance as human characters do. At 1st level, multiply the number of skill points per level by 4."
+        ]
+    ]
+}

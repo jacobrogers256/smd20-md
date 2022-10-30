@@ -1,0 +1,159 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Object",
+            "Size",
+            "Weight",
+            "Purchase DC",
+            "Restriction"
+        ]
+    ],
+    "rows": [
+        [
+            "Camera"
+        ],
+        [
+            "35mm",
+            "Small",
+            "2 lb.",
+            "17",
+            "\u0097"
+        ],
+        [
+            "Digital",
+            "Tiny",
+            "0.5 lb.",
+            "14",
+            "\u0097"
+        ],
+        [
+            "Disposable",
+            "Tiny",
+            "0.5 lb.",
+            "4",
+            "\u0097"
+        ],
+        [
+            "Film",
+            "Dim",
+            "\u0097",
+            "3",
+            "\u0097"
+        ],
+        [
+            "Film developing (roll)",
+            "\u0097",
+            "\u0097",
+            "3",
+            "\u0097"
+        ],
+        [
+            "Cell phone",
+            "Dim",
+            "\u0097",
+            "9",
+            "\u0097"
+        ],
+        [
+            "Computer"
+        ],
+        [
+            "Desktop",
+            "Large",
+            "10 lb.",
+            "22",
+            "\u0097"
+        ],
+        [
+            "Notebook",
+            "Med",
+            "5 lb.",
+            "23",
+            "\u0097"
+        ],
+        [
+            "Upgrade",
+            "\u0097",
+            "\u0097",
+            "See text",
+            "\u0097"
+        ],
+        [
+            "Digital audio recorder",
+            "Tiny",
+            "1 lb.",
+            "10",
+            "\u0097"
+        ],
+        [
+            "Modem"
+        ],
+        [
+            "Broadband",
+            "Tiny",
+            "1 lb.",
+            "6",
+            "\u0097"
+        ],
+        [
+            "Cellular",
+            "Tiny",
+            "1 lb.",
+            "6",
+            "\u0097"
+        ],
+        [
+            "PDA",
+            "Tiny",
+            "0.5 lb.",
+            "16",
+            "\u0097"
+        ],
+        [
+            "Portable satellite phone",
+            "Small",
+            "2 lb.",
+            "17",
+            "\u0097"
+        ],
+        [
+            "Portable video camera",
+            "Small",
+            "2 lb.",
+            "16",
+            "\u0097"
+        ],
+        [
+            "Printer",
+            "Med",
+            "3 lb.",
+            "12",
+            "\u0097"
+        ],
+        [
+            "Scanner",
+            "Med",
+            "3 lb.",
+            "12",
+            "\u0097"
+        ],
+        [
+            "Walkie-talkie"
+        ],
+        [
+            "Basic",
+            "Tiny",
+            "1 lb.",
+            "7",
+            "\u0097"
+        ],
+        [
+            "Professional",
+            "Tiny",
+            "1 lb.",
+            "15",
+            "\u0097"
+        ]
+    ]
+}

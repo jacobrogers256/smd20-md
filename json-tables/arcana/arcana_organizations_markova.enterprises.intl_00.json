@@ -1,0 +1,35 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "DC",
+            "Time Required"
+        ]
+    ],
+    "rows": [
+        [
+            "9 or less",
+            "1d6 + 6 hours with no information found"
+        ],
+        [
+            "10 \u009614",
+            "1d6 + 6 hours"
+        ],
+        [
+            "15 \u009619",
+            "1d6 hours"
+        ],
+        [
+            "20 \u009624",
+            "3d10 + 30 minutes"
+        ],
+        [
+            "25 \u009629",
+            "2d10 + 20 minutes"
+        ],
+        [
+            "30 +",
+            "1d10 + 10 minutes"
+        ]
+    ]
+}

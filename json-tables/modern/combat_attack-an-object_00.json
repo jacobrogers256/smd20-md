@@ -1,0 +1,50 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Table: Size and Defense of Objects"
+        ],
+        [
+            "Size (Example)",
+            "Defense"
+        ]
+    ],
+    "rows": [
+        [
+            "Colossal (jetliner)",
+            "\u00963"
+        ],
+        [
+            "Gargantuan (army tank)",
+            "1"
+        ],
+        [
+            "Huge (typical car)",
+            "3"
+        ],
+        [
+            "Large (big door)",
+            "4"
+        ],
+        [
+            "Medium-size (dirt bike)",
+            "5"
+        ],
+        [
+            "Small (chair)",
+            "6"
+        ],
+        [
+            "Tiny (laptop computer)",
+            "7"
+        ],
+        [
+            "Diminutive (paperback book)",
+            "9"
+        ],
+        [
+            "Fine (pencil)",
+            "13"
+        ]
+    ]
+}

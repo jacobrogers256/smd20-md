@@ -1,0 +1,59 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Type of Scratch-Built Explosive",
+            "Purchase DC",
+            "Craft DC",
+            "Reflex DC (save for half damage)",
+            "Time"
+        ]
+    ],
+    "rows": [
+        [
+            "Improvised (1d6/5 feet) 1",
+            "6",
+            "10",
+            "10",
+            "1 round"
+        ],
+        [
+            "Simple (2d6/5 feet)",
+            "12",
+            "15",
+            "12",
+            "10 min."
+        ],
+        [
+            "Moderate (4d6/10 feet)",
+            "16",
+            "20",
+            "12",
+            "1 hr."
+        ],
+        [
+            "Complex (6d6/15 feet)",
+            "20",
+            "25",
+            "15",
+            "3 hr."
+        ],
+        [
+            "Powerful (8d6/20 feet)",
+            "25",
+            "30",
+            "15",
+            "12 hr."
+        ],
+        [
+            "Devastating (10d6/25 feet)",
+            "30",
+            "35",
+            "18",
+            "24 hr."
+        ],
+        [
+            "1 The figures in parentheses are typical damage/burst radius for each type of explosive. Scratch built explosives deal concussion damage."
+        ]
+    ]
+}

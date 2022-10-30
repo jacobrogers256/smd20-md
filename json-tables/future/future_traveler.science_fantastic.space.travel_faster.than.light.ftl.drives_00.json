@@ -1,0 +1,70 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Table: Faster-Than-Light (FTL) Engines"
+        ],
+        [
+            "Engine",
+            "Minimum Ship Size",
+            "Starship\u0092s Cruising Speed"
+        ],
+        [
+            "Progress Level 6: Fusion Age"
+        ],
+        [
+            "Progress Level 7: Gravity Age"
+        ],
+        [
+            "Progress Level 8: Energy Age"
+        ],
+        [
+            "Progress Level 9: Matter Age"
+        ]
+    ],
+    "rows": [
+        [
+            "Fusion torch",
+            "Gargantuan",
+            "Light speed \u00d7 0.5"
+        ],
+        [
+            "Ion engine",
+            "Huge",
+            "Light speed \u00d7 0.75"
+        ],
+        [
+            "Photon sails",
+            "Gargantuan",
+            "Light speed \u00d7 1"
+        ],
+        [
+            "Induction engine",
+            "Huge",
+            "Light speed \u00d7 5"
+        ],
+        [
+            "Particle impulse engine",
+            "Gargantuan",
+            "Light speed \u00d7 10"
+        ],
+        [
+            "Gravitic redirector",
+            "Colossal",
+            "Light speed \u00d7 25"
+        ],
+        [
+            "Inertial flux engine",
+            "Gargantuan",
+            "Light speed \u00d7 15"
+        ],
+        [
+            "Spatial compressor",
+            "Colossal",
+            "Special 1"
+        ],
+        [
+            "1 A spatial compressor allows a ship to travel from one star system to another instantaneously."
+        ]
+    ]
+}

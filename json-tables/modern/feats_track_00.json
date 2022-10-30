@@ -1,0 +1,27 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Surface",
+            "Track DC"
+        ]
+    ],
+    "rows": [
+        [
+            "Very soft",
+            "5"
+        ],
+        [
+            "Soft",
+            "10"
+        ],
+        [
+            "Firm",
+            "15"
+        ],
+        [
+            "Hard",
+            "20"
+        ]
+    ]
+}

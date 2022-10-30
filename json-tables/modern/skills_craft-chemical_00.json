@@ -1,0 +1,38 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Type of Acid",
+            "Purchase DC",
+            "Acid",
+            "Base",
+            "Time"
+        ]
+    ],
+    "rows": [
+        [
+            "Mild (1d6/1d10) 1",
+            "8",
+            "15",
+            "10",
+            "1 min."
+        ],
+        [
+            "Potent (2d6/2d10)",
+            "12",
+            "20",
+            "15",
+            "30 min."
+        ],
+        [
+            "Concentrated (3d6/3d10)",
+            "16",
+            "30",
+            "20",
+            "1 hr."
+        ],
+        [
+            "1 The dice rolls in parentheses are typical contact damage/immersion damage caused per round of immersion."
+        ]
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Lock Type (Example)",
+            "DC"
+        ]
+    ],
+    "rows": [
+        [
+            "Cheap (briefcase lock)",
+            "20"
+        ],
+        [
+            "Average (home deadbolt)",
+            "25"
+        ],
+        [
+            "High quality (business deadbolt)",
+            "30"
+        ],
+        [
+            "High security (branch bank vault)",
+            "40"
+        ],
+        [
+            "Ultra-high security (bank headquarters vault)",
+            "50"
+        ]
+    ]
+}

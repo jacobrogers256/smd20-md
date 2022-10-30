@@ -1,0 +1,53 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Table: Crew Quality"
+        ],
+        [
+            "Crew Quality",
+            "Skill Check Modifier 1",
+            "Pilot\u0092s Class Bonus to Defense",
+            "Pilot\u0092s Dexterity Modifier",
+            "Gunner\u0092s Modifier to Attack Bonus",
+            "Starship\u0092s Base Purchase DC"
+        ]
+    ],
+    "rows": [
+        [
+            "Untrained",
+            "+0",
+            "+1",
+            "+0",
+            "\u00964",
+            "\u00964"
+        ],
+        [
+            "Trained",
+            "+4",
+            "+3",
+            "+2",
+            "+2",
+            "0"
+        ],
+        [
+            "Expert",
+            "+8",
+            "+5",
+            "+4",
+            "+4",
+            "+4"
+        ],
+        [
+            "Ace",
+            "+12",
+            "+7",
+            "+6",
+            "+8/+3",
+            "+8"
+        ],
+        [
+            "1 This includes Pilot checks."
+        ]
+    ]
+}

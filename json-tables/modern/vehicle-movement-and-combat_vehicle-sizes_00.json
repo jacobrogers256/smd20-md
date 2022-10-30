@@ -1,0 +1,40 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Table: Vehicle Sizes"
+        ],
+        [
+            "Vehicle Size",
+            "Size Modifier",
+            "Examples"
+        ]
+    ],
+    "rows": [
+        [
+            "Colossal",
+            "\u00968",
+            "Yacht, semi with trailer"
+        ],
+        [
+            "Gargantuan",
+            "\u00964",
+            "Tank, limousine"
+        ],
+        [
+            "Huge",
+            "\u00962",
+            "Luxury car, SUV, armored car"
+        ],
+        [
+            "Large",
+            "\u00961",
+            "Economy car, Harley"
+        ],
+        [
+            "Medium-size",
+            "+0",
+            "Racing bike, dirt bike"
+        ]
+    ]
+}

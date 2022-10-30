@@ -1,0 +1,145 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Table: Starship Weapons"
+        ],
+        [
+            "Weapon",
+            "Damage",
+            "Critical",
+            "Damage Type",
+            "Range Increment",
+            "Rate of Fire",
+            "Minimum Ship Size",
+            "Purchase DC",
+            "Restriction"
+        ]
+    ],
+    "rows": [
+        [
+            "Antimatter gun",
+            "10d8 (45)",
+            "20",
+            "Energy",
+            "5,000 ft.",
+            "Single",
+            "Colossal",
+            "38",
+            "Mil (+3)"
+        ],
+        [
+            "Mass cannon",
+            "8d12 (52)",
+            "20",
+            "Ballistic",
+            "5,000 ft.",
+            "Single",
+            "Gargantuan",
+            "37",
+            "Lic (+1)"
+        ],
+        [
+            "Mass cannon, heavy",
+            "10d12 (65)",
+            "20",
+            "Ballistic",
+            "6,000 ft.",
+            "Single",
+            "Colossal",
+            "40",
+            "Res (+2)"
+        ],
+        [
+            "Mine, gravitic",
+            "10d100 (550)",
+            "\u0097",
+            "Energy",
+            "\u0097",
+            "\u0097",
+            "Colossal",
+            "43",
+            "Mil (+3)"
+        ],
+        [
+            "Missile, mass reaction",
+            "20d8 (90)",
+            "19\u009620",
+            "Energy",
+            "\u0097",
+            "Single",
+            "Colossal",
+            "502",
+            "Mil (+3)"
+        ],
+        [
+            "Missile, plasma",
+            "18d8 (81)",
+            "19\u009620",
+            "Fire",
+            "\u0097",
+            "Single",
+            "Gargantuan",
+            "462",
+            "Res (+2)"
+        ],
+        [
+            "Particle beam",
+            "12d8 (54)",
+            "20",
+            "Energy",
+            "4,000 ft.",
+            "Single",
+            "Gargantuan",
+            "36",
+            "Res (+2)"
+        ],
+        [
+            "Particle beam, heavy",
+            "16d8 (72)",
+            "20",
+            "Energy",
+            "5,000 ft.",
+            "Single",
+            "Colossal",
+            "39",
+            "Res (+2)"
+        ],
+        [
+            "Plasma cannon",
+            "14d8 (63)",
+            "20",
+            "Fire",
+            "3,000 ft.",
+            "Single 1",
+            "Gargantuan",
+            "36",
+            "Lic (+1)"
+        ],
+        [
+            "Plasma cannon, heavy",
+            "18d8 (81)",
+            "20",
+            "Fire",
+            "4,000 ft.",
+            "Single 1",
+            "Colossal",
+            "39",
+            "Res (+2)"
+        ],
+        [
+            "Quantum cannon",
+            "16d8 (72)",
+            "20",
+            "Energy",
+            "6,000 ft.",
+            "Single",
+            "Gargantuan",
+            "41",
+            "Res (+2)"
+        ],
+        [
+            "1 With a successful Repair check (DC 30) and 1 hour of work, this weapon can be modified for semiautomatic or automatic fire mode. Resetting the weapon to its original configuration requires another check and another hour of labor.  2 The purchase DC includes a basic launch system (missile rack or missile tube) and eight missiles with warheads. The purchase DC is 2 lower without the launch system.  3 In addition to taking damage, the ship is dazed for 1 round (see Starship Condition Summary).  4 This weapon\u0092s damage ignores a ship\u0092s hardness."
+        ]
+    ]
+}

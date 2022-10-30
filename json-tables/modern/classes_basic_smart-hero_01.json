@@ -1,0 +1,27 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Check Result",
+            "Bonus"
+        ]
+    ],
+    "rows": [
+        [
+            "9 or lower",
+            "+0 (check failed)"
+        ],
+        [
+            "10\u009614",
+            "+1"
+        ],
+        [
+            "15\u009624",
+            "+2"
+        ],
+        [
+            "25 or higher",
+            "+3"
+        ]
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Familiarity",
+            "Bonus"
+        ]
+    ],
+    "rows": [
+        [
+            "Recognizes on sight",
+            "+4"
+        ],
+        [
+            "Friend or associate",
+            "+6"
+        ],
+        [
+            "Close friend",
+            "+8"
+        ],
+        [
+            "Intimate",
+            "+10"
+        ]
+    ]
+}

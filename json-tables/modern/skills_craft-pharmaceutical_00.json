@@ -1,0 +1,37 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Disease Fortitude Save DC",
+            "Purchase DC",
+            "Craft DC",
+            "Time"
+        ]
+    ],
+    "rows": [
+        [
+            "14 or lower",
+            "5",
+            "15",
+            "1 hr."
+        ],
+        [
+            "15\u009618",
+            "10",
+            "20",
+            "3 hr."
+        ],
+        [
+            "19\u009622",
+            "15",
+            "25",
+            "6 hr."
+        ],
+        [
+            "23 or higher",
+            "20",
+            "30",
+            "12 hr."
+        ]
+    ]
+}

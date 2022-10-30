@@ -1,0 +1,70 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Table: The Artificer"
+        ],
+        [
+            "Level",
+            "Base Attack Bonus",
+            "Fort Save",
+            "Ref Save",
+            "Will Save",
+            "Special",
+            "Defense Bonus",
+            "Reputation Bonus"
+        ]
+    ],
+    "rows": [
+        [
+            "1st",
+            "+0",
+            "+1",
+            "+0",
+            "+2",
+            "Craft artifice",
+            "+1",
+            "+2"
+        ],
+        [
+            "2nd",
+            "+1",
+            "+2",
+            "+0",
+            "+3",
+            "Craft artifice, bonus feat",
+            "+1",
+            "+2"
+        ],
+        [
+            "3rd",
+            "+1",
+            "+2",
+            "+1",
+            "+3",
+            "Craft artifice",
+            "+2",
+            "+2"
+        ],
+        [
+            "4th",
+            "+2",
+            "+2",
+            "+1",
+            "+4",
+            "Craft artifice, bonus feat",
+            "+2",
+            "+3"
+        ],
+        [
+            "5th",
+            "+2",
+            "+3",
+            "+1",
+            "+4",
+            "Craft artifice",
+            "+3",
+            "+3"
+        ]
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Weapon",
+            "Damage",
+            "Critical",
+            "Damage Type",
+            "Range Increment",
+            "Size",
+            "Weight",
+            "Purchase DC",
+            "Restriction"
+        ]
+    ],
+    "rows": [
+        [
+            "Brass knuckles",
+            "1",
+            "20",
+            "Bludgeoning",
+            "\u0097",
+            "Tiny",
+            "1 lb.",
+            "5",
+            "\u0097"
+        ],
+        [
+            "Cleaver",
+            "1d6",
+            "19\u009620",
+            "Slashing",
+            "\u0097",
+            "Small",
+            "2 lb.",
+            "5",
+            "\u0097"
+        ],
+        [
+            "Club",
+            "1d6",
+            "20",
+            "Bludgeoning",
+            "10 ft.",
+            "Med",
+            "3 lb.",
+            "4",
+            "\u0097"
+        ],
+        [
+            "Knife",
+            "1d4",
+            "19\u009620",
+            "Piercing",
+            "10 ft.",
+            "Tiny",
+            "1 lb.",
+            "7",
+            "\u0097"
+        ],
+        [
+            "Metal baton",
+            "1d6",
+            "19\u009620",
+            "Bludgeoning",
+            "\u0097",
+            "Med",
+            "2 lb.",
+            "8",
+            "\u0097"
+        ],
+        [
+            "Pistol whip",
+            "1d4",
+            "20",
+            "Bludgeoning",
+            "\u0097",
+            "Small",
+            "\u0097",
+            "\u0097",
+            "\u0097"
+        ],
+        [
+            "Rifle butt",
+            "1d6",
+            "20",
+            "Bludgeoning",
+            "\u0097",
+            "Large",
+            "\u0097",
+            "\u0097",
+            "\u0097"
+        ],
+        [
+            "Sap",
+            "1d6 1",
+            "20",
+            "Bludgeoning",
+            "\u0097",
+            "Small",
+            "3 lb.",
+            "2",
+            "\u0097"
+        ],
+        [
+            "Stun gun 1",
+            "1d3",
+            "20",
+            "Electricity",
+            "\u0097",
+            "Tiny",
+            "1 lb.",
+            "5",
+            "\u0097"
+        ],
+        [
+            "Tonfa 1",
+            "1d4",
+            "20",
+            "Bludgeoning",
+            "\u0097",
+            "Med",
+            "2 lb.",
+            "6",
+            "\u0097"
+        ],
+        [
+            "1 See the description of this weapon for special rules."
+        ]
+    ]
+}

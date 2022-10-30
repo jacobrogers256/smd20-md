@@ -1,0 +1,34 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Condition",
+            "Examiner\u0092s Check Modifier"
+        ]
+    ],
+    "rows": [
+        [
+            "Type of document unknown to examiner",
+            "\u00964"
+        ],
+        [
+            "Type of document somewhat known to examiner",
+            "\u00962"
+        ],
+        [
+            "Type of document well known to examiner",
+            "+0"
+        ],
+        [
+            "Document is put through additional tests 1",
+            "+4"
+        ],
+        [
+            "Examiner only casually reviews the document 1",
+            "\u00962"
+        ],
+        [
+            "1 Cumulative with any of the first three conditions on the table. Apply this modifier along with one of the other three whenever appropriate."
+        ]
+    ]
+}

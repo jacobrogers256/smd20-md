@@ -1,0 +1,115 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "TABLE: SALVAGE"
+        ],
+        [
+            "Salvaged Machine",
+            "Time Required",
+            "Search Check DC",
+            "Wealth Increase"
+        ],
+        [
+            "Vehicle"
+        ],
+        [
+            "Mecha"
+        ],
+        [
+            "Starship"
+        ],
+        [
+            "Robot"
+        ],
+        [
+            "Cybernetic Attachment"
+        ]
+    ],
+    "rows": [
+        [
+            "Huge or smaller",
+            "30 min.",
+            "15",
+            "+1"
+        ],
+        [
+            "Gargantuan",
+            "1 hr.",
+            "20",
+            "+2"
+        ],
+        [
+            "Colossal",
+            "3 hr.",
+            "25",
+            "+3"
+        ],
+        [
+            "Huge or smaller",
+            "30 min.",
+            "25",
+            "+2"
+        ],
+        [
+            "Gargantuan",
+            "1 hr.",
+            "30",
+            "+4"
+        ],
+        [
+            "Colossal",
+            "3 hr.",
+            "35",
+            "+6"
+        ],
+        [
+            "Huge",
+            "1 hr.",
+            "30",
+            "+3"
+        ],
+        [
+            "Gargantuan",
+            "3 hr.",
+            "35",
+            "+5"
+        ],
+        [
+            "Colossal",
+            "6 hr.",
+            "40",
+            "+8"
+        ],
+        [
+            "Tiny or smaller",
+            "10 min.",
+            "20",
+            "+1"
+        ],
+        [
+            "Small to Large",
+            "30 min.",
+            "25",
+            "+2"
+        ],
+        [
+            "Huge or bigger",
+            "1 hr.",
+            "30",
+            "+3"
+        ],
+        [
+            "Replacement",
+            "10 min.",
+            "15",
+            "+1"
+        ],
+        [
+            "Enhancement",
+            "30 min.",
+            "20",
+            "+2"
+        ]
+    ]
+}

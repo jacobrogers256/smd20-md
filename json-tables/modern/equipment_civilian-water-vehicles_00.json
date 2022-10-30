@@ -1,0 +1,67 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Name",
+            "Crew",
+            "Pass",
+            "Cargo",
+            "Init",
+            "Maneuver",
+            "Top Speed",
+            "Defense",
+            "Hardness",
+            "Hit Points",
+            "Size",
+            "Purchase DC",
+            "Restriction"
+        ]
+    ],
+    "rows": [
+        [
+            "Bayliner 1802 Capri (runabout)",
+            "1",
+            "5",
+            "2,100 lb.",
+            "\u00962",
+            "\u00962",
+            "55 (5)",
+            "8",
+            "5",
+            "28",
+            "H",
+            "28",
+            "Lic (+1)"
+        ],
+        [
+            "Fairline Targa 30 (cabin cruiser)",
+            "1",
+            "3",
+            "2,100 lb.",
+            "\u00964",
+            "\u00964",
+            "80 (8)",
+            "6",
+            "5",
+            "40",
+            "G",
+            "32",
+            "Lic (+1)"
+        ],
+        [
+            "Sea-Doo XP (personal watercraft)",
+            "1",
+            "1",
+            "60 lb.",
+            "\u00961",
+            "+1",
+            "105 (10)",
+            "9",
+            "5",
+            "22",
+            "L",
+            "24",
+            "Lic (+1)"
+        ]
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "caption": "",
+    "headers": [],
+    "rows": [
+        [
+            "Type: Superheavy",
+            "Size: Colossal (\u00968 size)"
+        ],
+        [
+            "Subtype: Colony ship",
+            "Tactical Speed: 4,000 ft. (8 sq.)"
+        ],
+        [
+            "Defense: 7",
+            "Length: 2,000 feet"
+        ],
+        [
+            "Flat-footed Defense: 5",
+            "Weight: 400,000 tons"
+        ],
+        [
+            "Autopilot Defense: 7",
+            "Targeting System Bonus: +5"
+        ],
+        [
+            "Hardness: 30",
+            "Crew: 400 (trained +4)"
+        ],
+        [
+            "Hit Dice: 800d20 (16,000 hp)",
+            "Passenger Capacity: 2,000"
+        ],
+        [
+            "Initiative Modifier: +2",
+            "Cargo Capacity: 100,000 tons"
+        ],
+        [
+            "Pilot\u0092s Class Bonus: +3",
+            "Grapple Modifier: +16"
+        ],
+        [
+            "Pilot\u0092s Dex Modifier: +2",
+            "Base Purchase DC: 72"
+        ],
+        [
+            "Gunner\u0092s Attack Bonus: +2",
+            "Restriction: Restricted (+2)"
+        ]
+    ]
+}

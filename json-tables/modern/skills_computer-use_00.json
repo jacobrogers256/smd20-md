@@ -1,0 +1,32 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Size of Site",
+            "DC",
+            "Time"
+        ]
+    ],
+    "rows": [
+        [
+            "Personal computer",
+            "10",
+            "1 round"
+        ],
+        [
+            "Small office network",
+            "15",
+            "2 rounds"
+        ],
+        [
+            "Large office network",
+            "20",
+            "1 minute"
+        ],
+        [
+            "Massive corporate network",
+            "25",
+            "10 minutes"
+        ]
+    ]
+}

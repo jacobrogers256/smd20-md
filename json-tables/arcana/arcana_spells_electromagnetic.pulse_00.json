@@ -1,0 +1,35 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Repair Task (Example)",
+            "Relevant Skill",
+            "Purchase DC",
+            "Repair DC",
+            "Time"
+        ]
+    ],
+    "rows": [
+        [
+            "Simple processors (cars, elevator controls)",
+            "Repair",
+            "7",
+            "15",
+            "10 min."
+        ],
+        [
+            "Complex processors (computers, home theaters)",
+            "Repair",
+            "10",
+            "20",
+            "1 hr."
+        ],
+        [
+            "Data recovery (scrambled hard drive)",
+            "Computer Use",
+            "4",
+            "25",
+            "2 hr."
+        ]
+    ]
+}

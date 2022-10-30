@@ -1,0 +1,88 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Table: Sidhe Immunities and Resistances"
+        ],
+        [
+            "Roll d%",
+            "Immunity",
+            "Roll d%",
+            "Resistance"
+        ]
+    ],
+    "rows": [
+        [
+            "01\u009606",
+            "Acid damage",
+            "01\u009621",
+            "None (do not roll again)"
+        ],
+        [
+            "07\u009612",
+            "Cold damage",
+            "22\u009627",
+            "Acid resistance 10"
+        ],
+        [
+            "13\u009618",
+            "Sonic/concussion damage",
+            "28\u009630",
+            "Acid resistance 20"
+        ],
+        [
+            "19\u009624",
+            "Electricity damage",
+            "31\u009636",
+            "Cold resistance 10"
+        ],
+        [
+            "25\u009630",
+            "Fire damage",
+            "37\u009639",
+            "Cold resistance 20"
+        ],
+        [
+            "31\u009636",
+            "Ballistic damage",
+            "40\u009645",
+            "Sonic/concussion resistance 10"
+        ],
+        [
+            "37\u009642",
+            "Bludgeoning damage",
+            "46\u009648",
+            "Sonic/concussion resistance 20"
+        ],
+        [
+            "43\u009648",
+            "Piercing damage",
+            "49\u009654",
+            "Electricity resistance 10"
+        ],
+        [
+            "49\u009654",
+            "Slashing damage",
+            "55\u009657",
+            "Electricity resistance 20"
+        ],
+        [
+            "55\u009660",
+            "Poison damage",
+            "58\u009663",
+            "Fire resistance 10"
+        ],
+        [
+            "61\u009666",
+            "Radiation damage",
+            "64\u009666",
+            "Fire resistance 20"
+        ],
+        [
+            "67\u0096100",
+            "Choose one, and roll again",
+            "67\u0096100",
+            "Choose one, and roll again"
+        ]
+    ]
+}

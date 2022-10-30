@@ -1,0 +1,148 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Table: Progress Level 8 Equipment"
+        ],
+        [
+            "Name",
+            "Size",
+            "Weight",
+            "Purchase DC",
+            "Restriction"
+        ],
+        [
+            "Chemical and Medical Equipment"
+        ],
+        [
+            "Computer Equipment"
+        ],
+        [
+            "Miscellaneous Equipment"
+        ],
+        [
+            "Sensor Equipment"
+        ]
+    ],
+    "rows": [
+        [
+            "Chemical, plastiflesh",
+            "Tiny",
+            "0.5 lb.",
+            "6",
+            "\u0097"
+        ],
+        [
+            "Chemical, truthtell",
+            "Diminutive",
+            "\u0097",
+            "8",
+            "Lic (+1)"
+        ],
+        [
+            "Regen wand",
+            "Small",
+            "1 lb.",
+            "18",
+            "\u0097"
+        ],
+        [
+            "Neural computer link",
+            "Fine",
+            "\u0097",
+            "25",
+            "\u0097"
+        ],
+        [
+            "Neural network jack, wireless",
+            "Fine",
+            "\u0097",
+            "12",
+            "\u0097"
+        ],
+        [
+            "Energy shield",
+            "Tiny",
+            "0.5 lb.",
+            "16",
+            "\u0097"
+        ],
+        [
+            "Force field, personal (DR 5/\u0096)",
+            "Tiny",
+            "0.5 lb.",
+            "18",
+            "Mil (+3)"
+        ],
+        [
+            "Force field, personal (DR 10/\u0096)",
+            "Tiny",
+            "0.5 lb.",
+            "22",
+            "Mil (+3)"
+        ],
+        [
+            "Hologram player",
+            "Small",
+            "2 lb.",
+            "6",
+            "\u0097"
+        ],
+        [
+            "Hologram recorder",
+            "Diminutive",
+            "\u0097",
+            "9",
+            "\u0097"
+        ],
+        [
+            "Hologuise",
+            "Small",
+            "1 lb.",
+            "15",
+            "\u0097"
+        ],
+        [
+            "Matter shield",
+            "Tiny",
+            "0.5 lb.",
+            "20",
+            "Mil (+3)"
+        ],
+        [
+            "Micro-aural communicator",
+            "Fine",
+            "\u0097",
+            "6",
+            "\u0097"
+        ],
+        [
+            "Neural recorder",
+            "Small",
+            "1 lb.",
+            "15",
+            "Lic (+1)"
+        ],
+        [
+            "Photon shield",
+            "Small",
+            "2 lb.",
+            "24",
+            "Mil (+3)"
+        ],
+        [
+            "Polyvox",
+            "Tiny",
+            "0.5 lb.",
+            "10",
+            "\u0097"
+        ],
+        [
+            "Sensor, robocomp",
+            "Small",
+            "1 lb.",
+            "18",
+            "\u0097"
+        ]
+    ]
+}

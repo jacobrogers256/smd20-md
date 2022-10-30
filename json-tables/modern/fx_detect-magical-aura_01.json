@@ -1,0 +1,27 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Original Strength",
+            "Duration"
+        ]
+    ],
+    "rows": [
+        [
+            "Faint",
+            "1d6 minutes"
+        ],
+        [
+            "Moderate",
+            "1d6 x 10 minutes"
+        ],
+        [
+            "Strong",
+            "1d6 hours"
+        ],
+        [
+            "Overwhelming",
+            "1d6 days"
+        ]
+    ]
+}

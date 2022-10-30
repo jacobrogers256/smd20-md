@@ -1,0 +1,40 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Table: Vehicle Crew Quality"
+        ],
+        [
+            "Crew Quality",
+            "Check Modifier",
+            "Attack Bonus"
+        ]
+    ],
+    "rows": [
+        [
+            "Untrained",
+            "\u00964",
+            "\u00962"
+        ],
+        [
+            "Normal",
+            "+2",
+            "+0"
+        ],
+        [
+            "Skilled",
+            "+4",
+            "+2"
+        ],
+        [
+            "Expert",
+            "+8",
+            "+4"
+        ],
+        [
+            "Ace",
+            "+12",
+            "+8/+3"
+        ]
+    ]
+}

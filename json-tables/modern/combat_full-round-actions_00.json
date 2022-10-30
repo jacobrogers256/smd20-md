@@ -1,0 +1,35 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Table: Two-Weapon Fighting Penalties"
+        ],
+        [
+            "Circumstances",
+            "Primary Hand",
+            "Off Hand"
+        ]
+    ],
+    "rows": [
+        [
+            "Normal penalties",
+            "\u00966",
+            "\u009610"
+        ],
+        [
+            "Off-hand weapon is light",
+            "\u00964",
+            "\u00968"
+        ],
+        [
+            "Two-Weapon Fighting feat",
+            "\u00964",
+            "\u00964"
+        ],
+        [
+            "Off-hand weapon is light and Two-Weapon Fighting feat",
+            "\u00962",
+            "\u00962"
+        ]
+    ]
+}

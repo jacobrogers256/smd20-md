@@ -1,0 +1,50 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Table: Difficulty Class Examples"
+        ],
+        [
+            "Difficulty (DC)",
+            "Example (Skill Used)"
+        ]
+    ],
+    "rows": [
+        [
+            "Very easy (0)",
+            "Notice something large in plain sight ( Spot )"
+        ],
+        [
+            "Easy (5)",
+            "Climb a knotted rope ( Climb )"
+        ],
+        [
+            "Average (10)",
+            "Hear an approaching security guard ( Listen )"
+        ],
+        [
+            "Tough (15)",
+            "Disarm an explosive ( Demolitions )"
+        ],
+        [
+            "Challenging (20)",
+            "Swim against a strong current ( Swim )"
+        ],
+        [
+            "Formidable (25)",
+            "Break into a secure computer system ( Computer\nUse )"
+        ],
+        [
+            "Heroic (30)",
+            "Leap across a 30-foot chasm ( Jump )"
+        ],
+        [
+            "Superheroic (35)",
+            "Convince the guards that even though you\u0092re not wearing an ID badge and aren\u0092t on their list, they should let you into the building ( Bluff )"
+        ],
+        [
+            "Nearly impossible (40)",
+            "Track a trained commando  through the forests of Brazil on a moonless night after 12 days of rainfall ( Survival )"
+        ]
+    ]
+}

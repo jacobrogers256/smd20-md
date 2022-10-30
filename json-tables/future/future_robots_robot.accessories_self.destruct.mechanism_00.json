@@ -1,0 +1,60 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Table: Robot Self-Destruct Systems"
+        ],
+        [
+            "Robot Size",
+            "Collateral Damage",
+            "Purchase DC"
+        ]
+    ],
+    "rows": [
+        [
+            "Colossal",
+            "12d6",
+            "27"
+        ],
+        [
+            "Gargantuan",
+            "9d6",
+            "24"
+        ],
+        [
+            "Huge",
+            "6d6",
+            "21"
+        ],
+        [
+            "Large",
+            "4d6",
+            "19"
+        ],
+        [
+            "Medium-size",
+            "2d6",
+            "17"
+        ],
+        [
+            "Small",
+            "1d6",
+            "16"
+        ],
+        [
+            "Tiny",
+            "\u0097",
+            "15"
+        ],
+        [
+            "Diminutive",
+            "\u0097",
+            "15"
+        ],
+        [
+            "Fine",
+            "\u0097",
+            "15"
+        ]
+    ]
+}

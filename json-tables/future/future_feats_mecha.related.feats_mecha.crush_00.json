@@ -1,0 +1,27 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Mecha Size",
+            "Damage"
+        ]
+    ],
+    "rows": [
+        [
+            "Large",
+            "2d6"
+        ],
+        [
+            "Huge",
+            "2d8"
+        ],
+        [
+            "Gargantuan",
+            "4d6"
+        ],
+        [
+            "Colossal",
+            "4d8"
+        ]
+    ]
+}

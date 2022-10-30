@@ -1,0 +1,31 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Table: Progress Level 6 Ammunition Types"
+        ],
+        [
+            "Ammunition (Quantity)",
+            "Damage Type",
+            "Purchase DC",
+            "Restriction"
+        ]
+    ],
+    "rows": [
+        [
+            "Bio-agent (20)",
+            "Ballistic",
+            "14",
+            "Mil (+3)"
+        ],
+        [
+            "Power pack (50)",
+            "Special 1",
+            "8",
+            "\u0097"
+        ],
+        [
+            "1 A power pack powers any ranged weapon that deals energy damage (such as a laser pistol). A power pack does not change the weapon\u0092s damage type."
+        ]
+    ]
+}

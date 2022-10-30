@@ -1,0 +1,140 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Weapon",
+            "Damage",
+            "Critical",
+            "Damage Type",
+            "Burst Radius",
+            "Reflex DC",
+            "Range Increment",
+            "Size",
+            "Weight",
+            "Purchase DC",
+            "Restriction"
+        ]
+    ],
+    "rows": [
+        [
+            "40mm fragmentation grenade",
+            "3d6",
+            "\u0097",
+            "Slashing",
+            "10 ft.",
+            "15",
+            "\u0097",
+            "Tiny",
+            "1 lb.",
+            "16",
+            "Mil (+3)"
+        ],
+        [
+            "C4/Semtex",
+            "4d6",
+            "\u0097",
+            "Concussion",
+            "10 ft.",
+            "18",
+            "\u0097",
+            "Small",
+            "1 lb.",
+            "12",
+            "Mil (+3)"
+        ],
+        [
+            "Det cord",
+            "2d6",
+            "\u0097",
+            "Fire",
+            "See text",
+            "12",
+            "\u0097",
+            "Med",
+            "2 lb.",
+            "8",
+            "Res (+2)"
+        ],
+        [
+            "Dynamite",
+            "2d6",
+            "\u0097",
+            "Concussion",
+            "5 ft.",
+            "15",
+            "10 ft.",
+            "Tiny",
+            "1 lb.",
+            "12",
+            "Lic (+1)"
+        ],
+        [
+            "Fragmentation grenade",
+            "4d6",
+            "\u0097",
+            "Slashing",
+            "20 ft.",
+            "15",
+            "10 ft.",
+            "Tiny",
+            "1 lb.",
+            "15",
+            "Mil (+3)"
+        ],
+        [
+            "Smoke grenade",
+            "\u0097",
+            "\u0097",
+            "\u0097",
+            "See text",
+            "\u0097",
+            "10 ft.",
+            "Small",
+            "2 lb.",
+            "10",
+            "\u0097"
+        ],
+        [
+            "Tear gas grenade",
+            "See text",
+            "\u0097",
+            "\u0097",
+            "See text",
+            "\u0097",
+            "10 ft.",
+            "Small",
+            "2 lb.",
+            "12",
+            "Res (+2)"
+        ],
+        [
+            "Thermite grenade",
+            "6d6",
+            "\u0097",
+            "Fire",
+            "5 ft.",
+            "12",
+            "10 ft.",
+            "Small",
+            "2 lb.",
+            "17",
+            "Mil (+3)"
+        ],
+        [
+            "White phosphorus grenade",
+            "2d6",
+            "\u0097",
+            "Fire",
+            "20 ft.",
+            "12",
+            "10 ft.",
+            "Small",
+            "2 lb.",
+            "15",
+            "Mil (+3)"
+        ],
+        [
+            "1 This weapon cannot be purchased as an item; the purchase DC given is for the weapon\u0092s components.  2 Threat range applies to direct hits only; splash damage does not threaten a critical hit."
+        ]
+    ]
+}

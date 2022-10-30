@@ -1,0 +1,88 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Shields"
+        ],
+        [
+            "",
+            "Type",
+            "Shield Bonus",
+            "Nonprof. Bonus",
+            "Max Dex Bonus",
+            "Armor Penalty",
+            "Arcane Spell Failure",
+            "Speed (30 ft.)",
+            "Weight",
+            "Purchase DC",
+            "Restriction"
+        ]
+    ],
+    "rows": [
+        [
+            "Buckler",
+            "Shield",
+            "+1",
+            "+0",
+            "\u0097",
+            "\u00961",
+            "5%",
+            "\u0097",
+            "5 lb.",
+            "9",
+            "\u0097"
+        ],
+        [
+            "Shield, impromptu",
+            "Shield",
+            "+1",
+            "+0",
+            "\u0097",
+            "\u00962",
+            "5%",
+            "\u0097",
+            "varies",
+            "\u0097",
+            "\u0097"
+        ],
+        [
+            "Shield, small",
+            "Shield",
+            "+1",
+            "+0",
+            "\u0097",
+            "\u00961",
+            "5%",
+            "\u0097",
+            "6 lb.",
+            "5",
+            "\u0097"
+        ],
+        [
+            "Shield, large",
+            "Shield",
+            "+2",
+            "+1",
+            "\u0097",
+            "\u00962",
+            "15%",
+            "\u0097",
+            "15 lb.",
+            "7",
+            "\u0097"
+        ],
+        [
+            "Shield, riot",
+            "Shield",
+            "+3",
+            "+1",
+            "\u0097",
+            "\u00961",
+            "30%",
+            "\u0097",
+            "6 lb.",
+            "10",
+            "Res (+2)"
+        ]
+    ]
+}

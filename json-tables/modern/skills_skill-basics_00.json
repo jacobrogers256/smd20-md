@@ -1,0 +1,45 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Table: Skill Points per Level"
+        ],
+        [
+            "Class",
+            "1st Level Skill Points",
+            "Higher Level Skill Points"
+        ]
+    ],
+    "rows": [
+        [
+            "Strong",
+            "(3 + Int modifier) x4",
+            "3 + Int modifier"
+        ],
+        [
+            "Fast",
+            "(5 + Int modifier) x4",
+            "5 + Int modifier"
+        ],
+        [
+            "Tough",
+            "(3 + Int modifier) x4",
+            "3 + Int modifier"
+        ],
+        [
+            "Smart",
+            "(9 + Int modifier) x4",
+            "9 + Int modifier"
+        ],
+        [
+            "Dedicated",
+            "(5 + Int modifier) x4",
+            "5 + Int modifier"
+        ],
+        [
+            "Charismatic",
+            "(7 + Int modifier) x4",
+            "7 + Int modifier"
+        ]
+    ]
+}

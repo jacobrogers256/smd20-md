@@ -1,0 +1,43 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Table: Gunner Autocomps"
+        ],
+        [
+            "Gunner Autocomp",
+            "Attack Bonus",
+            "Purchase DC 1"
+        ]
+    ],
+    "rows": [
+        [
+            "Marksman AI-GA",
+            "\u00962",
+            "15"
+        ],
+        [
+            "Rattlesnake AI-GX",
+            "+0",
+            "18"
+        ],
+        [
+            "Adder AI-G2",
+            "+2",
+            "21"
+        ],
+        [
+            "Deadeye AI-G4",
+            "+4",
+            "24"
+        ],
+        [
+            "Hotshot AI-G8",
+            "+8/+3",
+            "27"
+        ],
+        [
+            "1 Increase the purchase DC by +1 for each additional weapon after the first."
+        ]
+    ]
+}

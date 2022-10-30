@@ -1,0 +1,118 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Table: Languages Of Shadow By Family"
+        ],
+        [
+            "Language",
+            "Typical Speakers",
+            "Alphabet/Family"
+        ]
+    ],
+    "rows": [
+        [
+            "Abyssal",
+            "Outsiders with allegiances to chaos, evil",
+            "Fiendish"
+        ],
+        [
+            "Aquan",
+            "Water-based creatures",
+            "Elven"
+        ],
+        [
+            "Auran",
+            "Air-based creatures",
+            "Draconic"
+        ],
+        [
+            "Celestial",
+            "Creatures with good allegiance",
+            "Celestial"
+        ],
+        [
+            "Common",
+            "Various Shadowkind species",
+            "Common"
+        ],
+        [
+            "Draconic",
+            "Dragons and other reptilian creatures",
+            "Draconic"
+        ],
+        [
+            "Drow Sign Language",
+            "Drow",
+            "None*"
+        ],
+        [
+            "Dwarven",
+            "Dwarves",
+            "Dwarven"
+        ],
+        [
+            "Elven",
+            "Elves, drow, and half-elves",
+            "Elven"
+        ],
+        [
+            "Giant",
+            "Giants, trolls, ogres",
+            "Dwarven"
+        ],
+        [
+            "Gnoll",
+            "Gnolls",
+            "Dwarven"
+        ],
+        [
+            "Gnome",
+            "Gnomes",
+            "Dwarven"
+        ],
+        [
+            "Goblin",
+            "Goblins, bugbears, and other goblinoids",
+            "Dwarven"
+        ],
+        [
+            "Halfling",
+            "Halflings",
+            "Elven"
+        ],
+        [
+            "Ignan",
+            "Fire-based or fire-worshiping creatures",
+            "Draconic"
+        ],
+        [
+            "Infernal",
+            "Outsiders with evil, law allegiances",
+            "Fiendish"
+        ],
+        [
+            "Orc",
+            "Orcs and half-orcs",
+            "Dwarven"
+        ],
+        [
+            "Sylvan",
+            "Forest-dwelling creatures and fey",
+            "Elven"
+        ],
+        [
+            "Terran",
+            "Earth-based creatures",
+            "Dwarven"
+        ],
+        [
+            "Undertongue",
+            "Subterranean creatures",
+            "Elven"
+        ],
+        [
+            "*See the Footnote on Sign Languages."
+        ]
+    ]
+}

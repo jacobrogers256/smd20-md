@@ -1,0 +1,242 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Object",
+            "Size",
+            "Weight",
+            "Purchase DC",
+            "Restriction"
+        ]
+    ],
+    "rows": [
+        [
+            "Bolt cutter",
+            "Med",
+            "5 lb.",
+            "6",
+            "\u0097"
+        ],
+        [
+            "Caltrops (25)",
+            "Small",
+            "2 lb.",
+            "5",
+            "\u0097"
+        ],
+        [
+            "Chemical kit",
+            "Med",
+            "6 lb.",
+            "16",
+            "\u0097"
+        ],
+        [
+            "Demolitions kit",
+            "Med",
+            "5 lb.",
+            "13",
+            "Lic (+1)"
+        ],
+        [
+            "Disguise kit",
+            "Med",
+            "5 lb.",
+            "12",
+            "\u0097"
+        ],
+        [
+            "Duct tape",
+            "Tiny",
+            "1 lb.",
+            "3",
+            "\u0097"
+        ],
+        [
+            "Electrical tool kit"
+        ],
+        [
+            "Basic",
+            "Large",
+            "12 lb.",
+            "14",
+            "\u0097"
+        ],
+        [
+            "Deluxe",
+            "Huge",
+            "33 lb.",
+            "21",
+            "\u0097"
+        ],
+        [
+            "Evidence kit"
+        ],
+        [
+            "Basic",
+            "Med",
+            "6 lb.",
+            "7",
+            "\u0097"
+        ],
+        [
+            "Deluxe",
+            "Med",
+            "8 lb.",
+            "15",
+            "\u0097"
+        ],
+        [
+            "Fake ID",
+            "Fine",
+            "\u0097",
+            "See text",
+            "Illegal (+4)"
+        ],
+        [
+            "First aid kit",
+            "Small",
+            "3 lb.",
+            "5",
+            "\u0097"
+        ],
+        [
+            "Forgery kit",
+            "Small",
+            "3 lb.",
+            "12",
+            "\u0097"
+        ],
+        [
+            "Handcuffs"
+        ],
+        [
+            "Steel",
+            "Tiny",
+            "1 lb.",
+            "7",
+            "\u0097"
+        ],
+        [
+            "Zip-tie (25)",
+            "Dim",
+            "0.5 lb.",
+            "6",
+            "\u0097"
+        ],
+        [
+            "Instruments"
+        ],
+        [
+            "Instrument, keyboard",
+            "Large",
+            "12 lb.",
+            "12",
+            "\u0097"
+        ],
+        [
+            "Instrument, percussion",
+            "Huge",
+            "50 lb.",
+            "14",
+            "\u0097"
+        ],
+        [
+            "Instrument, stringed",
+            "Large",
+            "7 lb.",
+            "13",
+            "\u0097"
+        ],
+        [
+            "Instrument, wind",
+            "Tiny",
+            "1 lb.",
+            "8",
+            "\u0097"
+        ],
+        [
+            "Lockpicks"
+        ],
+        [
+            "Car opening kit",
+            "Tiny",
+            "1 lb.",
+            "6",
+            "Lic (+1)"
+        ],
+        [
+            "Lockpick set",
+            "Tiny",
+            "1 lb.",
+            "9",
+            "Lic (+1)"
+        ],
+        [
+            "Lock release gun",
+            "Tiny",
+            "0.5 lb.",
+            "12",
+            "Res (+2)"
+        ],
+        [
+            "Mechanical tool kit"
+        ],
+        [
+            "Basic",
+            "Large",
+            "22 lb.",
+            "13",
+            "\u0097"
+        ],
+        [
+            "Deluxe",
+            "Huge",
+            "45 lb.",
+            "20",
+            "\u0097"
+        ],
+        [
+            "Medical kit",
+            "Med",
+            "5 lb.",
+            "15",
+            "\u0097"
+        ],
+        [
+            "Multipurpose tool",
+            "Tiny",
+            "0.5 lb.",
+            "9",
+            "\u0097"
+        ],
+        [
+            "Pharmacist kit",
+            "Med",
+            "6 lb.",
+            "17",
+            "Res (+2)"
+        ],
+        [
+            "Search-and-rescue kit",
+            "Med",
+            "7 lb.",
+            "12",
+            "\u0097"
+        ],
+        [
+            "Spike strip",
+            "Huge",
+            "22 lb.",
+            "13",
+            "\u0097"
+        ],
+        [
+            "Surgery kit",
+            "Med",
+            "5 lb.",
+            "16",
+            "Lic (+1)"
+        ]
+    ]
+}

@@ -1,0 +1,118 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Table: Civilian Hovervehicles"
+        ],
+        [
+            "Name",
+            "Crew",
+            "Pass",
+            "Cargo",
+            "Init",
+            "Maneuver",
+            "Top Speed",
+            "Defense",
+            "Hard",
+            "Hit Points",
+            "Size",
+            "Purchase DC",
+            "Restriction"
+        ],
+        [
+            "Progress Level 7: Gravity Age"
+        ]
+    ],
+    "rows": [
+        [
+            "AD-Bright police cruiser",
+            "1",
+            "4",
+            "L",
+            "\u00962",
+            "+0",
+            "245 (24)",
+            "8",
+            "5",
+            "32",
+            "H",
+            "38",
+            "Res (+2)"
+        ],
+        [
+            "AutoDyn hoverbike",
+            "1",
+            "1",
+            "D",
+            "+1",
+            "+2",
+            "410 (41)",
+            "10",
+            "5",
+            "15",
+            "M",
+            "37",
+            "Lic (+1)"
+        ],
+        [
+            "AutoDyn hoverbus",
+            "1",
+            "38",
+            "H",
+            "\u00964",
+            "\u00964",
+            "160 (16)",
+            "6",
+            "5",
+            "45",
+            "G",
+            "45",
+            "Lic (+1)"
+        ],
+        [
+            "AutoDyn hovercar",
+            "1",
+            "4",
+            "L",
+            "\u00961",
+            "+0",
+            "250 (25)",
+            "9",
+            "5",
+            "28",
+            "L",
+            "36",
+            "Lic (+1)"
+        ],
+        [
+            "AutoDyn hovertruck",
+            "1",
+            "1",
+            "H",
+            "\u00963",
+            "\u00964",
+            "180 (18)",
+            "6",
+            "8",
+            "35",
+            "G",
+            "42",
+            "Lic (+1)"
+        ],
+        [
+            "HydroDyn SeaHawk",
+            "1",
+            "3",
+            "S",
+            "\u00962",
+            "+0",
+            "160 (16)",
+            "9",
+            "5",
+            "30",
+            "L",
+            "36",
+            "Lic (+1)"
+        ]
+    ]
+}

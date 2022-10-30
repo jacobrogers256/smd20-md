@@ -1,0 +1,31 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Narrow Surface",
+            "DC*",
+            "Difficult Surface",
+            "DC"
+        ]
+    ],
+    "rows": [
+        [
+            "7\u009612 in. wide",
+            "10",
+            "Uneven or angled",
+            "10"
+        ],
+        [
+            "2\u00966 in. wide",
+            "15",
+            "Slippery surface",
+            "10"
+        ],
+        [
+            "Less than 2 in. wide",
+            "20",
+            "",
+            ""
+        ]
+    ]
+}

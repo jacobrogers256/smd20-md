@@ -1,0 +1,37 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Repair Task (Example)",
+            "Purchase DC",
+            "Repair DC",
+            "Time"
+        ]
+    ],
+    "rows": [
+        [
+            "Simple (tool, simple weapon)",
+            "4",
+            "10",
+            "1 min."
+        ],
+        [
+            "Moderate (mechanical or electronic component)",
+            "7",
+            "15",
+            "10 min."
+        ],
+        [
+            "Complex (mechanical or electronic device)",
+            "10",
+            "20",
+            "1 hr."
+        ],
+        [
+            "Advanced (cutting-edge mechanical or electronic device)",
+            "13",
+            "25",
+            "10 hr."
+        ]
+    ]
+}

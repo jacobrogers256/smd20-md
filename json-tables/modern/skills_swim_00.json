@@ -1,0 +1,23 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Water",
+            "DC"
+        ]
+    ],
+    "rows": [
+        [
+            "Calm water",
+            "10"
+        ],
+        [
+            "Rough water",
+            "15"
+        ],
+        [
+            "Stormy water",
+            "20"
+        ]
+    ]
+}

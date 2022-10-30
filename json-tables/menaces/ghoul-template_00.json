@@ -1,0 +1,57 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Size",
+            "Bite Damage",
+            "Claw Damage"
+        ]
+    ],
+    "rows": [
+        [
+            "Fine",
+            "1",
+            "\u0097"
+        ],
+        [
+            "Diminutive",
+            "1d2",
+            "\u0097"
+        ],
+        [
+            "Tiny",
+            "1d3",
+            "1"
+        ],
+        [
+            "Small",
+            "1d4",
+            "1d2"
+        ],
+        [
+            "Medium-size",
+            "1d6",
+            "1d3"
+        ],
+        [
+            "Large",
+            "1d8",
+            "1d4"
+        ],
+        [
+            "Huge",
+            "2d6",
+            "1d6"
+        ],
+        [
+            "Gargantuan",
+            "2d8",
+            "2d4"
+        ],
+        [
+            "Colossal",
+            "4d6",
+            "2d6"
+        ]
+    ]
+}

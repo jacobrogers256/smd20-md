@@ -1,0 +1,69 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Table: Superstructure Materials"
+        ],
+        [
+            "---- Modified Base Purchase DC ----"
+        ],
+        [
+            "Superstructure Material",
+            "Hardness",
+            "Large",
+            "Huge",
+            "Gargantuan",
+            "Colossal"
+        ]
+    ],
+    "rows": [
+        [
+            "Alumisteel (PL 5)",
+            "10",
+            "36",
+            "40",
+            "44",
+            "56"
+        ],
+        [
+            "Duralloy (PL 6)",
+            "15",
+            "40",
+            "44",
+            "48",
+            "60"
+        ],
+        [
+            "Vanadium (PL 6)",
+            "20",
+            "44",
+            "48",
+            "52",
+            "64"
+        ],
+        [
+            "Neovulcanium (PL 7)",
+            "20",
+            "40",
+            "44",
+            "48",
+            "60"
+        ],
+        [
+            "Neutronite (PL 7)",
+            "25",
+            "44",
+            "48",
+            "52",
+            "64"
+        ],
+        [
+            "Megatanium (PL 8)",
+            "30",
+            "40",
+            "40",
+            "48",
+            "60"
+        ]
+    ]
+}

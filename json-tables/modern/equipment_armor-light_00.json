@@ -1,0 +1,79 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Name",
+            "Type",
+            "Equipment Bonus",
+            "Nonprof. Bonus",
+            "Maximum Dex Bonus",
+            "Armor Penalty",
+            "Speed (30 ft.)",
+            "Weight",
+            "Purchase DC",
+            "Restriction"
+        ]
+    ],
+    "rows": [
+        [
+            "Leather jacket",
+            "Impromptu",
+            "+1",
+            "+1",
+            "+8",
+            "\u00960",
+            "30",
+            "4 lb.",
+            "10",
+            "\u0097"
+        ],
+        [
+            "Leather armor",
+            "Archaic",
+            "+2",
+            "+1",
+            "+6",
+            "\u00960",
+            "30",
+            "15 lb.",
+            "12",
+            "\u0097"
+        ],
+        [
+            "Light undercover shirt",
+            "Concealable",
+            "+2",
+            "+1",
+            "+7",
+            "\u00960",
+            "30",
+            "2 lb.",
+            "13",
+            "Lic (+1)"
+        ],
+        [
+            "Pull-up pouch vest",
+            "Concealable",
+            "+2",
+            "+1",
+            "+6",
+            "\u00961",
+            "30",
+            "2 lb.",
+            "13",
+            "Lic (+1)"
+        ],
+        [
+            "Undercover vest",
+            "Concealable",
+            "+3",
+            "+1",
+            "+5",
+            "\u00962",
+            "30",
+            "3 lb.",
+            "14",
+            "Lic (+1)"
+        ]
+    ]
+}

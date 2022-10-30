@@ -1,0 +1,35 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Unfamiliar Item",
+            "DC"
+        ]
+    ],
+    "rows": [
+        [
+            "Basic tool or instrument",
+            "10"
+        ],
+        [
+            "Robotic or vehicular component",
+            "15"
+        ],
+        [
+            "Cybernetic attachment",
+            "20"
+        ],
+        [
+            "Alien weapon or nanotechnology",
+            "25"
+        ],
+        [
+            "Alien artifact",
+            "30"
+        ],
+        [
+            "Each step in Progress Level (up or down)",
+            "+5"
+        ]
+    ]
+}

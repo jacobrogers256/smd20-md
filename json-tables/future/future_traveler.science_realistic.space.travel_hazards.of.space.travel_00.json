@@ -1,0 +1,113 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Table: Meteoroid Encounters"
+        ],
+        [
+            "d% Roll",
+            "Meteoroid Size",
+            "Collision Damage 1",
+            "Computer Use Check DC",
+            "Pilot Check DC",
+            "Defense",
+            "Hardness",
+            "Hit Points"
+        ]
+    ],
+    "rows": [
+        [
+            "01\u009675",
+            "No meteoroid",
+            "\u0097",
+            "\u0097",
+            "\u0097",
+            "\u0097",
+            "\u0097",
+            "\u0097"
+        ],
+        [
+            "76\u009680",
+            "Diminutive",
+            "1d6",
+            "35",
+            "5",
+            "9",
+            "8",
+            "15"
+        ],
+        [
+            "81\u009685",
+            "Tiny",
+            "2d6",
+            "30",
+            "10",
+            "7",
+            "8",
+            "30"
+        ],
+        [
+            "86\u009688",
+            "Small",
+            "3d6",
+            "25",
+            "15",
+            "6",
+            "8",
+            "90"
+        ],
+        [
+            "89\u009691",
+            "Medium-size",
+            "4d6",
+            "20",
+            "20",
+            "5",
+            "8",
+            "225"
+        ],
+        [
+            "92\u009694",
+            "Large",
+            "1d6x5",
+            "15",
+            "25",
+            "4",
+            "8",
+            "1,125"
+        ],
+        [
+            "95\u009697",
+            "Huge",
+            "3d6x5",
+            "10",
+            "30",
+            "3",
+            "8",
+            "4,500"
+        ],
+        [
+            "98\u009699",
+            "Gargantuan",
+            "6d6x5",
+            "5",
+            "35",
+            "1",
+            "8",
+            "9,000"
+        ],
+        [
+            "100",
+            "Colossal",
+            "12d6x5",
+            "0",
+            "40",
+            "\u00963",
+            "8",
+            "36,000"
+        ],
+        [
+            "1 Both the meteoroid and the object it strikes take damage from the collision."
+        ]
+    ]
+}

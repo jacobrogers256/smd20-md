@@ -1,0 +1,40 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Table: Progress Level 7 Ammunition Types"
+        ],
+        [
+            "Ammunition (Quantity)",
+            "Damage Type",
+            "Purchase DC",
+            "Restriction"
+        ]
+    ],
+    "rows": [
+        [
+            "Deflecting (20)",
+            "Ballistic",
+            "12",
+            "Lic (+1)"
+        ],
+        [
+            "Plasma-coated (20)",
+            "Ballistic/Fire",
+            "13",
+            "Res (+2)"
+        ],
+        [
+            "Rail gun shards (20)",
+            "Ballistic",
+            "10",
+            "\u0097"
+        ],
+        [
+            "Seeker (20)",
+            "Ballistic",
+            "15",
+            "Res (+2)"
+        ]
+    ]
+}

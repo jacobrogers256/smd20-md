@@ -1,0 +1,30 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Object or Service Purchase DC",
+            "Wealth Bonus Decrease"
+        ]
+    ],
+    "rows": [
+        [
+            "15 or higher",
+            "+1 point 1"
+        ],
+        [
+            "1\u009610 points higher than current Wealth bonus",
+            "1 point"
+        ],
+        [
+            "11\u009615 points higher than current Wealth bonus",
+            "1d6 points"
+        ],
+        [
+            "16 or more points higher than current Wealth\nBonus .",
+            "2d6 points"
+        ],
+        [
+            "1 This stacks with the loss from a Purchase DC above the character\u0092s current wealth\nbonus ."
+        ]
+    ]
+}

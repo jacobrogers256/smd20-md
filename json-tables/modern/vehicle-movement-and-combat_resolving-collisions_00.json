@@ -1,0 +1,30 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Table: Collision Damage"
+        ],
+        [
+            "Highest Speed",
+            "Damage Die Type"
+        ]
+    ],
+    "rows": [
+        [
+            "Alley speed",
+            "d2"
+        ],
+        [
+            "Street speed",
+            "d4"
+        ],
+        [
+            "Highway speed",
+            "d8"
+        ],
+        [
+            "All-out",
+            "d12"
+        ]
+    ]
+}

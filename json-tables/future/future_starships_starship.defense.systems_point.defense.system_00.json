@@ -1,0 +1,40 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Table: Point-Defense Systems"
+        ],
+        [
+            "Starship Type",
+            "Point-Defense Damage",
+            "Purchase DC"
+        ]
+    ],
+    "rows": [
+        [
+            "Ultralight",
+            "1d12\u00d710",
+            "31"
+        ],
+        [
+            "Light",
+            "2d12\u00d710",
+            "34"
+        ],
+        [
+            "Mediumweight",
+            "3d12\u00d710",
+            "36"
+        ],
+        [
+            "Heavy",
+            "4d12\u00d710",
+            "38"
+        ],
+        [
+            "Superheavy",
+            "5d12\u00d710",
+            "40"
+        ]
+    ]
+}

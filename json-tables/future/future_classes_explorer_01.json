@@ -1,0 +1,35 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Table: Explorer Lore"
+        ],
+        [
+            "DC",
+            "Type of Knowledge",
+            "Examples"
+        ]
+    ],
+    "rows": [
+        [
+            "10",
+            "Common, known by at least a substantial minority of the local population.",
+            "A local official\u0092s hobbies and interests; common legends or rumors about a powerful place of mystery."
+        ],
+        [
+            "20",
+            "Uncommon but available, known by only a few people in the area.",
+            "The coordinates of an known but uncharted world; legends or rumors about a powerful psionic artifact."
+        ],
+        [
+            "25",
+            "Obscure, known by few, hard to come by.",
+            "The customs of a documented alien species; the true homeworld of an ancient royal dynasty."
+        ],
+        [
+            "30",
+            "Extremely obscure, known by very few, possibly forgotten by most who once knew it, possibly known only by those who don\u0092t understand the knowledge\u0092s significance.",
+            "The most likely location of a long-lost pharaoh\u0092s tomb; the history of a powerful artifact and its creator; the likely coordinates of a fabled but as-yet-undiscovered planet."
+        ]
+    ]
+}

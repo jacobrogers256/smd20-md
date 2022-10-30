@@ -1,0 +1,23 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Condition",
+            "DC Modifier"
+        ]
+    ],
+    "rows": [
+        [
+            "Every three creatures in the group being sought",
+            "\u00961"
+        ],
+        [
+            "Every 24 hours the quarry has been missing or sought",
+            "+1"
+        ],
+        [
+            "Tracked quarry \u0093lies low\u0094",
+            "+5"
+        ]
+    ]
+}

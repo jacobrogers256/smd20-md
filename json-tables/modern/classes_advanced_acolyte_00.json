@@ -1,0 +1,120 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Table: The Acolyte"
+        ],
+        [
+            "Class Level",
+            "Base Attack Bonus",
+            "Fort Save",
+            "Ref Save",
+            "Will Save",
+            "Class Features",
+            "Defense Bonus",
+            "Reputation Bonus"
+        ]
+    ],
+    "rows": [
+        [
+            "1st",
+            "+0",
+            "+2",
+            "+0",
+            "+2",
+            "Divine skills, divine spells",
+            "+1",
+            "+2"
+        ],
+        [
+            "2nd",
+            "+1",
+            "+3",
+            "+0",
+            "+3",
+            "Turn or rebuke undead, divine spells",
+            "+1",
+            "+2"
+        ],
+        [
+            "3rd",
+            "+2",
+            "+3",
+            "+1",
+            "+3",
+            "Bonus feat, divine spells",
+            "+2",
+            "+2"
+        ],
+        [
+            "4th",
+            "+3",
+            "+4",
+            "+1",
+            "+4",
+            "Spontaneous cast, divine spells",
+            "+2",
+            "+3"
+        ],
+        [
+            "5th",
+            "+3",
+            "+4",
+            "+1",
+            "+4",
+            "Combat casting, divine spells",
+            "+3",
+            "+3"
+        ],
+        [
+            "6th",
+            "+4",
+            "+5",
+            "+2",
+            "+5",
+            "Bonus feat, divine spells",
+            "+3",
+            "+3"
+        ],
+        [
+            "7th",
+            "+5",
+            "+5",
+            "+2",
+            "+5",
+            "Turn or rebuke magical beast, divine spells",
+            "+4",
+            "+4"
+        ],
+        [
+            "8th",
+            "+6",
+            "+6",
+            "+2",
+            "+6",
+            "Turn or rebuke outsider, divine spells",
+            "+4",
+            "+4"
+        ],
+        [
+            "9th",
+            "+6",
+            "+6",
+            "+3",
+            "+6",
+            "Bonus feat, divine spells",
+            "+5",
+            "+4"
+        ],
+        [
+            "10th",
+            "+7",
+            "+7",
+            "+3",
+            "+7",
+            "Maximize spell, divine spells",
+            "+5",
+            "+5"
+        ]
+    ]
+}

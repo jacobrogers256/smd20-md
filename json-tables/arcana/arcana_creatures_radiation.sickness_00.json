@@ -1,0 +1,84 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Table: Radiation Exposure"
+        ],
+        [
+            "",
+            "-Time of Exposure-"
+        ],
+        [
+            "Situation",
+            "1 rnd",
+            "1 min",
+            "10 min",
+            "1 hr",
+            "1 day"
+        ],
+        [
+            "Character in irradiated area:"
+        ],
+        [
+            "Character exposed to radiation source:"
+        ]
+    ],
+    "rows": [
+        [
+            "Lightly irradiated",
+            "mild",
+            "mild",
+            "mild",
+            "mild",
+            "mild"
+        ],
+        [
+            "Moderately irradiated",
+            "mild",
+            "mild",
+            "low",
+            "low",
+            "low"
+        ],
+        [
+            "Highly irradiated",
+            "low",
+            "low",
+            "moderate",
+            "moderate",
+            "moderate"
+        ],
+        [
+            "Severely irradiated",
+            "moderate",
+            "moderate",
+            "high",
+            "high",
+            "severe"
+        ],
+        [
+            "Mildly radioactive materials",
+            "mild",
+            "mild",
+            "low",
+            "low",
+            "low"
+        ],
+        [
+            "Highly radioactive materials",
+            "moderate",
+            "moderate",
+            "high",
+            "high",
+            "severe"
+        ],
+        [
+            "Severely radioactive materials",
+            "moderate",
+            "high",
+            "severe",
+            "severe",
+            "severe"
+        ]
+    ]
+}

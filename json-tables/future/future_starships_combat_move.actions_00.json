@@ -1,0 +1,37 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Table: Collision Damage"
+        ],
+        [
+            "Size of Smaller Ship or Object",
+            "Collision Damage 1"
+        ]
+    ],
+    "rows": [
+        [
+            "Colossal",
+            "12d6\u00d710"
+        ],
+        [
+            "Gargantuan",
+            "6d6\u00d710"
+        ],
+        [
+            "Huge",
+            "3d6\u00d710"
+        ],
+        [
+            "Large",
+            "1d6\u00d710"
+        ],
+        [
+            "Medium-size or smaller",
+            "\u0097"
+        ],
+        [
+            "1 Damage is applied to the ramming starship and its target."
+        ]
+    ]
+}

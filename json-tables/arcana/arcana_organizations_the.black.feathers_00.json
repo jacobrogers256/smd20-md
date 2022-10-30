@@ -1,0 +1,31 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Roll",
+            "Result"
+        ]
+    ],
+    "rows": [
+        [
+            "2",
+            "Item unavailable"
+        ],
+        [
+            "3\u00965",
+            "1 dose of item available"
+        ],
+        [
+            "6\u00968",
+            "1d3 doses of item available"
+        ],
+        [
+            "9\u009611",
+            "1d6 doses of item available"
+        ],
+        [
+            "12",
+            "unlimited supply of item available"
+        ]
+    ]
+}

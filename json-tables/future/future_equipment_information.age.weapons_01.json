@@ -1,0 +1,39 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Table: Progress Level 5 Explosives And Splash Weapons"
+        ]
+    ],
+    "rows": [
+        [
+            "Grenade, shrapnel",
+            "5d6",
+            "\u0097",
+            "Slashing",
+            "20 ft.",
+            "15",
+            "10 ft.",
+            "Tiny",
+            "1 lb.",
+            "18",
+            "Mil (+3)"
+        ],
+        [
+            "Grenade, sonic pulse",
+            "3d6 nonlethal plus special 1",
+            "\u0097",
+            "Sonic",
+            "15 ft.",
+            "12",
+            "10 ft.",
+            "Tiny",
+            "1 lb.",
+            "15",
+            "Res (+2)"
+        ],
+        [
+            "1 See the weapon description for details."
+        ]
+    ]
+}

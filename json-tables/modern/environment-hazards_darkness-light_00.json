@@ -1,0 +1,38 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Table: Light Sources"
+        ],
+        [
+            "Item",
+            "Light",
+            "Duration"
+        ]
+    ],
+    "rows": [
+        [
+            "Candle",
+            "5 feet",
+            "12 hours"
+        ],
+        [
+            "Torch",
+            "20 feet",
+            "2 hours"
+        ],
+        [
+            "Halogen lantern",
+            "40 feet",
+            "24 hours"
+        ],
+        [
+            "Flashlight",
+            "20 feet*",
+            "6 hours"
+        ],
+        [
+            "*Creates a beam 30 feet long and 5 feet high."
+        ]
+    ]
+}

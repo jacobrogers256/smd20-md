@@ -1,0 +1,50 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Table: Size Modifiers"
+        ],
+        [
+            "Size",
+            "Size Modifier"
+        ]
+    ],
+    "rows": [
+        [
+            "Colossal",
+            "\u00968"
+        ],
+        [
+            "Gargantuan",
+            "\u00964"
+        ],
+        [
+            "Huge",
+            "\u00962"
+        ],
+        [
+            "Large",
+            "\u00961"
+        ],
+        [
+            "Medium-size",
+            "+0"
+        ],
+        [
+            "Small",
+            "+1"
+        ],
+        [
+            "Tiny",
+            "+2"
+        ],
+        [
+            "Diminutive",
+            "+4"
+        ],
+        [
+            "Fine",
+            "+8"
+        ]
+    ]
+}

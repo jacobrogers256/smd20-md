@@ -1,0 +1,27 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "d10 Roll",
+            "Behavior"
+        ]
+    ],
+    "rows": [
+        [
+            "1",
+            "Wander away for 1 minute (unless prevented)"
+        ],
+        [
+            "2\u00966",
+            "Do nothing for 1 round"
+        ],
+        [
+            "7\u00969",
+            "Attack nearest creature for 1 round"
+        ],
+        [
+            "10",
+            "Act normally for 1 round"
+        ]
+    ]
+}

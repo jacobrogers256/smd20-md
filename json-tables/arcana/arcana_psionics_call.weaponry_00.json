@@ -1,0 +1,37 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Level",
+            "Weapons",
+            "Example",
+            "Power Points"
+        ]
+    ],
+    "rows": [
+        [
+            "1\u00963",
+            "Simple melee",
+            "Knife",
+            "1"
+        ],
+        [
+            "4\u00966",
+            "Handgun",
+            "Colt Python",
+            "3"
+        ],
+        [
+            "7\u00969",
+            "SMG, rifle, shotgun",
+            "Winchester 94",
+            "7"
+        ],
+        [
+            "10",
+            "Exotic or Archaic melee",
+            "Katana",
+            "11"
+        ]
+    ]
+}

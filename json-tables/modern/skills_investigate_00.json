@@ -1,0 +1,31 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Circumstances",
+            "DC Modifier"
+        ]
+    ],
+    "rows": [
+        [
+            "Every day since event (max modifier +10)",
+            "+2"
+        ],
+        [
+            "Scene is outdoors",
+            "+5"
+        ],
+        [
+            "Scene slightly disturbed",
+            "+2"
+        ],
+        [
+            "Scene moderately disturbed",
+            "+4"
+        ],
+        [
+            "Scene extremely disturbed",
+            "+6"
+        ]
+    ]
+}

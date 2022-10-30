@@ -1,0 +1,91 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Table: Civilian Trucks"
+        ],
+        [
+            "Name",
+            "Crew",
+            "Pass",
+            "Cargo",
+            "Init",
+            "Maneuver",
+            "Top Speed",
+            "Defense",
+            "Hard",
+            "Hit Points",
+            "Size",
+            "Purchase DC",
+            "Restriction"
+        ],
+        [
+            "Progress Level 6: Fusion Age"
+        ],
+        [
+            "Progress Level 7: Gravity Age"
+        ]
+    ],
+    "rows": [
+        [
+            "Cretan Motors \u0093Hecaton\u0094",
+            "1",
+            "4",
+            "H",
+            "\u00961",
+            "\u00961",
+            "190 (19)",
+            "6",
+            "5",
+            "39",
+            "G",
+            "31",
+            "Lic (+1)"
+        ],
+        [
+            "Cretan Motors Kentaur",
+            "1",
+            "3",
+            "L",
+            "\u00961",
+            "+0",
+            "210 (21)",
+            "8",
+            "5",
+            "36",
+            "H",
+            "30",
+            "Lic (+1)"
+        ],
+        [
+            "Gaia Motor Company Virgo",
+            "1",
+            "6",
+            "M",
+            "\u00962",
+            "\u00962",
+            "215 (21)",
+            "8",
+            "5",
+            "35",
+            "H",
+            "29",
+            "Lic (+1)"
+        ],
+        [
+            "Zhang Motors XRL (SUV)",
+            "1",
+            "3",
+            "L",
+            "\u00962",
+            "\u00961",
+            "245 (24)",
+            "8",
+            "5",
+            "40",
+            "H",
+            "32",
+            "Lic (+1)"
+        ]
+    ]
+}

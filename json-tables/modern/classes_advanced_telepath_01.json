@@ -1,0 +1,27 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Task",
+            "DC"
+        ]
+    ],
+    "rows": [
+        [
+            "Resist fear",
+            "15"
+        ],
+        [
+            "Memorize",
+            "15"
+        ],
+        [
+            "Tolerate poison",
+            "Poison\u0092s DC"
+        ],
+        [
+            "Willpower",
+            "20"
+        ]
+    ]
+}

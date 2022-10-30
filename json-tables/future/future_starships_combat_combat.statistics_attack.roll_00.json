@@ -1,0 +1,45 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Table: Starship Sizes"
+        ],
+        [
+            "Starship Size",
+            "Starship\u0092s Size Modifier 1",
+            "Targeting System\u0092s Equipment Bonus 2",
+            "Autopilot System\u0092s Equipment Bonus 3",
+            "Starship\u0092s Length",
+            "Starship\u0092s Weight"
+        ]
+    ],
+    "rows": [
+        [
+            "Colossal",
+            "\u00968",
+            "+3",
+            "+3",
+            "64 ft. or more",
+            "250,000 lb. or more"
+        ],
+        [
+            "Gargantuan",
+            "\u00964",
+            "+2",
+            "+2",
+            "32\u009664 ft.",
+            "32,000\u0096250,000 lb."
+        ],
+        [
+            "Huge",
+            "\u00962",
+            "+1",
+            "+1",
+            "Less than 32 ft. 4",
+            ",000\u009632,000 lb."
+        ],
+        [
+            "1 A starship applies its size modifier on all attack rolls and to its Defense.  2 A starship applies its targeting system\u0092s equipment bonus on all attack rolls.  3 A starship on autopilot applies its autopilot system\u0092s equipment bonus to its Defense."
+        ]
+    ]
+}

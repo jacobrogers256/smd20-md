@@ -1,0 +1,22 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Table: Progress Level 8 Ammunition Types"
+        ],
+        [
+            "Ammunition (Quantity)",
+            "Damage Type",
+            "Purchase DC",
+            "Restriction"
+        ]
+    ],
+    "rows": [
+        [
+            "Phasing (20)",
+            "Ballistic",
+            "16",
+            "Res (+2)"
+        ]
+    ]
+}

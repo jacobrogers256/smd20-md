@@ -1,0 +1,99 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "d%",
+            "Special Ability"
+        ]
+    ],
+    "rows": [
+        [
+            "01\u009605",
+            "Item can Sense Motive (10 ranks)"
+        ],
+        [
+            "06\u009610",
+            "Wielder has free use of Combat Reflexes"
+        ],
+        [
+            "11\u009615",
+            "Wielder has free use of Blind-Fight"
+        ],
+        [
+            "16\u009620",
+            "Wielder has free use of Improved Initiative"
+        ],
+        [
+            "21\u009625",
+            "Wielder has free use of Dodge"
+        ],
+        [
+            "26\u009630",
+            "Wielder has free use of Mobility"
+        ],
+        [
+            "31\u009635",
+            "Detect magical aura at will"
+        ],
+        [
+            "36\u009640",
+            "Detect psionics at will"
+        ],
+        [
+            "41\u009645",
+            "Wielder gains the evasion ability"
+        ],
+        [
+            "46\u009650",
+            "Wielder can see invisible at will"
+        ],
+        [
+            "51\u009655",
+            "Cure light wounds (1d8+5) on wielder 1/day"
+        ],
+        [
+            "56\u009660",
+            "Feather fall on wielder 1/day"
+        ],
+        [
+            "61\u009665",
+            "Wielder does not need to sleep"
+        ],
+        [
+            "66\u009670",
+            "Wielder does not need to breathe"
+        ],
+        [
+            "71\u009675",
+            "Spider climb for 20 minutes on wielder 1/day"
+        ],
+        [
+            "76\u009680",
+            "Charm person (DC 11) on contact 3/day"
+        ],
+        [
+            "81\u009685",
+            "Shield on wielder 3/day"
+        ],
+        [
+            "86\u009688",
+            "Invisibility (wielder only, up to 30 minutes per use) 3/day"
+        ],
+        [
+            "89\u009691",
+            "Fly (30 minutes per use) 2/day"
+        ],
+        [
+            "92\u009694",
+            "Heal"
+        ],
+        [
+            "95\u009697",
+            "True seeing at will"
+        ],
+        [
+            "98\u009600",
+            "Passwall 3/day"
+        ]
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Special Quality",
+            "CR Modifier"
+        ]
+    ],
+    "rows": [
+        [
+            "Acidic blood",
+            "+1/3"
+        ],
+        [
+            "Blindsight",
+            "+1/3"
+        ],
+        [
+            "Breath weapon",
+            "+2/3"
+        ],
+        [
+            "Damage reduction 5/\u0096",
+            "+2/3"
+        ],
+        [
+            "Death cloud",
+            "+2/3"
+        ],
+        [
+            "Energy resistance 10",
+            "+1/3"
+        ],
+        [
+            "Fast healing 5",
+            "+2/3"
+        ],
+        [
+            "Improved natural armor",
+            "+1/3"
+        ],
+        [
+            "Poisonous bite",
+            "+2/3"
+        ],
+        [
+            "Power resistance",
+            "+1/3"
+        ],
+        [
+            "Psionics",
+            "+1/3"
+        ],
+        [
+            "Scent",
+            "+1/3"
+        ]
+    ]
+}

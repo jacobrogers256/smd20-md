@@ -1,0 +1,31 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Check Result Difference",
+            "Wealth Bonus Increase"
+        ]
+    ],
+    "rows": [
+        [
+            "1\u00969",
+            "+1"
+        ],
+        [
+            "10\u009619",
+            "+2"
+        ],
+        [
+            "20\u009629",
+            "+3"
+        ],
+        [
+            "30-39",
+            "+4"
+        ],
+        [
+            "40 or more",
+            "+5"
+        ]
+    ]
+}

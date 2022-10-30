@@ -1,0 +1,23 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Robot\u0092s Frame Size",
+            "Manipulators"
+        ]
+    ],
+    "rows": [
+        [
+            "Medium-size or smaller",
+            "Up to 2"
+        ],
+        [
+            "Large",
+            "Up to 4"
+        ],
+        [
+            "Huge or larger",
+            "Up to 8"
+        ]
+    ]
+}

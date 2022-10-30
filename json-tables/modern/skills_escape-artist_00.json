@@ -1,0 +1,31 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Restraint",
+            "DC"
+        ]
+    ],
+    "rows": [
+        [
+            "Ropes",
+            "Opponent\u0092s Dex check +20"
+        ],
+        [
+            "Net",
+            "20"
+        ],
+        [
+            "Handcuffs",
+            "35"
+        ],
+        [
+            "Tight space",
+            "30"
+        ],
+        [
+            "Grappler",
+            "Opponent\u0092s grapple check"
+        ]
+    ]
+}

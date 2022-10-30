@@ -1,0 +1,35 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Table: Crew Improvement"
+        ],
+        [
+            "Crew Quality",
+            "Length of Tour of Duty",
+            "Starship Battles Survived"
+        ]
+    ],
+    "rows": [
+        [
+            "Untrained",
+            "0\u00965 months",
+            "0"
+        ],
+        [
+            "Trained",
+            "6\u009611 months",
+            "0\u00963"
+        ],
+        [
+            "Expert",
+            "12\u009635 months",
+            "4\u009611"
+        ],
+        [
+            "Ace",
+            "3 years or more",
+            "12+"
+        ]
+    ]
+}

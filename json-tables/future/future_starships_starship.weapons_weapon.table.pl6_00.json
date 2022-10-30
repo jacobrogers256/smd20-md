@@ -1,0 +1,156 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Table: Starship Weapons"
+        ],
+        [
+            "Weapon",
+            "Damage",
+            "Critical",
+            "Damage Type",
+            "Range Increment",
+            "Rate of Fire",
+            "Minimum Ship Size",
+            "Purchase DC",
+            "Restriction"
+        ]
+    ],
+    "rows": [
+        [
+            "Fusion beam",
+            "10d8 (45)",
+            "20",
+            "Energy",
+            "3,000 ft.",
+            "Single",
+            "Gargantuan",
+            "33",
+            "Res (+2)"
+        ],
+        [
+            "Gauss gun",
+            "8d12 (52)",
+            "20",
+            "Ballistic",
+            "4,000 ft.",
+            "Single 1",
+            "Gargantuan",
+            "35",
+            "Res (+2)"
+        ],
+        [
+            "Laser",
+            "6d8 (27)",
+            "20",
+            "Fire",
+            "3,000 ft.",
+            "Single 1",
+            "Huge",
+            "28",
+            "Lic (+1)"
+        ],
+        [
+            "Laser, heavy",
+            "8d8 (36)",
+            "20",
+            "Fire",
+            "4,000 ft.",
+            "Single",
+            "Colossal",
+            "31",
+            "Res (+2)"
+        ],
+        [
+            "Mine, fusion",
+            "5d100 (275)",
+            "\u0097",
+            "Energy",
+            "\u0097",
+            "\u0097",
+            "Colossal",
+            "33",
+            "Mil (+3)"
+        ],
+        [
+            "Missile, CHE",
+            "6d12 (39)",
+            "19\u009620",
+            "Ballistic",
+            "\u0097",
+            "Single",
+            "Gargantuan",
+            "252",
+            "Mil (+3)"
+        ],
+        [
+            "Missile, KE submunition",
+            "4d12 (26)",
+            "19\u009620",
+            "Ballistic",
+            "\u0097",
+            "Single",
+            "Gargantuan",
+            "222",
+            "Lic (+1)"
+        ],
+        [
+            "Missile, nuclear",
+            "16d8 (72)",
+            "19\u009620",
+            "Energy",
+            "\u0097",
+            "Single",
+            "Gargantuan",
+            "452",
+            "Mil (+3)"
+        ],
+        [
+            "Needle driver",
+            "8d12 (52)",
+            "20",
+            "Ballistic",
+            "4,000 ft.",
+            "A",
+            "Gargantuan",
+            "36",
+            "Lic (+1)"
+        ],
+        [
+            "Neutron gun",
+            "6d8 (27)",
+            "20",
+            "Energy",
+            "5,000 ft.",
+            "Single",
+            "Colossal",
+            "31",
+            "Mil (+3)"
+        ],
+        [
+            "Neutron gun, heavy",
+            "10d8 (45)",
+            "20",
+            "Energy",
+            "6,000 ft.",
+            "Single",
+            "Colossal",
+            "35",
+            "Mil (+3)"
+        ],
+        [
+            "Rail cannon",
+            "6d12 (39)",
+            "20",
+            "Ballistic",
+            "3,000 ft.",
+            "Single 1",
+            "Gargantuan",
+            "30",
+            "Lic (+1)"
+        ],
+        [
+            "1 With a successful Repair check (DC 30) and 1 hour of work, this weapon can be modified for semiautomatic or automatic fire mode. Resetting the weapon to its original configuration requires another check and another hour of labor.  2 The purchase DC includes a basic launch system (missile rack or missile tube) and eight missiles with warheads. The purchase DC is 2 lower without the launch system.  3 In addition to taking damage, the ship is dazed for 1 round (see Starship Condition Summary).  4 This weapon\u0092s damage ignores a ship\u0092s hardness."
+        ]
+    ]
+}

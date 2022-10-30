@@ -1,0 +1,109 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Table: Military Vehicles"
+        ],
+        [
+            "Name",
+            "Crew",
+            "Pass",
+            "Cargo",
+            "Init",
+            "Maneuver",
+            "Top Speed",
+            "Defense",
+            "Hard",
+            "Hit Points",
+            "Size",
+            "Purchase DC",
+            "Restriction"
+        ],
+        [
+            "Progress Level 6: Fusion Age"
+        ],
+        [
+            "Progress Level 7: Gravity Age"
+        ]
+    ],
+    "rows": [
+        [
+            "Appel-Siems Gyrocopter",
+            "1",
+            "0",
+            "F",
+            "\u00963",
+            "\u00962",
+            "360 (36)",
+            "8",
+            "5",
+            "23",
+            "L",
+            "38",
+            "Mil (+3)"
+        ],
+        [
+            "EU2A1 Mendez APC",
+            "3",
+            "8",
+            "M",
+            "\u00961",
+            "\u00961",
+            "95 (9)",
+            "6",
+            "15",
+            "56",
+            "G",
+            "42 1",
+            "Mil (+3)"
+        ],
+        [
+            "UN-500 Turtledove",
+            "3",
+            "12",
+            "L",
+            "\u00963",
+            "\u00962",
+            "360 (36)",
+            "6",
+            "10",
+            "46",
+            "G",
+            "48",
+            "Mil (+3)"
+        ],
+        [
+            "IS-2000 Ifrit APC",
+            "4",
+            "11",
+            "L",
+            "\u00963",
+            "\u00963",
+            "100 (10)",
+            "6",
+            "15",
+            "58",
+            "G",
+            "46 1",
+            "Mil (+3)"
+        ],
+        [
+            "M-300 Hovertank",
+            "4",
+            "0",
+            "M",
+            "\u00964",
+            "\u00963",
+            "120 (12)",
+            "6",
+            "20",
+            "62",
+            "G",
+            "50 1",
+            "Mil (+3)"
+        ],
+        [
+            "1 The vehicle\u0092s purchase DC does not include its mounted weapons."
+        ]
+    ]
+}

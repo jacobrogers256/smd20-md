@@ -1,0 +1,111 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Object",
+            "Size",
+            "Weight",
+            "Purchase DC",
+            "Restriction"
+        ]
+    ],
+    "rows": [
+        [
+            "Outfits"
+        ],
+        [
+            "Business",
+            "Med",
+            "3 lb.",
+            "12",
+            "\u0097"
+        ],
+        [
+            "Casual",
+            "Med",
+            "2 lb.",
+            "8",
+            "\u0097"
+        ],
+        [
+            "Formal",
+            "Med",
+            "3 lb.",
+            "15",
+            "\u0097"
+        ],
+        [
+            "Fatigues",
+            "Med",
+            "3 lb.",
+            "9",
+            "\u0097"
+        ],
+        [
+            "Uniform",
+            "Med",
+            "2 lb.",
+            "9",
+            "\u0097"
+        ],
+        [
+            "Ghillie suit",
+            "Med",
+            "5 lb.",
+            "6",
+            "\u0097"
+        ],
+        [
+            "Outerwear"
+        ],
+        [
+            "Coat",
+            "Med",
+            "2 lb.",
+            "8",
+            "\u0097"
+        ],
+        [
+            "Fatigue jacket",
+            "Med",
+            "2 lb.",
+            "7",
+            "\u0097"
+        ],
+        [
+            "Overcoat",
+            "Med",
+            "3 lb.",
+            "9",
+            "\u0097"
+        ],
+        [
+            "Parka",
+            "Med",
+            "3 lb.",
+            "9",
+            "\u0097"
+        ],
+        [
+            "Photojournalist\u0092s vest",
+            "Med",
+            "1 lb.",
+            "9",
+            "\u0097"
+        ],
+        [
+            "Windbreaker",
+            "Med",
+            "1 lb.",
+            "6",
+            "\u0097"
+        ],
+        [
+            "Tool belt",
+            "Small",
+            "2 lb.",
+            "9",
+            "\u0097"
+        ]
+    ]
+}

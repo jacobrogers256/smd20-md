@@ -1,0 +1,40 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Table: Damage Control System"
+        ],
+        [
+            "Ship Type",
+            "Hit Points Restored",
+            "Purchase DC"
+        ]
+    ],
+    "rows": [
+        [
+            "Ultralight",
+            "1d10",
+            "18"
+        ],
+        [
+            "Light",
+            "2d10",
+            "22"
+        ],
+        [
+            "Mediumweight",
+            "3d10",
+            "27"
+        ],
+        [
+            "Heavy",
+            "4d10",
+            "33"
+        ],
+        [
+            "Superheavy",
+            "5d10",
+            "40"
+        ]
+    ]
+}

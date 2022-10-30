@@ -1,0 +1,19 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Damage Reduction",
+            "Purchase DC Modifier"
+        ]
+    ],
+    "rows": [
+        [
+            "5/+1",
+            "+1"
+        ],
+        [
+            "10/+1",
+            "+2"
+        ]
+    ]
+}

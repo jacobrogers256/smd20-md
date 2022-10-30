@@ -1,0 +1,32 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Type of Special Quality",
+            "Fort Save DC",
+            "Number of Successes"
+        ]
+    ],
+    "rows": [
+        [
+            "+1 to one ability score",
+            "15",
+            "10"
+        ],
+        [
+            "Extraordinary ability (Ex)",
+            "15",
+            "15"
+        ],
+        [
+            "Supernatural ability (Su)",
+            "20",
+            "25"
+        ],
+        [
+            "Spell-like ability (Sp)",
+            "20",
+            "50"
+        ]
+    ]
+}

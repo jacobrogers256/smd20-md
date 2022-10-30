@@ -1,0 +1,99 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Undead",
+            "Knowledge (arcane lore) DC Modifier"
+        ]
+    ],
+    "rows": [
+        [
+            "Medium or smaller skeleton",
+            "\u009612"
+        ],
+        [
+            "Medium or smaller zombie",
+            "\u009612"
+        ],
+        [
+            "Animating spirit",
+            "\u009610"
+        ],
+        [
+            "Frightful spirit",
+            "\u00968"
+        ],
+        [
+            "Large skeleton",
+            "\u00968"
+        ],
+        [
+            "Large zombie",
+            "\u00966"
+        ],
+        [
+            "Groaning spirit",
+            "\u00966"
+        ],
+        [
+            "Small or smaller liquefied zombie",
+            "\u00964"
+        ],
+        [
+            "Medium liquefied zombie",
+            "\u00962"
+        ],
+        [
+            "Weakening spirit",
+            "+0"
+        ],
+        [
+            "Mummy",
+            "+0"
+        ],
+        [
+            "Large liquefied zombie",
+            "+0"
+        ],
+        [
+            "Possessing spirit",
+            "+2"
+        ],
+        [
+            "Huge skeleton",
+            "+2"
+        ],
+        [
+            "Huge liquefied zombie",
+            "+2"
+        ],
+        [
+            "Ash wraith",
+            "+4"
+        ],
+        [
+            "Huge zombie",
+            "+4"
+        ],
+        [
+            "Gargantuan or Colossal skeleton",
+            "+6"
+        ],
+        [
+            "Gargantuan or Colossal zombie",
+            "+8"
+        ],
+        [
+            "Gargantuan liquefied zombie",
+            "+8"
+        ],
+        [
+            "Colossal liquefied zombie",
+            "+10"
+        ],
+        [
+            "Vampire",
+            "Hit Dice +4"
+        ]
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Magic Bullet Type",
+            "Other Spell Known",
+            "Effect"
+        ]
+    ],
+    "rows": [
+        [
+            "Curing bullet (divine)",
+            "Cure light wounds",
+            "Bullet deals no damage and instead cures 1d8+5 points of damage."
+        ],
+        [
+            "Inflicting bullet (divine)",
+            "Inflict light wounds",
+            "Creature damaged by pain bullet must succeed at a Will save (DC 14) or take an additional 1d8+5 points of damage."
+        ],
+        [
+            "Knock-out bullet (arcane)",
+            "Sleep",
+            "Creature damaged by knock-out bullet must succeed at a Will save (DC 14) or fall into a comatose slumber. Creatures with 5 or more Hit Dice are immne to this effect."
+        ],
+        [
+            "Panic bullet (arcane)",
+            "Cause fear",
+            "Creature damaged by terror bullet must succeed at a Will save (DC 14) or be panicked (\u00962 morale penalty on attack rolls, weapon damage rolls, and saves) for 1d4 rounds."
+        ]
+    ]
+}

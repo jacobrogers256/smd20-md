@@ -1,0 +1,31 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Device Type (Example)",
+            "DC"
+        ]
+    ],
+    "rows": [
+        [
+            "Cheap (home door alarm)",
+            "20"
+        ],
+        [
+            "Average (store security camera)",
+            "25"
+        ],
+        [
+            "High quality (art museum motion detector)",
+            "30"
+        ],
+        [
+            "High security (bank vault alarm)",
+            "35"
+        ],
+        [
+            "Ultrahigh security (motion detector at Area 51)",
+            "40"
+        ]
+    ]
+}

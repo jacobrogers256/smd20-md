@@ -1,0 +1,120 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Table:The Shadow Hunter"
+        ],
+        [
+            "Level",
+            "Base Attack Bonus",
+            "Fort Save",
+            "Ref Save",
+            "Will Save",
+            "Special",
+            "Defense Bonus",
+            "Reputation Bonus"
+        ]
+    ],
+    "rows": [
+        [
+            "1st",
+            "+0",
+            "+1",
+            "+1",
+            "+1",
+            "Target bonus +1",
+            "+1",
+            "+0"
+        ],
+        [
+            "2nd",
+            "+1",
+            "+2",
+            "+2",
+            "+2",
+            "Swift track",
+            "+2",
+            "+0"
+        ],
+        [
+            "3rd",
+            "+2",
+            "+2",
+            "+2",
+            "+2",
+            "Bonus feat",
+            "+2",
+            "+0"
+        ],
+        [
+            "4th",
+            "+3",
+            "+2",
+            "+2",
+            "+2",
+            "No trace, target bonus +2",
+            "+3",
+            "+0"
+        ],
+        [
+            "5th",
+            "+3",
+            "+3",
+            "+3",
+            "+3",
+            "Play a hunch",
+            "+4",
+            "+1"
+        ],
+        [
+            "6th",
+            "+4",
+            "+3",
+            "+3",
+            "+3",
+            "Bonus feat",
+            "+4",
+            "+1"
+        ],
+        [
+            "7th",
+            "+5",
+            "+4",
+            "+4",
+            "+4",
+            "Target bonus +3",
+            "+5",
+            "+1"
+        ],
+        [
+            "8th",
+            "+6",
+            "+4",
+            "+4",
+            "+4",
+            "Detect magical aura",
+            "+6",
+            "+2"
+        ],
+        [
+            "9th",
+            "+6",
+            "+4",
+            "+4",
+            "+4",
+            "Bonus feat",
+            "+6",
+            "+2"
+        ],
+        [
+            "10th",
+            "+7",
+            "+5",
+            "+5",
+            "+5",
+            "Locate target",
+            "+7",
+            "+2"
+        ]
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Gap Width",
+            "DC"
+        ]
+    ],
+    "rows": [
+        [
+            "1\u00963 ft. (ditch)",
+            "15"
+        ],
+        [
+            "4\u00968 ft. (culvert)",
+            "20"
+        ],
+        [
+            "8\u009615 ft. (creek, small ravine)",
+            "25"
+        ],
+        [
+            "16\u009625 ft. (narrow road, small pond)",
+            "35"
+        ],
+        [
+            "26\u009640 ft. (wide road, small river)",
+            "45"
+        ]
+    ]
+}

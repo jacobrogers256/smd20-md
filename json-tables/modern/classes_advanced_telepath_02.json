@@ -1,0 +1,27 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "DC",
+            "Task"
+        ]
+    ],
+    "rows": [
+        [
+            "15 + power level",
+            "Identify a psionic power as it manifests. (You must sense the power\u0092s display or see some visible effect to identify a power.) You can\u0092t try again."
+        ],
+        [
+            "20 + power level",
+            "Identify a power that\u0092s already in place and in effect. (You must be able to see or detect the effects of the power.) You can\u0092t try again."
+        ],
+        [
+            "20 + power level",
+            "Identify materials created or shaped by psionics . You can\u0092t try again."
+        ],
+        [
+            "30 or higher",
+            "Understand a strange or unique psionic effect. You can\u0092t try again."
+        ]
+    ]
+}

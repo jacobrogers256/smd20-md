@@ -1,0 +1,71 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Table: Defense Modifiers"
+        ],
+        [
+            "Circumstance",
+            "Melee",
+            "Ranged"
+        ]
+    ],
+    "rows": [
+        [
+            "Defender sitting or kneeling",
+            "\u00962",
+            "+2 1"
+        ],
+        [
+            "Defender prone",
+            "\u00964",
+            "+4 1"
+        ],
+        [
+            "Defender stunned or cowering",
+            "\u00962 2",
+            "\u00962 2"
+        ],
+        [
+            "Defender climbing",
+            "\u00962 2",
+            "\u00962 2"
+        ],
+        [
+            "Defender flat-footed",
+            "+0 2",
+            "+0 2"
+        ],
+        [
+            "Defender running",
+            "+0 2",
+            "+2 2"
+        ],
+        [
+            "Defender grappling (attacker not)",
+            "+0 2",
+            "+0 3"
+        ],
+        [
+            "Defender pinned",
+            "\u00964 4",
+            "+0 4"
+        ],
+        [
+            "Defender helpless (such as paralyzed, sleeping, or bound)",
+            "+0 2",
+            "+0 2"
+        ],
+        [
+            "Defender has cover",
+            "\u0097\u0096\u0097 See Cover \u0097\u0096\u0097"
+        ],
+        [
+            "Defender concealed or invisible",
+            "\u0097 See Concealment \u0097"
+        ],
+        [
+            "1 Does not apply if target\n  is adjacent to attacker. This circumstance may instead improve bonus to Defense granted\n  by cover . See Cover .  2 The defender loses any Dexterity bonus to Defense .  3 Roll randomly to see which grappling combatant the character strikes. That defender loses any Dexterity bonus to Defense .  4 Treat the defender\u0092s Dexterity as 0 (\u00965 modifier)."
+        ]
+    ]
+}

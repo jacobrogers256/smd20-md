@@ -1,0 +1,297 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Table: General Equipment"
+        ],
+        [
+            "Item",
+            "Weight",
+            "Purchase DC",
+            "Restriction"
+        ],
+        [
+            "Clothing"
+        ],
+        [
+            "Surveillance Gear"
+        ],
+        [
+            "Professional Equipment"
+        ],
+        [
+            "Sports Equipment"
+        ]
+    ],
+    "rows": [
+        [
+            "Clothing outfit"
+        ],
+        [
+            "Business",
+            "3 lb.",
+            "12",
+            "\u0097"
+        ],
+        [
+            "Double-sided",
+            "*",
+            "+1*",
+            "\u0097"
+        ],
+        [
+            "Stealth",
+            "2 lb.",
+            "9",
+            "\u0097"
+        ],
+        [
+            "Bug sweeper",
+            "4.5 lb.",
+            "21",
+            "\u0097"
+        ],
+        [
+            "Fiber optic camera"
+        ],
+        [
+            "3-foot cable w/monitor",
+            "3.5 lb.",
+            "17",
+            "\u0097"
+        ],
+        [
+            "6-foot cable w/monitor",
+            "4.5 lb.",
+            "18",
+            "\u0097"
+        ],
+        [
+            "9-foot cable w/monitor",
+            "5.5 lb.",
+            "19",
+            "\u0097"
+        ],
+        [
+            "Microphone"
+        ],
+        [
+            "Contact",
+            "1 lb.",
+            "12",
+            "\u0097"
+        ],
+        [
+            "Laser",
+            "3.5 lb.",
+            "18",
+            "\u0097"
+        ],
+        [
+            "Parabolic",
+            "4.5 lb.",
+            "14",
+            "\u0097"
+        ],
+        [
+            "Pick-up",
+            ".5 lb.",
+            "12",
+            "\u0097"
+        ],
+        [
+            "Shotgun",
+            "3.5 lb.",
+            "14",
+            "\u0097"
+        ],
+        [
+            "Microtransmitter"
+        ],
+        [
+            "Average quality",
+            "\u0097",
+            "11",
+            "\u0097"
+        ],
+        [
+            "Good quality",
+            "\u0097",
+            "12",
+            "\u0097"
+        ],
+        [
+            "Amazing quality",
+            "\u0097",
+            "14",
+            "\u0097"
+        ],
+        [
+            "Police scanner",
+            "2 lb.",
+            "11",
+            "\u0097"
+        ],
+        [
+            "Video shades"
+        ],
+        [
+            "Black and white",
+            "\u0097",
+            "23",
+            "\u0097"
+        ],
+        [
+            "Color",
+            "\u0097",
+            "24",
+            "\u0097"
+        ],
+        [
+            "Breaking and entering kit",
+            "50 lb",
+            "20",
+            "Ill (+4)"
+        ],
+        [
+            "Capture kit",
+            "57 lb.",
+            "21",
+            "Res (+2)"
+        ],
+        [
+            "Chemistry kit",
+            "15 lb.",
+            "13",
+            "Licensed"
+        ],
+        [
+            "Concertina wire (20 ft.)",
+            "15 lb.",
+            "11"
+        ],
+        [
+            "Fiend hunter\u0092s kit",
+            "40 lb.",
+            "21",
+            "Res (+2)"
+        ],
+        [
+            "Forced entry kit",
+            "135 lb.",
+            "21",
+            "Res (+2)"
+        ],
+        [
+            "Generator, portable",
+            "125 lb.",
+            "19",
+            "\u0097"
+        ],
+        [
+            "Glasscutter, circular",
+            "5 lb.",
+            "13",
+            "Res (+2)"
+        ],
+        [
+            "Headset, microphone",
+            "\u0097",
+            "13",
+            "\u0097"
+        ],
+        [
+            "Headset w/light",
+            "\u0097",
+            "14",
+            "\u0097"
+        ],
+        [
+            "Headset w/camera",
+            "1 lb.",
+            "16",
+            "\u0097"
+        ],
+        [
+            "Hydraulic compressor",
+            "50 lb.",
+            "13",
+            "\u0097"
+        ],
+        [
+            "Holy water (flask)",
+            "1 lb.",
+            "15",
+            "\u0097"
+        ],
+        [
+            "Jaws of life",
+            "40 lb.",
+            "18",
+            "Res (+2)"
+        ],
+        [
+            "Liquid metal embrittlement sprayer",
+            "50 lb.",
+            "18",
+            "Res (+2)"
+        ],
+        [
+            "Marbles, bag of",
+            ".5 lb.",
+            "3",
+            "\u0097"
+        ],
+        [
+            "Ram, portable",
+            "35 lb.",
+            "12",
+            "Res (+2)"
+        ],
+        [
+            "Road flare (3)",
+            "1.5 lb.",
+            "3",
+            "\u0097"
+        ],
+        [
+            "Vampire slayer\u0092s kit",
+            "20 lb.",
+            "16",
+            "Res (+2)"
+        ],
+        [
+            "Winch, portable",
+            "15 lb.",
+            "16",
+            "\u0097"
+        ],
+        [
+            "In-line skates",
+            "5 lb.",
+            "11",
+            "\u0097"
+        ],
+        [
+            "Skateboard",
+            "3 lb.",
+            "7",
+            "\u0097"
+        ],
+        [
+            "Skis and poles",
+            "10 lb.",
+            "19",
+            "\u0097"
+        ],
+        [
+            "Snowboard",
+            "8 lb.",
+            "16",
+            "\u0097"
+        ],
+        [
+            "*See item description for more information."
+        ]
+    ]
+}

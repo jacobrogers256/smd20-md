@@ -1,0 +1,45 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Transportation",
+            "Purchase DC"
+        ]
+    ],
+    "rows": [
+        [
+            "Airfare"
+        ],
+        [
+            "Domestic, coach",
+            "14"
+        ],
+        [
+            "Domestic, first class",
+            "17"
+        ],
+        [
+            "International, coach",
+            "18"
+        ],
+        [
+            "International, first class",
+            "22"
+        ],
+        [
+            "Car rental"
+        ],
+        [
+            "Economy car",
+            "6"
+        ],
+        [
+            "Mid-size or truck",
+            "8"
+        ],
+        [
+            "Luxury",
+            "10"
+        ]
+    ]
+}

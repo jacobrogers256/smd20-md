@@ -1,0 +1,87 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Table: Star Systems"
+        ],
+        [
+            "Star\u0092s System\u0092s Classification",
+            "Degree of Ionizing Radiation 1",
+            "Number of Planets"
+        ],
+        [
+            "Non-Main Sequence Star\u0092s Classification",
+            "System\u0092s Degree of Ionizing Radiation 1",
+            "Number of Planets"
+        ]
+    ],
+    "rows": [
+        [
+            "Class O (blue-white)",
+            "Highly irradiated",
+            "1d4+1"
+        ],
+        [
+            "Class B (blue-white)",
+            "Moderately irradiated",
+            "1d4+2"
+        ],
+        [
+            "Class A (blue)",
+            "Moderately irradiated",
+            "1d6+2"
+        ],
+        [
+            "Class F (green)",
+            "Lightly irradiated",
+            "1d6+3"
+        ],
+        [
+            "Class G (yellow)",
+            "Lightly irradiated",
+            "1d6+4"
+        ],
+        [
+            "Class K (orange)",
+            "Moderately irradiated",
+            "1d6+5"
+        ],
+        [
+            "Class M (red)",
+            "Highly irradiatedv1d8+2"
+        ],
+        [
+            "Black hole",
+            "Highly irradiated",
+            "\u0097"
+        ],
+        [
+            "Neutron star",
+            "Severely irradiated",
+            "1d4\u00961"
+        ],
+        [
+            "White dwarf",
+            "Moderately irradiated",
+            "1d4+1"
+        ],
+        [
+            "Black dwarf",
+            "Lightly irradiated",
+            "1d4+2"
+        ],
+        [
+            "Brown dwarf",
+            "Lightly irradiated",
+            "1d4+1"
+        ],
+        [
+            "Red supergiant",
+            "Highly irradiated",
+            "1d4\u00961"
+        ],
+        [
+            "1 Refer to Table: Radiation Exposure for details."
+        ]
+    ]
+}

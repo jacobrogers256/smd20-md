@@ -1,0 +1,32 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Type of Information",
+            "DC",
+            "Purchase DC"
+        ]
+    ],
+    "rows": [
+        [
+            "General",
+            "10",
+            "5"
+        ],
+        [
+            "Specific",
+            "15",
+            "10"
+        ],
+        [
+            "Restricted",
+            "20",
+            "15"
+        ],
+        [
+            "Protected",
+            "25",
+            "20"
+        ]
+    ]
+}

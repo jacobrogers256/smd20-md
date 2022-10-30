@@ -1,0 +1,120 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Table: The Telepath"
+        ],
+        [
+            "Class Level",
+            "Base Attack Bonus",
+            "Fort Save",
+            "Ref Save",
+            "Will Save",
+            "Class Features",
+            "Defense Bonus",
+            "Reputation Bonus"
+        ]
+    ],
+    "rows": [
+        [
+            "1st",
+            "+0",
+            "+0",
+            "+0",
+            "+2",
+            "Psionic skills, psionic powers",
+            "+0",
+            "+1"
+        ],
+        [
+            "2nd",
+            "+1",
+            "+0",
+            "+0",
+            "+3",
+            "Trigger power, psionic powers",
+            "+1",
+            "+1"
+        ],
+        [
+            "3rd",
+            "+1",
+            "+1",
+            "+1",
+            "+3",
+            "Bonus feat, psionic powers",
+            "+1",
+            "+1"
+        ],
+        [
+            "4th",
+            "+2",
+            "+1",
+            "+1",
+            "+4",
+            "Power crystal, psionic powers",
+            "+1",
+            "+2"
+        ],
+        [
+            "5th",
+            "+2",
+            "+1",
+            "+1",
+            "+4",
+            "Trigger power, psionic powers",
+            "+2",
+            "+2"
+        ],
+        [
+            "6th",
+            "+3",
+            "+2",
+            "+2",
+            "+5",
+            "Bonus feat, psionic powers",
+            "+2",
+            "+2"
+        ],
+        [
+            "7th",
+            "+3",
+            "+2",
+            "+2",
+            "+5",
+            "Combat manifestation, psionic powers",
+            "+2",
+            "+3"
+        ],
+        [
+            "8th",
+            "+4",
+            "+2",
+            "+2",
+            "+6",
+            "Trigger power, psionic powers",
+            "+3",
+            "+3"
+        ],
+        [
+            "9th",
+            "+4",
+            "+3",
+            "+3",
+            "+6",
+            "Bonus feat, psionic powers",
+            "+3",
+            "+3"
+        ],
+        [
+            "10th",
+            "+5",
+            "+3",
+            "+3",
+            "+7",
+            "Maximize power, psionic powers",
+            "+3",
+            "+4"
+        ]
+    ]
+}

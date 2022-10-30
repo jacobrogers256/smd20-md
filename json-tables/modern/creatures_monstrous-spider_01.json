@@ -1,0 +1,58 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Table: Monstrous Spider Webs"
+        ],
+        [
+            "Spider Size",
+            "Escape DC",
+            "Break DC",
+            "Hit Points"
+        ]
+    ],
+    "rows": [
+        [
+            "Colossal",
+            "32",
+            "34",
+            "18"
+        ],
+        [
+            "Gargantuan",
+            "30",
+            "32",
+            "16"
+        ],
+        [
+            "Huge",
+            "28",
+            "30",
+            "14"
+        ],
+        [
+            "Large",
+            "26",
+            "28",
+            "12"
+        ],
+        [
+            "Medium-size",
+            "20",
+            "22",
+            "6"
+        ],
+        [
+            "Small",
+            "18",
+            "20",
+            "4"
+        ],
+        [
+            "Tiny",
+            "16",
+            "18",
+            "2"
+        ]
+    ]
+}

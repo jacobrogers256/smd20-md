@@ -1,0 +1,43 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "d20",
+            "Personality"
+        ]
+    ],
+    "rows": [
+        [
+            "1",
+            "Bloodthirsty"
+        ],
+        [
+            "2\u00963",
+            "Violent"
+        ],
+        [
+            "4\u00966",
+            "Angry"
+        ],
+        [
+            "7\u009610",
+            "Impatient"
+        ],
+        [
+            "11\u009614",
+            "Patient"
+        ],
+        [
+            "15\u009617",
+            "Soothing"
+        ],
+        [
+            "18\u009619",
+            "Insightful"
+        ],
+        [
+            "20",
+            "Peace loving"
+        ]
+    ]
+}

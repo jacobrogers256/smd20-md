@@ -1,0 +1,23 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Type of Information",
+            "Research Check DC"
+        ]
+    ],
+    "rows": [
+        [
+            "Type Traits - Reveals a creature\u0092s type and any traits common to that type.",
+            "15"
+        ],
+        [
+            "Species Traits - Reveals a specific creature\u0092s Species Traits.",
+            "20"
+        ],
+        [
+            "Unique Traits - Reveals the unique attributes and weaknesses (if any) of a specific creature.",
+            "25"
+        ]
+    ]
+}

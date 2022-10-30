@@ -1,0 +1,259 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Table: Crewed Vehicles"
+        ],
+        [
+            "Name",
+            "Crew",
+            "Initiative",
+            "Maneuver"
+        ]
+    ],
+    "rows": [
+        [
+            "Civilian Aircraft"
+        ],
+        [
+            "Bell Jet Ranger",
+            "2 (Skilled +4)",
+            "+0",
+            "+0"
+        ],
+        [
+            "Bell Model 212",
+            "2 (Skilled +4)",
+            "+0",
+            "+0"
+        ],
+        [
+            "Cessna 172 Skyhawk",
+            "1 (Normal +2)",
+            "\u00962",
+            "\u00962"
+        ],
+        [
+            "Learjet Model 45",
+            "2 (Skilled +4)",
+            "+0",
+            "+0"
+        ],
+        [
+            "Civilian Cars"
+        ],
+        [
+            "Acura 3.2 TL",
+            "1 (Normal +2)",
+            "+0",
+            "+1"
+        ],
+        [
+            "Aston-Martin Vanquish",
+            "1 (Normal +2)",
+            "+0",
+            "+2"
+        ],
+        [
+            "BMW M3",
+            "1 (Normal +2)",
+            "+0",
+            "+3"
+        ],
+        [
+            "Chevrolet Cavalier",
+            "1 (Normal +2)",
+            "+1",
+            "+1"
+        ],
+        [
+            "Chevrolet Corvette",
+            "1 (Normal +2)",
+            "+0",
+            "+2"
+        ],
+        [
+            "Dodge Neon",
+            "1 (Normal +2)",
+            "+1",
+            "+1"
+        ],
+        [
+            "Ford Crown Victoria",
+            "1 (Normal +2)",
+            "+0",
+            "+1"
+        ],
+        [
+            "Jaguar XJS",
+            "1 (Normal +2)",
+            "+0",
+            "+1"
+        ],
+        [
+            "Lamborghini Diablo",
+            "1 (Normal +2)",
+            "+0",
+            "+3"
+        ],
+        [
+            "Mercedes E55 AMG",
+            "1 (Normal +2)",
+            "+0",
+            "+2"
+        ],
+        [
+            "Volkswagen Jetta",
+            "1 (Normal +2)",
+            "+0",
+            "+2"
+        ],
+        [
+            "Civilian Motorcycles"
+        ],
+        [
+            "Ducati 998R",
+            "1 (Normal +2)",
+            "+2",
+            "+5"
+        ],
+        [
+            "Harley Davidson FLSTF",
+            "1 (Normal +2)",
+            "+1",
+            "+3"
+        ],
+        [
+            "Yamaha YZ250F",
+            "1 (Normal +2)",
+            "+2",
+            "+4"
+        ],
+        [
+            "Civilian Trucks"
+        ],
+        [
+            "AM General Hummer",
+            "1 (Normal +2)",
+            "+0",
+            "+0"
+        ],
+        [
+            "Chevrolet Suburban",
+            "1 (Normal +2)",
+            "+0",
+            "+0"
+        ],
+        [
+            "Dodge Caravan",
+            "1 (Normal +2)",
+            "+0",
+            "+0"
+        ],
+        [
+            "Ford Escape XLT",
+            "1 (Normal +2)",
+            "+0",
+            "+0"
+        ],
+        [
+            "Ford F-150 XL",
+            "1 (Normal +2)",
+            "+0",
+            "+0"
+        ],
+        [
+            "Toyota Tacoma Xtracab",
+            "1 (Normal +2)",
+            "+0",
+            "+0"
+        ],
+        [
+            "Civilian Water Vehicles"
+        ],
+        [
+            "Bayliner 1802 Capri",
+            "1 (Normal +2)",
+            "+0",
+            "+0"
+        ],
+        [
+            "Fairline Targa 30",
+            "1 (Normal +2)",
+            "\u00962",
+            "\u00962"
+        ],
+        [
+            "Sea-Doo XP",
+            "1 (Normal +2)",
+            "+1",
+            "+3"
+        ],
+        [
+            "Other Vehicles"
+        ],
+        [
+            "Armored truck",
+            "2 (Skilled +4)",
+            "+2",
+            "+2"
+        ],
+        [
+            "Honda TRX400FW",
+            "1 (Normal +2)",
+            "+1",
+            "+3"
+        ],
+        [
+            "Limousine",
+            "1 (Skilled +4)",
+            "+0",
+            "+0"
+        ],
+        [
+            "Moving truck",
+            "1 (Normal +2)",
+            "\u00962",
+            "\u00962"
+        ],
+        [
+            "NABI Model 40LFW",
+            "1 (Skilled +4)",
+            "+0",
+            "+0"
+        ],
+        [
+            "Military Vehicles"
+        ],
+        [
+            "BMP-2",
+            "3 (Skilled +4)",
+            "+2",
+            "+2"
+        ],
+        [
+            "M1A2 Abrams",
+            "4 (Skilled +4)",
+            "+0",
+            "+0"
+        ],
+        [
+            "M2A2 Bradley",
+            "3 (Skilled +4)",
+            "+0",
+            "+0"
+        ],
+        [
+            "M113A1 Gavin",
+            "2 (Skilled +4)",
+            "+2",
+            "+2"
+        ],
+        [
+            "UH-60 Black Hawk",
+            "2 (Skilled +4)",
+            "+0",
+            "+0"
+        ]
+    ]
+}

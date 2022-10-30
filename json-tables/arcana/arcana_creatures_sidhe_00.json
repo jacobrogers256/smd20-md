@@ -1,0 +1,23 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Sidhe Hit Dice",
+            "Damage Reduction"
+        ]
+    ],
+    "rows": [
+        [
+            "8 or fewer",
+            "5/+1"
+        ],
+        [
+            "9\u009616",
+            "10/+1"
+        ],
+        [
+            "17 or more",
+            "15/+2"
+        ]
+    ]
+}

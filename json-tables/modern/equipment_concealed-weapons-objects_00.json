@@ -1,0 +1,66 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Condition",
+            "Sleight of Hand Modifier"
+        ]
+    ],
+    "rows": [
+        [
+            "Size of weapon or object"
+        ],
+        [
+            "Fine",
+            "+12"
+        ],
+        [
+            "Diminutive",
+            "+8"
+        ],
+        [
+            "Tiny",
+            "+4"
+        ],
+        [
+            "Small",
+            "+0"
+        ],
+        [
+            "Medium-size",
+            "\u00964"
+        ],
+        [
+            "Large",
+            "\u00968"
+        ],
+        [
+            "Huge or larger",
+            "can\u0092t conceal"
+        ],
+        [
+            "Clothing is tight or small",
+            "\u00964"
+        ],
+        [
+            "Clothing is especially loose or bulky",
+            "+2"
+        ],
+        [
+            "Clothing is specifically modified for concealing object",
+            "+2"
+        ],
+        [
+            "Weapon is carried in concealed carry holster",
+            "+4"
+        ],
+        [
+            "Weapon can be drawn normally",
+            "\u00962"
+        ],
+        [
+            "Weapon can be drawn as free action with Quick Draw feat",
+            "\u00964"
+        ]
+    ]
+}

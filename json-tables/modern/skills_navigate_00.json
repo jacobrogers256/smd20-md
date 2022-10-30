@@ -1,0 +1,27 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Length of Trip",
+            "DC"
+        ]
+    ],
+    "rows": [
+        [
+            "Short (a few hours)",
+            "20"
+        ],
+        [
+            "Moderate (a day or two)",
+            "22"
+        ],
+        [
+            "Long (up to a week)",
+            "25"
+        ],
+        [
+            "Extreme (more than a week)",
+            "28"
+        ]
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Table: Concealment"
+        ],
+        [
+            "Concealment (Example)",
+            "Miss Chance"
+        ]
+    ],
+    "rows": [
+        [
+            "One-quarter (light fog; light foliage)",
+            "10%"
+        ],
+        [
+            "One-half (shadows; dense fog at 5 ft.)",
+            "20%"
+        ],
+        [
+            "Three-quarters (dense foliage)",
+            "30%"
+        ],
+        [
+            "Nine-tenths (near total darkness)",
+            "40%"
+        ],
+        [
+            "Total (attacker blind; total darkness; smoke grenade; dense fog at 10 ft.)",
+            "50% and must guess target\u0092s location"
+        ]
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Meals",
+            "Purchase DC"
+        ]
+    ],
+    "rows": [
+        [
+            "Fast food",
+            "2"
+        ],
+        [
+            "Family restaurant",
+            "4"
+        ],
+        [
+            "Upscale restaurant",
+            "7"
+        ],
+        [
+            "Fancy restaurant",
+            "9"
+        ]
+    ]
+}

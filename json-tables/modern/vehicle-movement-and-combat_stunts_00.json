@@ -1,0 +1,38 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Hazard",
+            "DC"
+        ],
+        [
+            "Object"
+        ]
+    ],
+    "rows": [
+        [
+            "Caltrops",
+            "15"
+        ],
+        [
+            "Oil slick",
+            "15"
+        ],
+        [
+            "Small (tire, light debris)",
+            "5"
+        ],
+        [
+            "Medium-size (crate)",
+            "10"
+        ],
+        [
+            "Large (pile of wreckage)",
+            "15"
+        ],
+        [
+            "Structure",
+            "Cannot be avoided"
+        ]
+    ]
+}

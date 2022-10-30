@@ -1,0 +1,86 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Ranged Weapons"
+        ],
+        [
+            "Improvement",
+            "Craft DC",
+            "Repair Chance (d%)"
+        ],
+        [
+            "Electronic Devices"
+        ],
+        [
+            "Improvement",
+            "Craft DC",
+            "Repair Chance (d%)"
+        ],
+        [
+            "Vehicles"
+        ],
+        [
+            "Improvement",
+            "Craft DC",
+            "Repair Chance (d%)"
+        ]
+    ],
+    "rows": [
+        [
+            "+1 to damage",
+            "15",
+            "01\u009625"
+        ],
+        [
+            "+2 to damage",
+            "20",
+            "01\u009650"
+        ],
+        [
+            "+3 to damage",
+            "25",
+            "01\u009675"
+        ],
+        [
+            "+5 ft. to range increment",
+            "15",
+            "01\u009625"
+        ],
+        [
+            "+10 ft. to range increment",
+            "25",
+            "01\u009650"
+        ],
+        [
+            "+1 equipment bonus",
+            "15",
+            "01\u009625"
+        ],
+        [
+            "+2 equipment bonus",
+            "20",
+            "01\u009650"
+        ],
+        [
+            "+3 equipment bonus",
+            "25",
+            "01\u009675"
+        ],
+        [
+            "+1 on initiative checks",
+            "20",
+            "01\u009625"
+        ],
+        [
+            "+1 to maneuver",
+            "25",
+            "01\u009650"
+        ],
+        [
+            "+2 to maneuver",
+            "30",
+            "01\u009675"
+        ]
+    ]
+}

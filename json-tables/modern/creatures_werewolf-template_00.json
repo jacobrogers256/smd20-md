@@ -1,0 +1,34 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Task",
+            "DC"
+        ]
+    ],
+    "rows": [
+        [
+            "Resist involuntary change",
+            "25"
+        ],
+        [
+            "Return to humanoid form (full moon 1 )",
+            "25"
+        ],
+        [
+            "Return to humanoid form (not full moon)",
+            "20"
+        ],
+        [
+            "Voluntary change (full moon)",
+            "10"
+        ],
+        [
+            "Voluntary change (not full moon)",
+            "15"
+        ],
+        [
+            "1 For game purposes, the full moon lasts three days every month."
+        ]
+    ]
+}

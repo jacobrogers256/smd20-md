@@ -1,0 +1,120 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Table:The Archaic Weaponsmaster"
+        ],
+        [
+            "Level",
+            "Base Attack Bonus",
+            "Fort Save",
+            "Ref Save",
+            "Will Save",
+            "Special",
+            "Defense Bonus",
+            "Reputation Bonus"
+        ]
+    ],
+    "rows": [
+        [
+            "1st",
+            "+0",
+            "+2",
+            "+0",
+            "+0",
+            "Weapon specialization",
+            "+1",
+            "+1"
+        ],
+        [
+            "2nd",
+            "+1",
+            "+3",
+            "+0",
+            "+0",
+            "Imbue weapon +1",
+            "+1",
+            "+1"
+        ],
+        [
+            "3rd",
+            "+2",
+            "+3",
+            "+1",
+            "+1",
+            "Bonus feat",
+            "+2",
+            "+1"
+        ],
+        [
+            "4th",
+            "+3",
+            "+4",
+            "+1",
+            "+1",
+            "Quick weapon draw",
+            "+2",
+            "+2"
+        ],
+        [
+            "5th",
+            "+3",
+            "+4",
+            "+1",
+            "+1",
+            "Expert in your field",
+            "+3",
+            "+2"
+        ],
+        [
+            "6th",
+            "+4",
+            "+5",
+            "+2",
+            "+2",
+            "Bonus feat",
+            "+3",
+            "+2"
+        ],
+        [
+            "7th",
+            "+5",
+            "+5",
+            "+2",
+            "+2",
+            "Weapon stun",
+            "+4",
+            "+3"
+        ],
+        [
+            "8th",
+            "+6",
+            "+6",
+            "+2",
+            "+2",
+            "Imbue weapon +2",
+            "+4",
+            "+3"
+        ],
+        [
+            "9th",
+            "+6",
+            "+6",
+            "+3",
+            "+3",
+            "Bonus feat",
+            "+5",
+            "+3"
+        ],
+        [
+            "10th",
+            "+7",
+            "+7",
+            "+3",
+            "+3",
+            "Increased weapon critical",
+            "+5",
+            "+4"
+        ]
+    ]
+}

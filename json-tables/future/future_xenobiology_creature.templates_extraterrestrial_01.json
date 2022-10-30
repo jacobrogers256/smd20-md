@@ -1,0 +1,42 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Roll d%",
+            "Initial Damage",
+            "Secondary Damage"
+        ]
+    ],
+    "rows": [
+        [
+            "01\u009617",
+            "1d6 Str",
+            "1d6 Str"
+        ],
+        [
+            "18\u009634",
+            "1d6 Dex",
+            "1d6 Dex"
+        ],
+        [
+            "35\u009650",
+            "1d4 Con",
+            "1d4 Con"
+        ],
+        [
+            "51\u009667",
+            "2d4 Wis",
+            "2d4 Wis"
+        ],
+        [
+            "68\u009684",
+            "2d4 Cha",
+            "2d4 Cha"
+        ],
+        [
+            "85\u0096100",
+            "None",
+            "Paralysis 1d6 hours"
+        ]
+    ]
+}

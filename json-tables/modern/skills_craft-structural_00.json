@@ -1,0 +1,37 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Type of Scratch-Built Structure (Examples)",
+            "Purchase DC",
+            "Craft DC",
+            "Time"
+        ]
+    ],
+    "rows": [
+        [
+            "Simple (bookcase, false wall)",
+            "5",
+            "15",
+            "12 hr."
+        ],
+        [
+            "Moderate (catapult, shed, house deck)",
+            "10",
+            "20",
+            "24 hr."
+        ],
+        [
+            "Complex (bunker, domed ceiling)",
+            "15",
+            "25",
+            "60 hr."
+        ],
+        [
+            "Advanced (house)",
+            "20",
+            "30",
+            "600 hr."
+        ]
+    ]
+}

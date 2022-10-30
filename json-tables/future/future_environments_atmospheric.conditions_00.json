@@ -1,0 +1,50 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Table: Decompression Times"
+        ],
+        [
+            "Breach Size",
+            "Decompression Time"
+        ]
+    ],
+    "rows": [
+        [
+            "Fine (1-inch square)",
+            "3 rounds per 10-foot cube of air"
+        ],
+        [
+            "Diminutive (3-inch square)",
+            "3 rounds per 10-foot cube of air"
+        ],
+        [
+            "Tiny (6-inch square)",
+            "2 rounds per 10-foot cube of air"
+        ],
+        [
+            "Small (1-foot square)",
+            "2 rounds per 10-foot cube of air"
+        ],
+        [
+            "Medium (2 1/2-foot square)",
+            "1 round per 10-foot cube of air"
+        ],
+        [
+            "Large (5-foot square)",
+            "1 round per 10-foot cube of air"
+        ],
+        [
+            "Huge (10-foot square)",
+            "1 round per 20-foot cube of air"
+        ],
+        [
+            "Gargantuan (15-foot square)",
+            "1 round per 30-foot cube of air"
+        ],
+        [
+            "Colossal (20-foot square)",
+            "1 round per 40-foot cube of air"
+        ]
+    ]
+}

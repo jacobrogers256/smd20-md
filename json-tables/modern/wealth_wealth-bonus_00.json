@@ -1,0 +1,39 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Wealth Bonus",
+            "Financial Condition"
+        ]
+    ],
+    "rows": [
+        [
+            "+0",
+            "Impoverished or in debt"
+        ],
+        [
+            "+1 to +4",
+            "Struggling"
+        ],
+        [
+            "+5 to +10",
+            "Middle class"
+        ],
+        [
+            "+11 to +15",
+            "Affluent"
+        ],
+        [
+            "+16 to +20",
+            "Wealthy"
+        ],
+        [
+            "+21 to +30",
+            "Rich"
+        ],
+        [
+            "+31 or higher",
+            "Very rich"
+        ]
+    ]
+}

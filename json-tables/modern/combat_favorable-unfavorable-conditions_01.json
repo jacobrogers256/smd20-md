@@ -1,0 +1,38 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Table: Attack Roll Modifiers"
+        ],
+        [
+            "Circumstance",
+            "Melee",
+            "Ranged"
+        ]
+    ],
+    "rows": [
+        [
+            "Attacker flanking defender 1",
+            "+2",
+            "\u0097"
+        ],
+        [
+            "Attacker on higher ground",
+            "+1",
+            "+0"
+        ],
+        [
+            "Attacker prone",
+            "\u00964",
+            "\u00962 2"
+        ],
+        [
+            "Attacker invisible",
+            "+2 3",
+            "+2 3"
+        ],
+        [
+            "1 A character flanks a defender when he or she has an ally on the opposite side of the defender threatening the defender.  2 Some ranged weapons can\u0092t be used while the attacker is prone.  3 The defender loses any Dexterity bonus to Defense ."
+        ]
+    ]
+}

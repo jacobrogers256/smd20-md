@@ -1,0 +1,23 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Mastercraft Feature",
+            "DC Modifier"
+        ]
+    ],
+    "rows": [
+        [
+            "Mastercraft (+1)",
+            "+3"
+        ],
+        [
+            "Mastercraft (+2)",
+            "+5"
+        ],
+        [
+            "Mastercraft (+3)",
+            "+10"
+        ]
+    ]
+}

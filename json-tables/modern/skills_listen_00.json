@@ -1,0 +1,54 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "DC",
+            "Sound"
+        ]
+    ],
+    "rows": [
+        [
+            "\u009620",
+            "Gunfire"
+        ],
+        [
+            "\u009610",
+            "A melee battle"
+        ],
+        [
+            "0",
+            "People talking"
+        ],
+        [
+            "5",
+            "A person in medium armor walking at a slow pace, trying not to make noise"
+        ],
+        [
+            "10",
+            "An unarmored person walking at a slow pace, trying not to make any noise"
+        ],
+        [
+            "15",
+            "A 1st-level Fast hero sneaking up on someone 1"
+        ],
+        [
+            "20",
+            "A tiger stalking prey 1"
+        ],
+        [
+            "30",
+            "A bird flying through the air"
+        ],
+        [
+            "+5",
+            "Through a door"
+        ],
+        [
+            "+15",
+            "Through a solid wall"
+        ],
+        [
+            "1 This is actually an opposed check; the DC given is a typical Move\nSilently check result for such a character or creature."
+        ]
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Table: Progress Level 6 Explosives And Splash Weapons"
+        ],
+        [
+            "Weapon",
+            "Damage",
+            "Critical",
+            "Damage Type",
+            "Burst Radius",
+            "Reflex DC",
+            "Range Increment",
+            "Size",
+            "Weight",
+            "Purchase DC",
+            "Restriction"
+        ]
+    ],
+    "rows": [
+        [
+            "Grenade, concussion",
+            "4d6 nonlethal",
+            "\u0097",
+            "Concussion",
+            "15 ft.",
+            "15",
+            "10 ft.",
+            "Tiny",
+            "1 lb.",
+            "15",
+            "Mil (+3)"
+        ],
+        [
+            "Grenade, EMP",
+            "Special 1",
+            "\u0097",
+            "Electricity",
+            "20 ft.",
+            "15",
+            "10 ft.",
+            "Small",
+            "2 lb.",
+            "16",
+            "Mil (+3)"
+        ],
+        [
+            "Grenade, fireflush",
+            "3d6",
+            "\u0097",
+            "Fire",
+            "10 ft.",
+            "15",
+            "10 ft.",
+            "Small",
+            "2 lb.",
+            "18",
+            "Res (+2)"
+        ],
+        [
+            "Grenade, tangler",
+            "Special 1",
+            "\u0097",
+            "\u0097",
+            "5 ft.",
+            "12",
+            "10 ft.",
+            "Tiny",
+            "1 lb.",
+            "14",
+            "Lic (+1)"
+        ],
+        [
+            "1 See the weapon description for details."
+        ]
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Character Level",
+            "Action Point Dice Rolled"
+        ]
+    ],
+    "rows": [
+        [
+            "1st\u00967th",
+            "1d6"
+        ],
+        [
+            "8th\u009614th",
+            "2d6"
+        ],
+        [
+            "15th\u009620th",
+            "3d6"
+        ]
+    ]
+}

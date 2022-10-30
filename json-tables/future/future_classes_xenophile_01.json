@@ -1,0 +1,77 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Table: Xenotypes"
+        ],
+        [
+            "Selected Xenotype",
+            "Special Prerequisite"
+        ]
+    ],
+    "rows": [
+        [
+            "Aberration",
+            "Knowledge (earth and life sciences) 12 ranks"
+        ],
+        [
+            "Animal",
+            "None"
+        ],
+        [
+            "Construct",
+            "Knowledge (technology) 9 ranks"
+        ],
+        [
+            "Dragon",
+            "Knowledge (earth and life sciences) 9 ranks"
+        ],
+        [
+            "Elemental",
+            "Knowledge (earth and life sciences) 9 ranks"
+        ],
+        [
+            "Fey",
+            "Knowledge (arcane lore) 6 ranks"
+        ],
+        [
+            "Giant",
+            "None"
+        ],
+        [
+            "Humanoid 1",
+            "None"
+        ],
+        [
+            "Magical beast",
+            "Knowledge (arcane lore) 9 ranks"
+        ],
+        [
+            "Monstrous humanoid",
+            "Knowledge (earth and life sciences) 9 ranks"
+        ],
+        [
+            "Ooze",
+            "Knowledge (earth and life sciences) 9 ranks"
+        ],
+        [
+            "Outsider",
+            "Knowledge (theology and philosophy) 9 ranks"
+        ],
+        [
+            "Plant",
+            "None"
+        ],
+        [
+            "Undead",
+            "Knowledge (theology and philosophy) 6 ranks"
+        ],
+        [
+            "Vermin",
+            "None"
+        ],
+        [
+            "1 Choose a specific humanoid species."
+        ]
+    ]
+}
