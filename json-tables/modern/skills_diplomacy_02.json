@@ -1,0 +1,27 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Bribe Target",
+            "Purchase DC"
+        ]
+    ],
+    "rows": [
+        [
+            "Bouncer",
+            "6"
+        ],
+        [
+            "Bureaucrat",
+            "10"
+        ],
+        [
+            "Informant",
+            "7"
+        ],
+        [
+            "Police officer",
+            "10"
+        ]
+    ]
+}

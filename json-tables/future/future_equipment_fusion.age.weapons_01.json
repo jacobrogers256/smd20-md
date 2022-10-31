@@ -1,0 +1,46 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Table: Progress Level 6 Melee Weapons"
+        ],
+        [
+            "Weapon 1",
+            "Damage",
+            "Critical",
+            "Damage Type",
+            "Range Increment",
+            "Size",
+            "Weight",
+            "Purchase DC",
+            "Restriction"
+        ]
+    ],
+    "rows": [
+        [
+            "High frequency sword",
+            "2d6",
+            "19\u009620",
+            "Slashing",
+            "\u0097",
+            "Large",
+            "2 lb.",
+            "15",
+            "\u0097"
+        ],
+        [
+            "Stun baton",
+            "1d6 + special",
+            "20",
+            "Bludgeoning",
+            "\u0097",
+            "Medium",
+            "1 lb.",
+            "16",
+            "\u0097"
+        ],
+        [
+            "1 All weapons listed in this table require the Simple Weapons Proficiency feat."
+        ]
+    ]
+}

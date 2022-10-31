@@ -1,0 +1,120 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Table: The Arcane Arranger"
+        ],
+        [
+            "Level",
+            "Base Attack Bonus",
+            "Fort Save",
+            "Ref Save",
+            "Will Save",
+            "Special",
+            "Defense Bonus",
+            "Reputation Bonus"
+        ]
+    ],
+    "rows": [
+        [
+            "1st",
+            "+0",
+            "+0",
+            "+0",
+            "+1",
+            "Word on the street",
+            "+0",
+            "+2"
+        ],
+        [
+            "2nd",
+            "+1",
+            "+0",
+            "+0",
+            "+2",
+            "False allegiance",
+            "+1",
+            "+2"
+        ],
+        [
+            "3rd",
+            "+1",
+            "+1",
+            "+1",
+            "+2",
+            "Bonus feat",
+            "+1",
+            "+2"
+        ],
+        [
+            "4th",
+            "+2",
+            "+1",
+            "+1",
+            "+2",
+            "Shadow resources",
+            "+1",
+            "+3"
+        ],
+        [
+            "5th",
+            "+2",
+            "+1",
+            "+1",
+            "+3",
+            "Pack rat",
+            "+2",
+            "+3"
+        ],
+        [
+            "6th",
+            "+3",
+            "+2",
+            "+2",
+            "+3",
+            "Bonus feat",
+            "+2",
+            "+3"
+        ],
+        [
+            "7th",
+            "+3",
+            "+2",
+            "+2",
+            "+4",
+            "Expert in your field",
+            "+2",
+            "+4"
+        ],
+        [
+            "8th",
+            "+4",
+            "+2",
+            "+2",
+            "+4",
+            "Up my sleeve",
+            "+3",
+            "+4"
+        ],
+        [
+            "9th",
+            "+4",
+            "+3",
+            "+3",
+            "+4",
+            "Bonus feat",
+            "+3",
+            "+4"
+        ],
+        [
+            "10th",
+            "+5",
+            "+3",
+            "+3",
+            "+5",
+            "Up my sleeve",
+            "+3",
+            "+5"
+        ]
+    ]
+}

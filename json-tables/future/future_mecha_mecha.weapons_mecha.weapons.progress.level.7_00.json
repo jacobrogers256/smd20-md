@@ -1,0 +1,88 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Weapon",
+            "Damage",
+            "Critical",
+            "Damage Type",
+            "Range Increment",
+            "Rate of Fire",
+            "Magazine",
+            "Size",
+            "Weight",
+            "Purchase DC",
+            "Restriction"
+        ]
+    ],
+    "rows": [
+        [
+            "Chrysanthemum laser array",
+            "16d6",
+            "\u0097",
+            "Fire",
+            "\u0097",
+            "Single",
+            "1 int.",
+            "Huge",
+            "50 lb.",
+            "26",
+            "Mil (+3)"
+        ],
+        [
+            "M-300 Rhino mass cannon",
+            "8d12",
+            "20",
+            "Ballistic",
+            "100 ft.",
+            "Single",
+            "\u0097",
+            "Huge",
+            "65 lb.",
+            "29",
+            "Mil (+3)"
+        ],
+        [
+            "PS-25 Tiger claws",
+            "Varies 1",
+            "19\u009620",
+            "Slashing",
+            "\u0097",
+            "\u0097",
+            "\u0097",
+            "Varies 1",
+            "\u0097",
+            "Varies 1",
+            "\u0097"
+        ],
+        [
+            "Tsunami 480 plasma cannon",
+            "12d6",
+            "See text",
+            "Fire",
+            "See text",
+            "Single",
+            "\u0097",
+            "Huge",
+            "75 lb.",
+            "25",
+            "Mil (+3)"
+        ],
+        [
+            "XJ-A Python electro-whip",
+            "Varies 1",
+            "20",
+            "Electricity",
+            "\u0097",
+            "\u0097",
+            "\u0097",
+            "Varies 1",
+            "\u0097",
+            "Varies 1",
+            "\u0097"
+        ],
+        [
+            "1 See the weapon\u0092s description for details.  2 See the weapon\u0092s description for collateral effects to crew and passengers.  3 This mastercraft weapon grants a +1 bonus on attack rolls."
+        ]
+    ]
+}

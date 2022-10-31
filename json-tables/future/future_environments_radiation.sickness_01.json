@@ -1,0 +1,49 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Table: Radiation Sickness"
+        ],
+        [
+            "Degree of Exposure",
+            "Fortitude Save DC",
+            "Incubation Period",
+            "Initial and Secondary Damage"
+        ]
+    ],
+    "rows": [
+        [
+            "Mild",
+            "12",
+            "1 day",
+            "1d4\u00962 Con*"
+        ],
+        [
+            "Low",
+            "15",
+            "4d6 hours",
+            "1d6\u00962< Con*"
+        ],
+        [
+            "Moderate",
+            "18",
+            "3d6 hours",
+            "1d6\u00961 Con*"
+        ],
+        [
+            "High",
+            "21",
+            "2d6 hours",
+            "1d6 Con"
+        ],
+        [
+            "Severe",
+            "24",
+            "1d6 hours",
+            "2d6 Con"
+        ],
+        [
+            "* Minimum damage 0 Con."
+        ]
+    ]
+}

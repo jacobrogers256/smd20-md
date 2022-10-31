@@ -1,0 +1,43 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Familiar",
+            "Special Benefit"
+        ]
+    ],
+    "rows": [
+        [
+            "Bat",
+            "Mage gains +3 bonus on Listen checks"
+        ],
+        [
+            "Cat",
+            "Mage gains +3 bonus on Move Silently checks"
+        ],
+        [
+            "Ferret",
+            "Mage gains +2 bonus on Reflex save s"
+        ],
+        [
+            "Hawk",
+            "Mage gains +3 bonus on Spot checks in daylight"
+        ],
+        [
+            "Owl",
+            "Mage gains +3 bonus on Spot checks in dusk or darkness"
+        ],
+        [
+            "Rat",
+            "Mage gains +2 bonus on Fortitude save s"
+        ],
+        [
+            "Snake (Tiny viper)",
+            "Mage gains +3 bonus on Bluff checks"
+        ],
+        [
+            "Toad",
+            "Mage gains +3 hit points"
+        ]
+    ]
+}

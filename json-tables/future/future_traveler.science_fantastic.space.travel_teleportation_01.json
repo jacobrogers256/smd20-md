@@ -1,0 +1,30 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Table: Check DCs For Transport Disks"
+        ],
+        [
+            "Distance",
+            "Navigate Check DC",
+            "Computer Use DC"
+        ]
+    ],
+    "rows": [
+        [
+            "Planetary",
+            "15",
+            "20"
+        ],
+        [
+            "Interplanetary",
+            "20",
+            "25"
+        ],
+        [
+            "Interstellar",
+            "25",
+            "30"
+        ]
+    ]
+}

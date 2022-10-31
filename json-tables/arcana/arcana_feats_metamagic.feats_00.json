@@ -1,0 +1,54 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Table: Metamagic Spell Level Adjustments"
+        ]
+    ],
+    "rows": [
+        [
+            "Empower Spell",
+            "+2"
+        ],
+        [
+            "Enlarge Spell",
+            "+1"
+        ],
+        [
+            "Eschew Materials",
+            "None"
+        ],
+        [
+            "Extend Spell",
+            "+1"
+        ],
+        [
+            "Heighten Spell",
+            "Special (see text)"
+        ],
+        [
+            "Nonlethal Spell",
+            "+1"
+        ],
+        [
+            "Reach Spell",
+            "+2"
+        ],
+        [
+            "Sacred Spell",
+            "+2"
+        ],
+        [
+            "Shadowbane Spell",
+            "+1"
+        ],
+        [
+            "Silent Spell",
+            "+1"
+        ],
+        [
+            "Still Spell",
+            "+1"
+        ]
+    ]
+}

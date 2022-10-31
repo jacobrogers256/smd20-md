@@ -1,0 +1,109 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Weapon",
+            "Damage",
+            "Critical",
+            "Damage Type",
+            "Range Increment",
+            "Size",
+            "Weight",
+            "Purchase DC",
+            "Restriction"
+        ]
+    ],
+    "rows": [
+        [
+            "Bayonet (fixed) 1",
+            "1d4/1d6",
+            "20",
+            "Piercing",
+            "\u0097",
+            "Large",
+            "1 lb.",
+            "7",
+            "\u0097"
+        ],
+        [
+            "Hatchet",
+            "1d6",
+            "20",
+            "Slashing",
+            "10 ft.",
+            "Small",
+            "4 lb.",
+            "4",
+            "\u0097"
+        ],
+        [
+            "Longsword",
+            "1d8",
+            "19\u009620",
+            "Slashing",
+            "\u0097",
+            "Med",
+            "4 lb.",
+            "11",
+            "\u0097"
+        ],
+        [
+            "Machete",
+            "1d6",
+            "19\u009620",
+            "Slashing",
+            "\u0097",
+            "Small",
+            "2 lb.",
+            "5",
+            "\u0097"
+        ],
+        [
+            "Rapier",
+            "1d6",
+            "18\u009620",
+            "Piercing",
+            "\u0097",
+            "Med",
+            "3 lb.",
+            "10",
+            "\u0097"
+        ],
+        [
+            "Spear",
+            "1d8",
+            "20",
+            "Piercing",
+            "\u0097",
+            "Large",
+            "9 lb.",
+            "6",
+            "\u0097"
+        ],
+        [
+            "Straight razor",
+            "1d4",
+            "19\u009620",
+            "Slashing",
+            "\u0097",
+            "Tiny",
+            "0.5 lb.",
+            "4",
+            "\u0097"
+        ],
+        [
+            "Sword cane 1",
+            "1d6",
+            "18\u009620",
+            "Piercing",
+            "\u0097",
+            "Med",
+            "3 lb.",
+            "9",
+            "\u0097"
+        ],
+        [
+            "1 See the description of this weapon for special rules."
+        ]
+    ]
+}

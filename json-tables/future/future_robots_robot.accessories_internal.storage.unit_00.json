@@ -1,0 +1,45 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Table: Internal Storage Units"
+        ],
+        [
+            "Robot\u0092s Frame Size",
+            "Maximum Weight Limit",
+            "Purchase DC"
+        ]
+    ],
+    "rows": [
+        [
+            "Small",
+            "10 lb.",
+            "6"
+        ],
+        [
+            "Medium",
+            "20 lb.",
+            "8"
+        ],
+        [
+            "Large",
+            "40 lb.",
+            "10"
+        ],
+        [
+            "Huge",
+            "120 lb.",
+            "13"
+        ],
+        [
+            "Gargantuan",
+            "360 lb.",
+            "17"
+        ],
+        [
+            "Colossal",
+            "1,000 lb.",
+            "22"
+        ]
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Pack Type",
+            "Weight",
+            "Weight Limit of Contents",
+            "Volume Limit of Contents",
+            "Purchase DC"
+        ]
+    ],
+    "rows": [
+        [
+            "Light backpack",
+            "2 lb.",
+            "250 lb.",
+            "30 cu. ft.",
+            "34"
+        ],
+        [
+            "Medium backpack",
+            "5 lb.",
+            "500 lb.",
+            "70 cu. ft.",
+            "36"
+        ],
+        [
+            "Heavy backpack",
+            "8 lb.",
+            "1,000 lb.",
+            "150 cu. ft.",
+            "38"
+        ],
+        [
+            "Jumbo backpack",
+            "20 lb.",
+            "1,500 lb.",
+            "250 cu. ft.",
+            "41"
+        ]
+    ]
+}

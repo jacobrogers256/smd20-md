@@ -1,0 +1,103 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Table: Progress Level 7 Equipment"
+        ],
+        [
+            "Name",
+            "Size",
+            "Weight",
+            "Purchase DC",
+            "Restriction"
+        ],
+        [
+            "Chemical and Medical Equipment"
+        ],
+        [
+            "Miscellaneous Equipment"
+        ],
+        [
+            "Sensor Equipment"
+        ]
+    ],
+    "rows": [
+        [
+            "Chemical, biocort",
+            "Diminutive",
+            "\u0097",
+            "6",
+            "\u0097"
+        ],
+        [
+            "GalPos device",
+            "Small",
+            "3 lb.",
+            "6",
+            "\u0097"
+        ],
+        [
+            "Grappling tether",
+            "Small",
+            "2 lb.",
+            "9",
+            "\u0097"
+        ],
+        [
+            "Piercing visor",
+            "Small",
+            "1 lb.",
+            "15",
+            "Mil (+3)"
+        ],
+        [
+            "Power backpack",
+            "Medium",
+            "3 lb.",
+            "8",
+            "\u0097"
+        ],
+        [
+            "Projectile deflector",
+            "Small",
+            "0.5 lb.",
+            "15",
+            "Lic (+1)"
+        ],
+        [
+            "Sensor, armacomp",
+            "Small",
+            "1 lb.",
+            "18",
+            "\u0097"
+        ],
+        [
+            "Sensor, democomp",
+            "Small",
+            "1 lb.",
+            "18",
+            "Lic (+1)"
+        ],
+        [
+            "Sensor, electricomp",
+            "Small",
+            "1 lb.",
+            "18",
+            "\u0097"
+        ],
+        [
+            "Sensor, mechanicomp",
+            "Small",
+            "1 lb.",
+            "18",
+            "\u0097"
+        ],
+        [
+            "Sensor, medicomp",
+            "Small",
+            "1 lb.",
+            "18",
+            "Lic (+1)"
+        ]
+    ]
+}

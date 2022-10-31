@@ -1,0 +1,30 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Table: Bootleg Turn DC"
+        ],
+        [
+            "Facing Change",
+            "DC"
+        ]
+    ],
+    "rows": [
+        [
+            "45 degrees",
+            "5"
+        ],
+        [
+            "90 degrees",
+            "10"
+        ],
+        [
+            "135 degrees",
+            "15"
+        ],
+        [
+            "180 degrees",
+            "20"
+        ]
+    ]
+}

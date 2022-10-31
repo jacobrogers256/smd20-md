@@ -1,0 +1,107 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Skill",
+            "Associated Item"
+        ]
+    ],
+    "rows": [
+        [
+            "Climb",
+            "Climbing gear"
+        ],
+        [
+            "Craft (chemical)",
+            "Chemical kit"
+        ],
+        [
+            "Craft (electronic)",
+            "Electrical tool kit"
+        ],
+        [
+            "Craft (mechanical)",
+            "Mechanical tool kit"
+        ],
+        [
+            "Craft (pharmaceutical)",
+            "Pharmacist kit"
+        ],
+        [
+            "Craft (structural)",
+            "Mechanical tool kit"
+        ],
+        [
+            "Demolitions",
+            "Demolitions kit"
+        ],
+        [
+            "Disable Device",
+            "Car opening kit"
+        ],
+        [
+            "",
+            "Electrical tool kit"
+        ],
+        [
+            "",
+            "Lockpick set"
+        ],
+        [
+            "",
+            "Lock release gun"
+        ],
+        [
+            "Disguise",
+            "Disguise kit"
+        ],
+        [
+            "Forgery",
+            "Forgery kit"
+        ],
+        [
+            "Investigate",
+            "Evidence kit"
+        ],
+        [
+            "Perform (keyboards)",
+            "Instrument, keyboard"
+        ],
+        [
+            "Perform (percussion)",
+            "Instrument, percussion"
+        ],
+        [
+            "Perform (stringed)",
+            "Instrument, stringed"
+        ],
+        [
+            "Perform (wind)",
+            "Instrument, wind"
+        ],
+        [
+            "Repair",
+            "Electrical tool kit"
+        ],
+        [
+            "",
+            "Mechanical tool kit"
+        ],
+        [
+            "",
+            "Multipurpose tool"
+        ],
+        [
+            "Treat Injury",
+            "First aid kit"
+        ],
+        [
+            "",
+            "Medical kit"
+        ],
+        [
+            "",
+            "Surgery kit"
+        ]
+    ]
+}

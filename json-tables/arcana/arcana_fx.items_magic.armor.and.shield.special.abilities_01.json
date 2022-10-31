@@ -1,0 +1,27 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Fortification Type",
+            "Chance for Normal Damage",
+            "Purchase DC Modifier"
+        ]
+    ],
+    "rows": [
+        [
+            "Light",
+            "25%",
+            "+1"
+        ],
+        [
+            "Moderate",
+            "75%",
+            "+2"
+        ],
+        [
+            "Heavy",
+            "100%",
+            "+3"
+        ]
+    ]
+}

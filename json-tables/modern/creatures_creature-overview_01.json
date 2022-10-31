@@ -1,0 +1,85 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Table: Adjustments to Physical Abilities and Natural Armor"
+        ],
+        [
+            "Old Size 1",
+            "New Size",
+            "Str",
+            "Dex",
+            "Con",
+            "Natural Armor Improvement"
+        ]
+    ],
+    "rows": [
+        [
+            "Fine",
+            "Diminutive",
+            "\u0097",
+            "\u00962",
+            "\u0097",
+            "\u0097"
+        ],
+        [
+            "Diminutive",
+            "Tiny",
+            "+2",
+            "\u00962",
+            "\u0097",
+            "\u0097"
+        ],
+        [
+            "Tiny",
+            "Small",
+            "+4",
+            "\u00962",
+            "\u0097",
+            "\u0097"
+        ],
+        [
+            "Small",
+            "Medium-size",
+            "+4",
+            "\u00962",
+            "+2",
+            "\u0097"
+        ],
+        [
+            "Medium-size",
+            "Large",
+            "+8",
+            "\u00962",
+            "+4",
+            "+2"
+        ],
+        [
+            "Large",
+            "Huge",
+            "+8",
+            "\u00962",
+            "+4",
+            "+3"
+        ],
+        [
+            "Huge",
+            "Gargantuan",
+            "+8",
+            "\u0097",
+            "+4",
+            "+4"
+        ],
+        [
+            "Gargantuan",
+            "Colossal",
+            "+8",
+            "\u0097",
+            "+4",
+            "+5"
+        ],
+        [
+            "1 Repeat the adjustment if the creature moves up more than one size category."
+        ]
+    ]
+}

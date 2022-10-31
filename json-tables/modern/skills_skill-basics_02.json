@@ -1,0 +1,50 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Table: Example Opposed Checks"
+        ],
+        [
+            "Task",
+            "Skill",
+            "Opposing Skill"
+        ]
+    ],
+    "rows": [
+        [
+            "Sneak up on someone",
+            "Move Silently",
+            "Listen"
+        ],
+        [
+            "Con someone",
+            "Bluff",
+            "Sense Motive"
+        ],
+        [
+            "Hide from someone",
+            "Hide",
+            "Spot"
+        ],
+        [
+            "Win a car race",
+            "Drive",
+            "Drive"
+        ],
+        [
+            "Pretend to be someone else",
+            "Disguise",
+            "Spot"
+        ],
+        [
+            "Steal a key chain",
+            "Sleight of Hand",
+            "Spot"
+        ],
+        [
+            "Create a fake ID",
+            "Forgery",
+            "Forgery"
+        ]
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Cover or Concealment",
+            "Circumstance Bonus"
+        ]
+    ],
+    "rows": [
+        [
+            "Three-quarters",
+            "+5"
+        ],
+        [
+            "Nine-tenths",
+            "+10"
+        ]
+    ]
+}

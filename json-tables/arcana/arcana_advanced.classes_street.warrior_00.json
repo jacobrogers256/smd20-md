@@ -1,0 +1,120 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Table: The Street Warrior"
+        ],
+        [
+            "Level",
+            "Base Attack Bonus",
+            "Fort Save",
+            "Ref Save",
+            "Will Save",
+            "Special",
+            "Defense Bonus",
+            "Reputation Bonus"
+        ]
+    ],
+    "rows": [
+        [
+            "1st",
+            "+1",
+            "+2",
+            "+0",
+            "+0",
+            "Urban survival",
+            "+1",
+            "+1"
+        ],
+        [
+            "2nd",
+            "+2",
+            "+3",
+            "+0",
+            "+0",
+            "Improvised weapons",
+            "+1",
+            "+1"
+        ],
+        [
+            "3rd",
+            "+3",
+            "+3",
+            "+1",
+            "+1",
+            "Bonus feat",
+            "+2",
+            "+1"
+        ],
+        [
+            "4th",
+            "+4",
+            "+4",
+            "+1",
+            "+1",
+            "Street cred",
+            "+2",
+            "+2"
+        ],
+        [
+            "5th",
+            "+5",
+            "+4",
+            "+1",
+            "+1",
+            "Improved streetfighting",
+            "+3",
+            "+2"
+        ],
+        [
+            "6th",
+            "+6",
+            "+5",
+            "+2",
+            "+2",
+            "Bonus feat",
+            "+3",
+            "+2"
+        ],
+        [
+            "7th",
+            "+7",
+            "+5",
+            "+2",
+            "+2",
+            "Weapon specialization",
+            "+4",
+            "+3"
+        ],
+        [
+            "8th",
+            "+8",
+            "+6",
+            "+2",
+            "+2",
+            "Improvised weapon damage",
+            "+4",
+            "+3"
+        ],
+        [
+            "9th",
+            "+9",
+            "+6",
+            "+3",
+            "+3",
+            "Bonus feat",
+            "+5",
+            "+3"
+        ],
+        [
+            "10th",
+            "+10",
+            "+7",
+            "+3",
+            "+3",
+            "Advanced streetfighting",
+            "+5",
+            "+4"
+        ]
+    ]
+}

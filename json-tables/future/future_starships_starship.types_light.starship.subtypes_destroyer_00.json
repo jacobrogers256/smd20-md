@@ -1,0 +1,50 @@
+{
+    "caption": "",
+    "headers": [],
+    "rows": [
+        [
+            "Type: Light",
+            "Size: Colossal (\u00968 size)"
+        ],
+        [
+            "Subtype: Destroyer",
+            "Tactical Speed: 3,000 ft. (6 sq.)"
+        ],
+        [
+            "Defense: 11",
+            "Length: 450 feet"
+        ],
+        [
+            "Flat-footed Defense: 7",
+            "Weight: 8,000 tons"
+        ],
+        [
+            "Autopilot Defense: 7",
+            "Targeting System Bonus: +3"
+        ],
+        [
+            "Hardness: 30",
+            "Crew: 80 (expert +8)"
+        ],
+        [
+            "Hit Dice: 80d20 (1,600 hp)",
+            "Passenger Capacity: 48"
+        ],
+        [
+            "Initiative Modifier: +4",
+            "Cargo Capacity: 400 tons"
+        ],
+        [
+            "Pilot\u0092s Class Bonus: +5",
+            "Grapple Modifier: +16"
+        ],
+        [
+            "Pilot\u0092s Dex Modifier: +4",
+            "Base Purchase DC: 60"
+        ],
+        [
+            "Gunner\u0092s Attack Bonus: +4",
+            "Restriction: Military (+3)"
+        ]
+    ]
+}

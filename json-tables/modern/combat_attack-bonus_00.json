@@ -1,0 +1,50 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Table: Size Modifiers"
+        ],
+        [
+            "Size (Example)",
+            "Size Modifier"
+        ]
+    ],
+    "rows": [
+        [
+            "Colossal (blue whale [90 ft. long])",
+            "\u00968"
+        ],
+        [
+            "Gargantuan (gray whale [40 ft. long])",
+            "\u00964"
+        ],
+        [
+            "Huge (elephant)",
+            "\u00962"
+        ],
+        [
+            "Large (lion)",
+            "\u00961"
+        ],
+        [
+            "Medium-size (human)",
+            "+0"
+        ],
+        [
+            "Small (German shepherd)",
+            "+1"
+        ],
+        [
+            "Tiny (housecat)",
+            "+2"
+        ],
+        [
+            "Diminutive (rat)",
+            "+4"
+        ],
+        [
+            "Fine (horsefly)",
+            "+8"
+        ]
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Table: Bonus Skill Points and Feats by Creature Type"
+        ],
+        [
+            "Type",
+            "Bonus Skill Points",
+            "Bonus Feats"
+        ]
+    ],
+    "rows": [
+        [
+            "Aberration",
+            "+2 per extra HD",
+            "+1 per 4 extra HD"
+        ],
+        [
+            "Animal",
+            "\u0097",
+            "\u0097"
+        ],
+        [
+            "Construct",
+            "\u0097",
+            "\u0097"
+        ],
+        [
+            "Dragon",
+            "6 + Int modifier per extra HD",
+            "+1 per 4 extra HD"
+        ],
+        [
+            "Elemental",
+            "+2 per extra HD",
+            "+1 per 4 extra HD"
+        ],
+        [
+            "Fey",
+            "+2 per extra HD",
+            "+1 per 4 extra HD"
+        ],
+        [
+            "Giant",
+            "+2 per extra HD",
+            "+1 per 4 extra HD"
+        ],
+        [
+            "Humanoid",
+            "+1 per extra HD",
+            "+1 per 4 extra HD"
+        ],
+        [
+            "Magical beast",
+            "+1 per extra HD 1",
+            "+1 per 4 extra HD"
+        ],
+        [
+            "Monstrous humanoid",
+            "+2 per extra HD",
+            "+1 per 4 extra HD"
+        ],
+        [
+            "Ooze",
+            "\u0097",
+            "\u0097"
+        ],
+        [
+            "Outsider",
+            "8 + Int modifier per 4 extra HD",
+            "+1 per extra HD"
+        ],
+        [
+            "Plant",
+            "\u0097",
+            "\u0097"
+        ],
+        [
+            "Undead",
+            "+2 per extra HD",
+            "+1 per 4 extra HD"
+        ],
+        [
+            "Vermin",
+            "\u0097",
+            "\u0097"
+        ],
+        [
+            "1 Magical beasts with an Intelligence of 1 or 2 gain no bonus skills as they advance."
+        ]
+    ]
+}

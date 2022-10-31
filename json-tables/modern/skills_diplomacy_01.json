@@ -1,0 +1,58 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Initial Attitude",
+            "\u0097\u0097\u0097\u0097\u0097\u0097\u0097\u0097 New Attitude \u0097\u0097\u0097\u0097\u0097\u0097\u0097\u0097"
+        ],
+        [
+            "Hostile",
+            "Unf.",
+            "Indif.",
+            "Friendly",
+            "Helpful"
+        ],
+        [
+            "Hostile"
+        ],
+        [
+            "Unfriendly"
+        ],
+        [
+            "Indifferent"
+        ],
+        [
+            "Friendly"
+        ]
+    ],
+    "rows": [
+        [
+            "19 or less",
+            "20",
+            "25",
+            "35",
+            "45"
+        ],
+        [
+            "4 or less",
+            "5",
+            "15",
+            "25",
+            "35"
+        ],
+        [
+            "\u0097",
+            "0 or less",
+            "1",
+            "15",
+            "25"
+        ],
+        [
+            "\u0097",
+            "\u0097",
+            "0 or less",
+            "1",
+            "15"
+        ]
+    ]
+}

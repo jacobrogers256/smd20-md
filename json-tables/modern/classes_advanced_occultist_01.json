@@ -1,0 +1,39 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Task",
+            "DC"
+        ]
+    ],
+    "rows": [
+        [
+            "Activate blindly",
+            "25"
+        ],
+        [
+            "Decipher a written spell",
+            "25 + spell level"
+        ],
+        [
+            "Emulate class feature",
+            "20"
+        ],
+        [
+            "Emulate ability score",
+            "See text"
+        ],
+        [
+            "Emulate allegiance",
+            "30"
+        ],
+        [
+            "Use a scroll",
+            "20 + caster level"
+        ],
+        [
+            "Use a wand",
+            "20"
+        ]
+    ]
+}

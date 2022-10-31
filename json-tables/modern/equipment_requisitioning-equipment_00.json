@@ -1,0 +1,61 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Table: Requisition Modifiers"
+        ],
+        [
+            "Situation",
+            "Modifier"
+        ],
+        [
+            "Object restriction"
+        ]
+    ],
+    "rows": [
+        [
+            "Object is necessary for assignment",
+            "+6"
+        ],
+        [
+            "Object has obvious application for assignment",
+            "+4"
+        ],
+        [
+            "Object has peripheral application for assignment",
+            "+2"
+        ],
+        [
+            "Object has no obvious application for assignment",
+            "\u00962"
+        ],
+        [
+            "Object is rare",
+            "\u00962"
+        ],
+        [
+            "Licensed",
+            "\u00962"
+        ],
+        [
+            "Restricted",
+            "\u00964"
+        ],
+        [
+            "Military",
+            "\u00966"
+        ],
+        [
+            "Illegal",
+            "\u00968"
+        ],
+        [
+            "Hero is skilled or proficient in use of object",
+            "+2"
+        ],
+        [
+            "Hero returned all gear undamaged on previous mission",
+            "+2"
+        ]
+    ]
+}

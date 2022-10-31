@@ -1,0 +1,23 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Entertainment",
+            "Purchase DC"
+        ]
+    ],
+    "rows": [
+        [
+            "Movie ticket",
+            "3"
+        ],
+        [
+            "Theater ticket",
+            "7"
+        ],
+        [
+            "Sporting event ticket",
+            "7"
+        ]
+    ]
+}

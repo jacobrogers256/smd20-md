@@ -1,0 +1,27 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Scope of Alteration",
+            "DC",
+            "Time"
+        ]
+    ],
+    "rows": [
+        [
+            "Crash computer",
+            "10",
+            "1 minute"
+        ],
+        [
+            "Destroy programming",
+            "15",
+            "10 minutes"
+        ],
+        [
+            "Damage programming",
+            "20",
+            "10 minutes"
+        ]
+    ]
+}

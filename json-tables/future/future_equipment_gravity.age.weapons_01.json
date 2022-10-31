@@ -1,0 +1,24 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Table: Progress Level 7 Melee Weapons"
+        ],
+        [
+            "Weapon 1",
+            "Damage",
+            "Critical",
+            "Damage Type",
+            "Range Increment",
+            "Size",
+            "Weight",
+            "Purchase DC",
+            "Restriction"
+        ]
+    ],
+    "rows": [
+        [
+            "1 All weapons listed in this table require the Simple Weapons Proficiency feat."
+        ]
+    ]
+}

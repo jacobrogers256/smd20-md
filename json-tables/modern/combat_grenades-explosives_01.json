@@ -1,0 +1,46 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Thrown Explosive (Miss 2 to 3 Range Increments)"
+        ],
+        [
+            "Roll on d8",
+            "Location Struck"
+        ]
+    ],
+    "rows": [
+        [
+            "1",
+            "upper right corner, one square beyond target"
+        ],
+        [
+            "2",
+            "upper right corner, one square right of target"
+        ],
+        [
+            "3",
+            "lower right corner, one square right of target"
+        ],
+        [
+            "4",
+            "lower right corner, one square short of target"
+        ],
+        [
+            "5",
+            "lower left corner, one square short of target"
+        ],
+        [
+            "6",
+            "lower left corner, one square left of target"
+        ],
+        [
+            "7",
+            "upper left corner, one square left of target"
+        ],
+        [
+            "8",
+            "upper left corner, one square beyond target"
+        ]
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Table: Progress Level 8 Explosives And Splash Weapons"
+        ],
+        [
+            "Weapon",
+            "Damage",
+            "Critical",
+            "Damage Type",
+            "Burst Radius",
+            "Reflex DC",
+            "Range Increment",
+            "Size",
+            "Weight",
+            "Purchase DC",
+            "Restriction"
+        ]
+    ],
+    "rows": [
+        [
+            "Grenade, cryonic",
+            "8d6",
+            "\u0097",
+            "Cold",
+            "10 ft.",
+            "15",
+            "10 ft.",
+            "Small",
+            "2 lb.",
+            "19",
+            "Res (+2)"
+        ],
+        [
+            "Grenade, psionic",
+            "Special 1",
+            "\u0097",
+            "\u0097",
+            "10 ft.",
+            "18",
+            "10 ft.",
+            "Tiny",
+            "1 lb.",
+            "22",
+            "Res (+2)"
+        ],
+        [
+            "Grenade, singularity",
+            "15d6",
+            "\u0097",
+            "Energy 2",
+            "5 ft.",
+            "15",
+            "10 ft.",
+            "Small",
+            "2 lb.",
+            "26",
+            "Mil (+3)"
+        ],
+        [
+            "1 See the weapon description for details.  2 This weapon deals damage of a nonspecific energy type that is not subject to energy resistance."
+        ]
+    ]
+}

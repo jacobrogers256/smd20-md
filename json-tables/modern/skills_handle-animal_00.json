@@ -1,0 +1,32 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Task",
+            "Time",
+            "DC"
+        ]
+    ],
+    "rows": [
+        [
+            "Handle an animal",
+            "Move action",
+            "10"
+        ],
+        [
+            "\u0093Push\u0094 an animal",
+            "Full-round action",
+            "25"
+        ],
+        [
+            "Teach an animal a trick",
+            "1 week",
+            "See text"
+        ],
+        [
+            "Train an animal for a purpose",
+            "See text",
+            "See text"
+        ]
+    ]
+}

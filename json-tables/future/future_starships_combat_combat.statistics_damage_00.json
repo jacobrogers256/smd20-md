@@ -1,0 +1,62 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Table: Optional Critical Hit Results"
+        ],
+        [
+            "d% Roll",
+            "Effect(s)"
+        ]
+    ],
+    "rows": [
+        [
+            "01\u009635",
+            "Normal critical hit"
+        ],
+        [
+            "36\u009650",
+            "Normal critical hit, crew casualties"
+        ],
+        [
+            "51\u009655",
+            "Severe critical hit, artificial gravity disabled"
+        ],
+        [
+            "56\u009660",
+            "Severe critical hit, crew casualties"
+        ],
+        [
+            "61\u009665",
+            "Damaged system: comm system"
+        ],
+        [
+            "66\u009670",
+            "Damaged system: defense system"
+        ],
+        [
+            "71\u009675",
+            "Damaged system: engines"
+        ],
+        [
+            "76\u009680",
+            "Damaged system: sensors"
+        ],
+        [
+            "81\u009685",
+            "Damaged system: targeting system"
+        ],
+        [
+            "86\u009690",
+            "Damaged system: weapon"
+        ],
+        [
+            "91\u009695",
+            "Destroyed defensive system"
+        ],
+        [
+            "96\u0096100",
+            "Destroyed weapon"
+        ]
+    ]
+}

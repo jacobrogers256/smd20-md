@@ -1,0 +1,27 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Functioning Power Level",
+            "Item Manifester Level",
+            "Aura Power"
+        ]
+    ],
+    "rows": [
+        [
+            "0-level or lingering aura",
+            "Lingering aura",
+            "Dim"
+        ],
+        [
+            "1st\u00963rd",
+            "1st\u00965th",
+            "Faint"
+        ],
+        [
+            "4th\u00965th",
+            "\u0097",
+            "Moderate"
+        ]
+    ]
+}

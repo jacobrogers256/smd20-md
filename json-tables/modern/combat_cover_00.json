@@ -1,0 +1,43 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Table: Cover"
+        ],
+        [
+            "Degree of Cover (Example)",
+            "Cover Bonus to Defense",
+            "Reflex Saves"
+        ]
+    ],
+    "rows": [
+        [
+            "One-quarter (standing behind a 3-ft. high wall)",
+            "+2",
+            "+1"
+        ],
+        [
+            "One-half (fighting from around a corner or a tree; standing at an open window; behind a creature of same size)",
+            "+4",
+            "+2"
+        ],
+        [
+            "Three-quarters (peering around a corner or a big tree)",
+            "+7",
+            "+3"
+        ],
+        [
+            "Nine-tenths (standing at an arrow slit; behind a door that\u0092s slightly ajar)",
+            "+10",
+            "+4 1"
+        ],
+        [
+            "Total (on the other side of a solid wall)",
+            "\u0097",
+            "\u0097"
+        ],
+        [
+            "1 Half damage if save is failed; no damage if successful."
+        ]
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Table: Radiation Sickness"
+        ],
+        [
+            "Degree of Exposure",
+            "Fort Save DC",
+            "Damage"
+        ]
+    ],
+    "rows": [
+        [
+            "Mild",
+            "12",
+            "1d4\u00962 Con*"
+        ],
+        [
+            "Low",
+            "15",
+            "1d6\u00962 Con*"
+        ],
+        [
+            "Moderate",
+            "18",
+            "1d6\u00961 Con"
+        ],
+        [
+            "High",
+            "21",
+            "1d6 Con"
+        ],
+        [
+            "Severe",
+            "24",
+            "2d6 Con"
+        ],
+        [
+            "*Minimum damage 0 Con."
+        ]
+    ]
+}

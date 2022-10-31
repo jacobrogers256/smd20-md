@@ -1,0 +1,55 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Name",
+            "Type",
+            "Equipment Bonus",
+            "Nonprof. Bonus",
+            "Maximum Dex Bonus",
+            "Armor Penalty",
+            "Speed (30 ft.)",
+            "Weight",
+            "Purchase DC",
+            "Restriction"
+        ]
+    ],
+    "rows": [
+        [
+            "Special response vest",
+            "Tactical",
+            "+7",
+            "+3",
+            "+1",
+            "\u00966",
+            "20",
+            "15 lb.",
+            "18",
+            "Lic (+1)"
+        ],
+        [
+            "Plate mail",
+            "Archaic",
+            "+8",
+            "+3",
+            "+1",
+            "\u00966",
+            "20",
+            "50 lb.",
+            "23",
+            "\u0097"
+        ],
+        [
+            "Forced entry unit",
+            "Tactical",
+            "+9",
+            "+3",
+            "+0",
+            "\u00968",
+            "20",
+            "20 lb.",
+            "19",
+            "Lic (+1)"
+        ]
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Table: Substance Hardness and Hit Points"
+        ],
+        [
+            "Substance",
+            "Hardness",
+            "Hit Points"
+        ]
+    ],
+    "rows": [
+        [
+            "Paper",
+            "0",
+            "2/inch of thickness"
+        ],
+        [
+            "Rope",
+            "0",
+            "2/inch of thickness"
+        ],
+        [
+            "Plastic, soft",
+            "0",
+            "3/inch of thickness"
+        ],
+        [
+            "Glass",
+            "1",
+            "1/inch of thickness"
+        ],
+        [
+            "Ceramic",
+            "1",
+            "2/inch of thickness"
+        ],
+        [
+            "Ice",
+            "0",
+            "3/inch of thickness"
+        ],
+        [
+            "Plastic, hard",
+            "2",
+            "5/inch of thickness"
+        ],
+        [
+            "Wood",
+            "5",
+            "10/inch of thickness"
+        ],
+        [
+            "Aluminum",
+            "6",
+            "10/inch of thickness"
+        ],
+        [
+            "Concrete",
+            "8",
+            "15/inch of thickness"
+        ],
+        [
+            "Steel",
+            "10",
+            "30/inch of thickness"
+        ]
+    ]
+}

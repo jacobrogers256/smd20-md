@@ -1,0 +1,124 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Table: Progress Level 7 Equipment"
+        ],
+        [
+            "Name",
+            "Size",
+            "Weight",
+            "Purchase DC",
+            "Restriction"
+        ],
+        [
+            "Computer Equipment"
+        ],
+        [
+            "Miscellaneous Equipment"
+        ],
+        [
+            "Survival Equipment"
+        ]
+    ],
+    "rows": [
+        [
+            "Display glasses",
+            "Tiny",
+            "1 lb.",
+            "12",
+            "\u0097"
+        ],
+        [
+            "Hackcard",
+            "Diminutive",
+            "\u0097",
+            "14",
+            "Lic (+1)"
+        ],
+        [
+            "Duracable",
+            "Medium",
+            "3 lb.",
+            "4",
+            "\u0097"
+        ],
+        [
+            "Grappler tag",
+            "Tiny",
+            "1 lb.",
+            "5",
+            "\u0097"
+        ],
+        [
+            "Explorer outfit",
+            "Medium",
+            "2 lb.",
+            "6",
+            "\u0097"
+        ],
+        [
+            "Heads-up display",
+            "Tiny",
+            "1 lb.",
+            "7",
+            "\u0097"
+        ],
+        [
+            "Laser tripwire",
+            "Diminutive",
+            "\u0097",
+            "5",
+            "\u0097"
+        ],
+        [
+            "Nanobeacon",
+            "Fine",
+            "\u0097",
+            "8",
+            "\u0097"
+        ],
+        [
+            "Shepherd chip",
+            "Fine",
+            "\u0097",
+            "12",
+            "\u0097"
+        ],
+        [
+            "Spray LCD",
+            "Tiny",
+            "0.5 lb.",
+            "8",
+            "\u0097"
+        ],
+        [
+            "Portable environment generator",
+            "Medium",
+            "5 lb.",
+            "13",
+            "\u0097"
+        ],
+        [
+            "Portable glow lamp",
+            "Tiny",
+            "0.5 lb.",
+            "4",
+            "\u0097"
+        ],
+        [
+            "Puritizer",
+            "Small",
+            "2 lb.",
+            "9",
+            "\u0097"
+        ],
+        [
+            "Soother pulse",
+            "Diminutive",
+            "\u0097",
+            "14",
+            "\u0097"
+        ]
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Table: Dragon Breath Weapon Types"
+        ],
+        [
+            "Type",
+            "Dragon Color",
+            "Allegiance",
+            "Notes"
+        ]
+    ],
+    "rows": [
+        [
+            "Line of acid",
+            "Black",
+            "Evil",
+            "Damage by age category (see Table: Dragon Age Categories)"
+        ],
+        [
+            "Line of electricity",
+            "Blue",
+            "Evil",
+            "Damage by age category (see Table: Dragon Age Categories)"
+        ],
+        [
+            "Cone of acid",
+            "Green",
+            "Evil",
+            "Damage by age category (see Table: Dragon Age Categories)"
+        ],
+        [
+            "Cone of fire",
+            "Red",
+            "Evil",
+            "Damage by age category (see Table: Dragon Age Categories)"
+        ],
+        [
+            "Cone of cold",
+            "White",
+            "Evil",
+            "Damage by age category (see Table: Dragon Age Categories)"
+        ],
+        [
+            "Cone of sleep gas",
+            "Brass",
+            "Good",
+            "Will save or fall asleep for 1d6 rounds + 1 round per dragon age category"
+        ],
+        [
+            "Cone of repulsion gas",
+            "Bronze",
+            "Good",
+            "Will save or move away for 1d6 rounds + 1 round per dragon age category"
+        ],
+        [
+            "Cone of slow gas",
+            "Copper",
+            "Good",
+            "Fortitude save or slowed (as slow spell) for 1d6 rounds + 1 round per dragon age category"
+        ],
+        [
+            "Cone of weakening gas",
+            "Gold",
+            "Good",
+            "Fortitude save or take 1 point of temporary Strength damage per dragon age category"
+        ],
+        [
+            "Cone of paralysis gas",
+            "Silver",
+            "Good",
+            "Fortitude save or paralyzed for 1d6 rounds + 1 round per dragon age category"
+        ]
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Table: Diplomatic Immunity"
+        ],
+        [
+            "Severity of Crime",
+            "Examples",
+            "DC",
+            "Effect of Successful Diplomacy Check"
+        ]
+    ],
+    "rows": [
+        [
+            "Class 5",
+            "Disturbing the peace, public intoxication, noninjurious traffic violation",
+            "15",
+            "\u00962 penalty on subsequent Diplomacy checks in that area"
+        ],
+        [
+            "Class 4",
+            "Possession of controlled substance, injurious traffic violation, operating business without a license, operating a vehicle or starship without a license, assault without a deadly weapon",
+            "20",
+            "\u00965 penalty on subsequent Diplomacy a checks in that area"
+        ],
+        [
+            "Class 3",
+            "Attempted bribery of a public official, robbery or grand theft, aiding and abetting a known felon, assault with a deadly weapon, possession of a concealed weapon",
+            "25",
+            "\u009610 penalty on subsequent Diplomacy checks in the area"
+        ],
+        [
+            "Class 2",
+            "Murder or manslaughter, fraud, smuggling, assault against a public official, trafficking in controlled substances",
+            "30",
+            "Deportation within 2d6 hours"
+        ],
+        [
+            "Class 1",
+            "Conspiracy against the government, murder of a public official, sabotage of public utilities",
+            "35",
+            "Detention pending the diplomatic action by character\u0092s affiliated government"
+        ]
+    ]
+}

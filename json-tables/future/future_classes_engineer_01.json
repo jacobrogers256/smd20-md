@@ -1,0 +1,30 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Table: Superior Repair"
+        ],
+        [
+            "Repair Check Result",
+            "Damage Repaired"
+        ]
+    ],
+    "rows": [
+        [
+            "Less than 20",
+            "None"
+        ],
+        [
+            "20\u009629",
+            "2d6 + Engineer class level"
+        ],
+        [
+            "30\u009639",
+            "3d6 + Engineer class level"
+        ],
+        [
+            "40+",
+            "4d6 + Engineer class level"
+        ]
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Knowledge of Subject",
+            "Will Save Modifier"
+        ]
+    ],
+    "rows": [
+        [
+            "None*",
+            "+10"
+        ],
+        [
+            "Secondhand (you have heard of the subject)",
+            "+5"
+        ],
+        [
+            "Firsthand (you have met the subject)",
+            "+0"
+        ],
+        [
+            "Familiar (you know the subject well)",
+            "\u00965"
+        ],
+        [
+            "*You must have some sort of connection to a creature you have no knowledge of."
+        ]
+    ]
+}

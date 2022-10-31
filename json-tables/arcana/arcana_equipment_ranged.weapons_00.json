@@ -1,0 +1,236 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Table: Ranged Weapons"
+        ],
+        [
+            "Nonfirearms (feat needed listed in parentheses)"
+        ],
+        [
+            "Weapon",
+            "Damage",
+            "Critical",
+            "Damage Type",
+            "Range Increment",
+            "Rate of Fire",
+            "Magazine",
+            "Size",
+            "Weight",
+            "Purchase DC",
+            "Restriction"
+        ]
+    ],
+    "rows": [
+        [
+            "Air pistol (simple)*",
+            "1d2",
+            "20",
+            "Piercing",
+            "30 ft.",
+            "1",
+            "1 Int.",
+            "Small",
+            "2 lb.",
+            "7",
+            "\u0097"
+        ],
+        [
+            "Air rifle (simple)*",
+            "1d2",
+            "20",
+            "Piercing",
+            "50 ft.",
+            "1",
+            "1 Int.",
+            "Large",
+            "5 lb.",
+            "8",
+            "\u0097"
+        ],
+        [
+            "Blowgun (simple)*",
+            "1",
+            "20",
+            "Piercing",
+            "10 ft.",
+            "1",
+            "1 Int.",
+            "Small",
+            "2 lb.",
+            "4",
+            "\u0097"
+        ],
+        [
+            "Bolas (archaic)*",
+            "*",
+            "\u0097",
+            "*",
+            "10 ft.",
+            "1",
+            "\u0097",
+            "Small",
+            "2 lb.",
+            "3",
+            "\u0097"
+        ],
+        [
+            "Crossbow, grapple-firing (archaic)*",
+            "1d3",
+            "*",
+            "Piercing",
+            "120 ft.",
+            "1",
+            "1 Int.",
+            "Med.",
+            "12 lb.",
+            "12",
+            "\u0097"
+        ],
+        [
+            "Crossbow, hand (archaic)",
+            "1d4",
+            "19\u009620",
+            "Piercing",
+            "30 ft.",
+            "1",
+            "1 Int.",
+            "Tiny",
+            "3 lb.",
+            "11",
+            "\u0097"
+        ],
+        [
+            "Crossbow, repeating (exotic)",
+            "1d8",
+            "19\u009620",
+            "Piercing",
+            "80 ft.",
+            "1",
+            "5 Int.",
+            "Med.",
+            "16 lb.",
+            "13",
+            "\u0097"
+        ],
+        [
+            "Flare gun (simple)*",
+            "1d8",
+            "20",
+            "Fire",
+            "30 ft.",
+            "1",
+            "1 Int.",
+            "Small",
+            "2 lb.",
+            "11",
+            "\u0097"
+        ],
+        [
+            "Net (archaic)*",
+            "*",
+            "\u0097",
+            "*",
+            "10 ft.*",
+            "1",
+            "\u0097",
+            "Med.",
+            "10 lb.",
+            "6",
+            "\u0097"
+        ],
+        [
+            "Net launcher (grenade launcher)",
+            "*",
+            "\u0097",
+            "\u0097",
+            "10 ft.",
+            "1",
+            "1 Int.",
+            "Large",
+            "20 lb.",
+            "15",
+            "Lic (+1)"
+        ],
+        [
+            "Paint ball gun (simple)",
+            "\u0097",
+            "20*",
+            "*",
+            "30 ft.",
+            "Semi",
+            "40 Int.",
+            "Small",
+            "2 lb.",
+            "8"
+        ],
+        [
+            "Sling (archaic)",
+            "1d4",
+            "20",
+            "Ballistic",
+            "50 ft.",
+            "1",
+            "\u0097",
+            "Small",
+            "\u0097",
+            "3",
+            "\u0097"
+        ],
+        [
+            "Slingshot (simple)",
+            "1d3",
+            "20",
+            "Ballistic",
+            "50 ft.",
+            "1",
+            "\u0097",
+            "Tiny",
+            "1 lb.",
+            "4",
+            "\u0097"
+        ],
+        [
+            "Speargun (simple)*",
+            "2d6",
+            "20",
+            "Piercing",
+            "10 ft.",
+            "1",
+            "1 Int.",
+            "Large",
+            "5 lb.",
+            "10",
+            "\u0097"
+        ],
+        [
+            "Super watergun (no feat required)*",
+            "*",
+            "*",
+            "*",
+            "10 ft.",
+            "1",
+            "5 Int.",
+            "Med.",
+            "2 lb.",
+            "4",
+            "\u0097"
+        ],
+        [
+            "Water cannon (simple)*",
+            "*",
+            "\u0097",
+            "*",
+            "10 ft.",
+            "*",
+            "20 Int.",
+            "Huge",
+            "50 lb.",
+            "19",
+            "Lic (+1)"
+        ],
+        [
+            "*See weapon description for more information."
+        ]
+    ]
+}

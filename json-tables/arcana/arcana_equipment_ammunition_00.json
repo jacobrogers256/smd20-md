@@ -1,0 +1,78 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Table: Ammunition"
+        ],
+        [
+            "Ammunition Type",
+            "Purchase DC Modifier",
+            "Restriction"
+        ]
+    ],
+    "rows": [
+        [
+            "Armor Piercing",
+            "+3",
+            "Res (+2)"
+        ],
+        [
+            "Beanbag",
+            "+2",
+            "Res (+2)"
+        ],
+        [
+            "Birdshot",
+            "\u00961",
+            "Lic (+1)"
+        ],
+        [
+            "Flechette",
+            "+4",
+            "Mil (+3)"
+        ],
+        [
+            "Frangible",
+            "+2",
+            "Res (+2)"
+        ],
+        [
+            "High Explosive",
+            "+5",
+            "Mil (+3)"
+        ],
+        [
+            "Rubber Round",
+            "+1",
+            "Res (+2)"
+        ],
+        [
+            "Silver",
+            "+6",
+            "\u0097"
+        ],
+        [
+            "Subsonic",
+            "+4",
+            "Mil (+3)"
+        ],
+        [
+            "Tracer",
+            "+1",
+            "Mil (+3)"
+        ],
+        [
+            "Tranquilizer",
+            "7*",
+            "Res (+2)"
+        ],
+        [
+            "White Phosphorous (WP)",
+            "+5",
+            "Mil (+3)"
+        ],
+        [
+            "*This is the regular purchase DC, not modifier."
+        ]
+    ]
+}

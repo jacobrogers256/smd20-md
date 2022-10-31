@@ -1,0 +1,27 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Armor Type",
+            "Arcane Spell Failure (Proficient)",
+            "Arcane Spell Failure (Nonproficient)"
+        ]
+    ],
+    "rows": [
+        [
+            "Light",
+            "10%",
+            "20%"
+        ],
+        [
+            "Medium",
+            "20%",
+            "30%"
+        ],
+        [
+            "Heavy",
+            "30%",
+            "40%"
+        ]
+    ]
+}

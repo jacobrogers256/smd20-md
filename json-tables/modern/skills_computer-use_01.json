@@ -1,0 +1,27 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Level of Security",
+            "DC"
+        ]
+    ],
+    "rows": [
+        [
+            "Minimum",
+            "20"
+        ],
+        [
+            "Average",
+            "25"
+        ],
+        [
+            "Exceptional",
+            "35"
+        ],
+        [
+            "Maximum",
+            "40"
+        ]
+    ]
+}

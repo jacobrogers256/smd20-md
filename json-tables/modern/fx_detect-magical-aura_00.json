@@ -1,0 +1,37 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Functioning Spell Level",
+            "Item Caster Level",
+            "Aura Power"
+        ]
+    ],
+    "rows": [
+        [
+            "0-level or lingering aura",
+            "Lingering aura",
+            "Dim"
+        ],
+        [
+            "1st\u00962nd",
+            "1st\u00963rd",
+            "Faint"
+        ],
+        [
+            "3rd",
+            "4th\u00965th",
+            "Moderate"
+        ],
+        [
+            "4th",
+            "6th\u00967th",
+            "Strong"
+        ],
+        [
+            "5th",
+            "8th\u009610th",
+            "Overwhelming"
+        ]
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Table: Mecha Critical Hits"
+        ],
+        [
+            "d%",
+            "Roll Effect(s)"
+        ]
+    ],
+    "rows": [
+        [
+            "01\u009615",
+            "Normal damage, crew dazed"
+        ],
+        [
+            "16\u009635",
+            "Normal critical hit, crew dazed"
+        ],
+        [
+            "36\u009645",
+            "Normal critical hit, mecha knocked prone"
+        ],
+        [
+            "46\u009650",
+            "Severe critical hit, crew dazed, mecha stunned"
+        ],
+        [
+            "51\u009655",
+            "Severe critical hit, mecha knocked prone"
+        ],
+        [
+            "56\u009660",
+            "Crew hit (normal damage)"
+        ],
+        [
+            "61\u009670",
+            "Normal damage, equipment damaged"
+        ],
+        [
+            "71\u009680",
+            "Normal damage, equipment destroyed"
+        ],
+        [
+            "81\u009690",
+            "Normal critical hit, slot damaged"
+        ],
+        [
+            "91\u0096100",
+            "Normal critical hit, slot destroyed"
+        ]
+    ]
+}

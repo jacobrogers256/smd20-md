@@ -1,0 +1,186 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Table: Progress Level 6 Equipment"
+        ],
+        [
+            "Name",
+            "Size",
+            "Weight",
+            "Purchase DC",
+            "Restriction"
+        ],
+        [
+            "Chemical and Medical Equipment"
+        ],
+        [
+            "Computer Equipment"
+        ],
+        [
+            "Miscellaneous Equipment"
+        ],
+        [
+            "Sensor Equipment"
+        ],
+        [
+            "Survival Equipment"
+        ]
+    ],
+    "rows": [
+        [
+            "Chemical, antitox",
+            "Diminutive",
+            "\u0097",
+            "6",
+            "\u0097"
+        ],
+        [
+            "Chemical, boost",
+            "Diminutive",
+            "\u0097",
+            "6",
+            "Illegal (+4)"
+        ],
+        [
+            "Chemical, neutrad",
+            "Diminutive",
+            "\u0097",
+            "6",
+            "\u0097"
+        ],
+        [
+            "Chemical, solvaway",
+            "Diminutive",
+            "\u0097",
+            "5",
+            "\u0097"
+        ],
+        [
+            "Chemical, sporekill",
+            "Diminutive",
+            "\u0097",
+            "6",
+            "\u0097"
+        ],
+        [
+            "Medkit, advanced",
+            "Small",
+            "3 lb.",
+            "7",
+            "\u0097"
+        ],
+        [
+            "Medkit, fast use",
+            "Small",
+            "3 lb.",
+            "7",
+            "\u0097"
+        ],
+        [
+            "Plastic surgery kit, personal",
+            "Tiny",
+            "1 lb.",
+            "11",
+            "Lic (+1)"
+        ],
+        [
+            "Computer, card",
+            "Diminutive",
+            "\u0097",
+            "22",
+            "\u0097"
+        ],
+        [
+            "Display contacts",
+            "Fine",
+            "\u0097",
+            "16",
+            "\u0097"
+        ],
+        [
+            "Disguise kit, morphic",
+            "Tiny",
+            "1 lb.",
+            "12",
+            "\u0097"
+        ],
+        [
+            "Flash-seal",
+            "Tiny",
+            "1 lb.",
+            "8",
+            "\u0097"
+        ],
+        [
+            "Fusion torch",
+            "Medium",
+            "3 lb.",
+            "10",
+            "\u0097"
+        ],
+        [
+            "Intellipicks",
+            "Small",
+            "1 lb.",
+            "13",
+            "Lic (+1)"
+        ],
+        [
+            "Jetpack",
+            "Large",
+            "22 lb.",
+            "16",
+            "Lic (+1)"
+        ],
+        [
+            "Neural scrambler",
+            "Small",
+            "1 lb.",
+            "10",
+            "Res (+2)"
+        ],
+        [
+            "Universal communicator",
+            "Tiny",
+            "0.5 lb.",
+            "6",
+            "\u0097"
+        ],
+        [
+            "Sensor, chemicomp",
+            "Small",
+            "1 lb.",
+            "18",
+            "\u0097"
+        ],
+        [
+            "Sensor, geocomp",
+            "Small",
+            "1 lb.",
+            "18",
+            "\u0097"
+        ],
+        [
+            "Sensor, motion",
+            "Tiny",
+            "0.5 lb.",
+            "14",
+            "\u0097"
+        ],
+        [
+            "Aquaconverter",
+            "Medium",
+            "4 lb.",
+            "13",
+            "\u0097"
+        ],
+        [
+            "Violet rations",
+            "Fine",
+            "\u0097",
+            "5",
+            "\u0097"
+        ]
+    ]
+}

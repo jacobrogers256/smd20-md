@@ -1,0 +1,30 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Disguise",
+            "Modifier"
+        ]
+    ],
+    "rows": [
+        [
+            "Minor details only",
+            "+5"
+        ],
+        [
+            "Appropriate uniform or costume",
+            "+2"
+        ],
+        [
+            "Disguised as different sex",
+            "\u00962"
+        ],
+        [
+            "Disguised as different age category",
+            "\u00962 1"
+        ],
+        [
+            "1 Per step of difference between the character\u0092s age category and the disguised age category (child, young adult, adult, middle age, old, or venerable)."
+        ]
+    ]
+}

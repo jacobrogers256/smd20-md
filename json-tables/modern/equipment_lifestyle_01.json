@@ -1,0 +1,23 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Lodging",
+            "Purchase DC"
+        ]
+    ],
+    "rows": [
+        [
+            "Budget motel",
+            "7"
+        ],
+        [
+            "Average hotel",
+            "9"
+        ],
+        [
+            "Upscale hotel",
+            "11"
+        ]
+    ]
+}

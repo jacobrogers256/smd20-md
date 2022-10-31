@@ -1,0 +1,31 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Character Level",
+            "Times per Day"
+        ]
+    ],
+    "rows": [
+        [
+            "1st\u00964th",
+            "1"
+        ],
+        [
+            "5th\u00968th",
+            "2"
+        ],
+        [
+            "9th\u009612th",
+            "3"
+        ],
+        [
+            "13th\u009616th",
+            "4"
+        ],
+        [
+            "17th\u009620th",
+            "5"
+        ]
+    ]
+}

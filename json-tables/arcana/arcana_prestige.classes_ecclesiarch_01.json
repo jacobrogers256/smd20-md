@@ -1,0 +1,41 @@
+{
+    "caption": "",
+    "headers": [],
+    "rows": [
+        [
+            "Aberrations",
+            "Humans *"
+        ],
+        [
+            "Animals",
+            "Magical beasts**"
+        ],
+        [
+            "Constructs",
+            "Monstrous humanoids*"
+        ],
+        [
+            "Dragons**",
+            "Oozes"
+        ],
+        [
+            "Elementals",
+            "Outsiders**"
+        ],
+        [
+            "Fey*",
+            "Plants"
+        ],
+        [
+            "Giants*",
+            "Undead"
+        ],
+        [
+            "Humanoids*",
+            "Vermin"
+        ],
+        [
+            "*This type of creature cannot be destroyed by turning, regardless of the success of the turning. **This type of creature cannot be destroyed by turning, and cannot be commanded."
+        ]
+    ]
+}

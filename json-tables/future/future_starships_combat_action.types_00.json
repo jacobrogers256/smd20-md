@@ -1,0 +1,125 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Table: Starship Actions"
+        ],
+        [
+            "Attack Actions",
+            "Attack of Opportunity? 2"
+        ],
+        [
+            "Move Actions",
+            "Attack of Opportunity? 2"
+        ],
+        [
+            "Full-Round Actions",
+            "Attack of Opportunity? 2"
+        ],
+        [
+            "Free Actions",
+            "Attack of Opportunity? 2"
+        ],
+        [
+            "Special Initiative",
+            "Actions Attack of Opportunity? 2"
+        ],
+        [
+            "No Action",
+            "Attack of Opportunity? 2"
+        ]
+    ],
+    "rows": [
+        [
+            "Aid another",
+            "No"
+        ],
+        [
+            "Attack (ranged)",
+            "No"
+        ],
+        [
+            "Attack an object",
+            "No"
+        ],
+        [
+            "Escape a grappling ship",
+            "No"
+        ],
+        [
+            "Feint (see Bluff skill)",
+            "No"
+        ],
+        [
+            "Grapple another ship 1",
+            "Yes"
+        ],
+        [
+            "Total defense",
+            "No"
+        ],
+        [
+            "Damage control",
+            "No"
+        ],
+        [
+            "Move at tactical speed",
+            "No"
+        ],
+        [
+            "Operate sensors",
+            "No"
+        ],
+        [
+            "Ram 3",
+            "Yes"
+        ],
+        [
+            "Sending/jamming a transmission",
+            "No"
+        ],
+        [
+            "Start/complete a full-round action",
+            "Varies"
+        ],
+        [
+            "Jump to cruising speed",
+            "Yes"
+        ],
+        [
+            "Surge forward",
+            "Yes"
+        ],
+        [
+            "Withdraw",
+            "No"
+        ],
+        [
+            "Communicate via comm system",
+            "No"
+        ],
+        [
+            "Turn",
+            "No"
+        ],
+        [
+            "Delay",
+            "No"
+        ],
+        [
+            "Ready",
+            "No"
+        ],
+        [
+            "500-foot shift",
+            "No"
+        ],
+        [
+            "Avoid hazard",
+            "No"
+        ],
+        [
+            "1 Technically, a grapple constitutes a single melee attack, not an action. A grapple can be made once in an attack action or as an attack of opportunity.  2 Only starships armed with point-defense systems can make attacks of opportunity.  3 Ramming is considered part of a move action."
+        ]
+    ]
+}

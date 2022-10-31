@@ -1,0 +1,120 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Table: The Techno Mage"
+        ],
+        [
+            "Level",
+            "Base Attack Bonus",
+            "Fort Save",
+            "Ref Save",
+            "Will Save",
+            "Special",
+            "Defense Bonus",
+            "Reputation Bonus"
+        ]
+    ],
+    "rows": [
+        [
+            "1st",
+            "+0",
+            "+0",
+            "+1",
+            "+0",
+            "Arcane skills, arcane spells",
+            "+1",
+            "+0"
+        ],
+        [
+            "2nd",
+            "+1",
+            "+0",
+            "+2",
+            "+0",
+            "Machine empathy, arcane spells",
+            "+1",
+            "+0"
+        ],
+        [
+            "3rd",
+            "+1",
+            "+1",
+            "+2",
+            "+1",
+            "Bonus feat, arcane spells, program spell",
+            "+2",
+            "+1"
+        ],
+        [
+            "4th",
+            "+2",
+            "+1",
+            "+2",
+            "+1",
+            "Create homunculus, arcane spells",
+            "+2",
+            "+1"
+        ],
+        [
+            "5th",
+            "+2",
+            "+1",
+            "+3",
+            "+1",
+            "Arcane spontaneous casting, arcane spells",
+            "+3",
+            "+1"
+        ],
+        [
+            "6th",
+            "+3",
+            "+2",
+            "+3",
+            "+2",
+            "Bonus feat, arcane spells",
+            "+3",
+            "+2"
+        ],
+        [
+            "7th",
+            "+3",
+            "+2",
+            "+4",
+            "+2",
+            "Spell focus, arcane spells",
+            "+4",
+            "+2"
+        ],
+        [
+            "8th",
+            "+4",
+            "+2",
+            "+4",
+            "+2",
+            "Online casting, arcane spells",
+            "+4",
+            "+2"
+        ],
+        [
+            "9th",
+            "+4",
+            "+3",
+            "+4",
+            "+3",
+            "Bonus feat, arcane spells",
+            "+5",
+            "+3"
+        ],
+        [
+            "10th",
+            "+5",
+            "+3",
+            "+5",
+            "+3",
+            "Quicken spells, arcane spells",
+            "+5",
+            "+3"
+        ]
+    ]
+}

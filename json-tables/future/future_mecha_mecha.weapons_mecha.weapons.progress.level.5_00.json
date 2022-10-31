@@ -1,0 +1,127 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Weapon",
+            "Damage",
+            "Critical",
+            "Damage Type",
+            "Range Increment",
+            "Rate of Fire",
+            "Magazine",
+            "Size",
+            "Weight",
+            "Purchase DC",
+            "Restriction"
+        ]
+    ],
+    "rows": [
+        [
+            "A3X Dragon flame thrower",
+            "4d6",
+            "\u0097",
+            "Fire",
+            "\u0097",
+            "Single",
+            "20 int.",
+            "Large",
+            "75 lb.",
+            "21",
+            "Mil (+3)"
+        ],
+        [
+            "M-9 Barrage chaingun",
+            "5d6",
+            "20",
+            "Ballistic",
+            "60 ft.",
+            "S, A",
+            "Linked",
+            "Huge",
+            "100 lb.",
+            "21",
+            "Res (+2)"
+        ],
+        [
+            "M-53 Firestar rocket launcher",
+            "10d6",
+            "\u0097",
+            "Fire",
+            "\u0097",
+            "Single",
+            "6 int.",
+            "Huge",
+            "35 lb.",
+            "24",
+            "Mil (+3)"
+        ],
+        [
+            "M-55 Crud rocket launcher",
+            "10d6",
+            "\u0097",
+            "Slashing",
+            "\u0097",
+            "Single",
+            "6 int.",
+            "Huge",
+            "35 lb.",
+            "24",
+            "Mil (+3)"
+        ],
+        [
+            "M-87 Talon missile launcher",
+            "15d6",
+            "20",
+            "Ballistic/ Fire",
+            "\u0097",
+            "Single",
+            "4 int.",
+            "Huge",
+            "20 lb.",
+            "23",
+            "Mil (+3)"
+        ],
+        [
+            "PS-15 Panther claws",
+            "Varies 1",
+            "19\u009620",
+            "Slashing",
+            "\u0097",
+            "\u0097",
+            "\u0097",
+            "Varies 1",
+            "\u0097",
+            "Varies 1",
+            "\u0097"
+        ],
+        [
+            "Thunderbolt shock rod",
+            "Varies 1",
+            "20",
+            "Electricity/ Bludgeoning",
+            "\u0097",
+            "\u0097",
+            "\u0097",
+            "Varies 1",
+            "\u0097",
+            "Varies 1",
+            "\u0097"
+        ],
+        [
+            "Warpath recoilless rifle",
+            "10d6",
+            "20",
+            "Ballistic",
+            "40 ft.",
+            "S, A",
+            "20 box",
+            "Huge",
+            "50 lb.",
+            "22",
+            "Mil (+3)"
+        ],
+        [
+            "1 See the weapon\u0092s description for details.  2 See the weapon\u0092s description for collateral effects to crew and passengers.  3 This mastercraft weapon grants a +1 bonus on attack rolls."
+        ]
+    ]
+}

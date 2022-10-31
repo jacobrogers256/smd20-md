@@ -1,0 +1,23 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Original Aura Power",
+            "Duration"
+        ]
+    ],
+    "rows": [
+        [
+            "Dim",
+            "1 minute"
+        ],
+        [
+            "Faint",
+            "1d6 minutes"
+        ],
+        [
+            "Moderate",
+            "1d6 x 10 minutes"
+        ]
+    ]
+}

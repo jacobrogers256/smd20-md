@@ -1,0 +1,30 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Item\u0092s Nature",
+            "FX Modifier"
+        ]
+    ],
+    "rows": [
+        [
+            "Single-use item",
+            "\u0097"
+        ],
+        [
+            "Continuous effect or bonus 1",
+            "+3"
+        ],
+        [
+            "Limited number of uses per day",
+            "+2"
+        ],
+        [
+            "Limited number of charges",
+            "+1"
+        ],
+        [
+            "1 See Limit on FX Items Worn. A continuous effect item that does not take up one of these limited spaces has a +4 FX modifier (instead of +3)."
+        ]
+    ]
+}

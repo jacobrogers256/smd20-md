@@ -1,0 +1,27 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Cover",
+            "Damage"
+        ]
+    ],
+    "rows": [
+        [
+            "None",
+            "Same as damage taken by vehicle"
+        ],
+        [
+            "One-quarter",
+            "One-half damage taken by vehicle"
+        ],
+        [
+            "One-half",
+            "One-quarter damage taken by vehicle"
+        ],
+        [
+            "Three-quarters or more",
+            "None"
+        ]
+    ]
+}

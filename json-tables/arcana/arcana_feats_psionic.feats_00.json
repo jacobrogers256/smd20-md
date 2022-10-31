@@ -1,0 +1,22 @@
+{
+    "caption": "",
+    "headers": [],
+    "rows": [
+        [
+            "Power Penetration",
+            "As Spell Penetration"
+        ],
+        [
+            "Power Focus",
+            "As Spell Focus"
+        ],
+        [
+            "Great Power Penetration",
+            "As Greater Spell Penetration"
+        ],
+        [
+            "Greater Power Focus",
+            "As Greater Spell Focus"
+        ]
+    ]
+}

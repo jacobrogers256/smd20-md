@@ -1,0 +1,45 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Table: Robot Weapon Mounts"
+        ],
+        [
+            "Robot\u0092s Frame Size",
+            "Maximum Weapon Mounts",
+            "Purchase DC"
+        ]
+    ],
+    "rows": [
+        [
+            "Diminutive or Tiny",
+            "1",
+            "4"
+        ],
+        [
+            "Small or Medium-size",
+            "2",
+            "6"
+        ],
+        [
+            "Large",
+            "3",
+            "8"
+        ],
+        [
+            "Huge",
+            "4",
+            "10"
+        ],
+        [
+            "Gargantuan",
+            "5",
+            "12"
+        ],
+        [
+            "Colossal",
+            "6",
+            "14"
+        ]
+    ]
+}

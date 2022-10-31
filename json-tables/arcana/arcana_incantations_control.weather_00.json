@@ -1,0 +1,31 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Season",
+            "Possible Weather"
+        ]
+    ],
+    "rows": [
+        [
+            "Spring",
+            "Tornado, thunderstorm, sleet storm, or hot weather"
+        ],
+        [
+            "Summer",
+            "Torrential rain, heat wave, or hailstorm"
+        ],
+        [
+            "Autumn",
+            "Hot or cold weather, fog, or sleet"
+        ],
+        [
+            "Winter",
+            "Frigid cold, blizzard, or thaw"
+        ],
+        [
+            "Late winter",
+            "Hurricane-force winds or early spring (coastal area)"
+        ]
+    ]
+}

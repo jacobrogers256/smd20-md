@@ -1,0 +1,64 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Table: Progress Level 5 Armor"
+        ],
+        [
+            "Armor",
+            "Type",
+            "Equipment Bonus",
+            "Nonprof. Bonus",
+            "Max Dex Bonus",
+            "Armor Penalty",
+            "Speed (30 ft./20 ft.)",
+            "Weight",
+            "Purchase DC",
+            "Restriction"
+        ],
+        [
+            "Light Armor"
+        ],
+        [
+            "Heavy Armor"
+        ]
+    ],
+    "rows": [
+        [
+            "Flight Suit and Helmet",
+            "Tactical",
+            "+2",
+            "+1",
+            "+6",
+            "\u00960",
+            "30 ft./20 ft.",
+            "2 lb.",
+            "10",
+            "Lic (+1)"
+        ],
+        [
+            "Land Warrior Armor",
+            "Tactical",
+            "+6",
+            "+3",
+            "+3",
+            "\u00963",
+            "20 ft./15 ft.",
+            "10 lb.",
+            "20",
+            "Lic (+1)"
+        ],
+        [
+            "Space suit",
+            "Tactical",
+            "+7",
+            "+3",
+            "+0",
+            "\u009610",
+            "15 ft./10 ft.",
+            "50 lb.",
+            "26",
+            "Lic (+1)"
+        ]
+    ]
+}

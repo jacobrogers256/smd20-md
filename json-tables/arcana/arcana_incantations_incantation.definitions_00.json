@@ -1,0 +1,149 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Table: General Factors"
+        ],
+        [
+            "Factor",
+            "DC modifier"
+        ],
+        [
+            "Skill Checks"
+        ],
+        [
+            "Casting Time"
+        ],
+        [
+            "Range"
+        ],
+        [
+            "Target"
+        ],
+        [
+            "Duration"
+        ],
+        [
+            "Material Components"
+        ],
+        [
+            "XP Cost"
+        ],
+        [
+            "Extra Casters"
+        ],
+        [
+            "Backlash"
+        ]
+    ],
+    "rows": [
+        [
+            "Requires skill check other than Knowledge (arcane lore)",
+            "\u00961"
+        ],
+        [
+            "1 hour between checks",
+            "\u00961"
+        ],
+        [
+            "Touch to Close/Close to Touch",
+            "+2/\u00962"
+        ],
+        [
+            "Close to Medium/Medium to Close",
+            "+2/\u00962"
+        ],
+        [
+            "Medium to Long/Long to Medium",
+            "+2/\u00962"
+        ],
+        [
+            "Unwilling target must be helpless",
+            "\u00962"
+        ],
+        [
+            "Limited targets (by HD, creature type, etc.)",
+            "\u00963"
+        ],
+        [
+            "Single target to multiple targets",
+            "+4"
+        ],
+        [
+            "Rounds to minutes/minutes to rounds",
+            "+2/\u00962"
+        ],
+        [
+            "Minutes to hours/hours to minutes",
+            "+4/\u00962"
+        ],
+        [
+            "Hours to days /days to hours",
+            "+6/\u00962"
+        ],
+        [
+            "Days to permanent/permanent to days",
+            "+10/\u00964"
+        ],
+        [
+            "Expensive component (purchase DC 20\u009624)",
+            "\u00961"
+        ],
+        [
+            "Expensive component (purchase DC 25\u009629)",
+            "\u00962"
+        ],
+        [
+            "Expensive component (purchase DC 30+)",
+            "\u00964"
+        ],
+        [
+            "Expensive focus (purchase DC 25\u009629)",
+            "\u00961"
+        ],
+        [
+            "Expensive focus (purchase DC 30+)",
+            "\u00962"
+        ],
+        [
+            "per 100 XP (max 1,000 XP)",
+            "\u00961"
+        ],
+        [
+            "Up to 10 secondary casters",
+            "\u00962"
+        ],
+        [
+            "11\u0096100 secondary casters",
+            "\u00966"
+        ],
+        [
+            "101+ secondary casters",
+            "\u009610"
+        ],
+        [
+            "Per 2d6 points of damage",
+            "\u00961"
+        ],
+        [
+            "Caster is exhausted",
+            "\u00962"
+        ],
+        [
+            "Per negative level caster suffers",
+            "\u00962"
+        ],
+        [
+            "Caster reduced to \u00961 hp",
+            "\u00963"
+        ],
+        [
+            "Caster infected with disease",
+            "\u00964"
+        ],
+        [
+            "Backlash affects secondary casters too",
+            "\u00961"
+        ]
+    ]
+}

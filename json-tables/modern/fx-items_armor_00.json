@@ -1,0 +1,23 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Enhancement Bonus",
+            "Purchase DC Modifier"
+        ]
+    ],
+    "rows": [
+        [
+            "+1",
+            "+8"
+        ],
+        [
+            "+2",
+            "+13"
+        ],
+        [
+            "+3",
+            "+18"
+        ]
+    ]
+}

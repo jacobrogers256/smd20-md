@@ -1,0 +1,265 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Table: Mutations"
+        ],
+        [
+            "d%",
+            "Mutation Type",
+            "MP Cost"
+        ]
+    ],
+    "rows": [
+        [
+            "01\u009602",
+            "Extra Digits Cosmetic",
+            "0"
+        ],
+        [
+            "03\u009604",
+            "Fins Cosmetic",
+            "0"
+        ],
+        [
+            "05\u009606",
+            "Forked Tongue Cosmetic",
+            "0"
+        ],
+        [
+            "07\u009608",
+            "Horns Cosmetic",
+            "0"
+        ],
+        [
+            "09\u009610",
+            "Scaly Skin Cosmetic",
+            "0"
+        ],
+        [
+            "11\u009612",
+            "Thin Fur Coat Cosmetic",
+            "0"
+        ],
+        [
+            "13\u009614",
+            "Unnatural Eyes Cosmetic",
+            "0"
+        ],
+        [
+            "15\u009616",
+            "Unnatural Hair Cosmetic",
+            "0"
+        ],
+        [
+            "17\u009618",
+            "Unnatural Skin Cosmetic",
+            "0"
+        ],
+        [
+            "19\u009620",
+            "Unnatural Voice Cosmetic",
+            "0"
+        ],
+        [
+            "21\u009622",
+            "Acidic Saliva Minor",
+            "1"
+        ],
+        [
+            "23\u009624",
+            "Adrenaline Jolt Minor",
+            "3"
+        ],
+        [
+            "25\u009626",
+            "Claws Minor",
+            "1"
+        ],
+        [
+            "27\u009628",
+            "Darkvision Minor",
+            "3"
+        ],
+        [
+            "29\u009630",
+            "Energy Diffusion Minor",
+            "2"
+        ],
+        [
+            "31\u009632",
+            "Fangs Minor",
+            "1"
+        ],
+        [
+            "33\u009634",
+            "Force Barrier Minor",
+            "3"
+        ],
+        [
+            "35\u009636",
+            "Gills Minor",
+            "2"
+        ],
+        [
+            "37\u009638",
+            "Great Horns Minor",
+            "1"
+        ],
+        [
+            "39\u009640",
+            "Hypersensitivity Minor",
+            "3"
+        ],
+        [
+            "41\u009642",
+            "Leaper Minor",
+            "1"
+        ],
+        [
+            "43\u009644",
+            "Scaly Armor Minor",
+            "3"
+        ],
+        [
+            "45\u009646",
+            "Scent Minor",
+            "2"
+        ],
+        [
+            "47\u009648",
+            "Second Wind Minor",
+            "2"
+        ],
+        [
+            "49\u009650",
+            "Smokescreen Minor",
+            "1"
+        ],
+        [
+            "51\u009652",
+            "Tail Minor",
+            "1"
+        ],
+        [
+            "53\u009654",
+            "Thick Fur Coat Minor",
+            "1"
+        ],
+        [
+            "55\u009656",
+            "Ultra Immune System Minor",
+            "2"
+        ],
+        [
+            "57\u009658",
+            "Wall Crawler Minor",
+            "2"
+        ],
+        [
+            "59\u009660",
+            "Webbed Digits Minor",
+            "1"
+        ],
+        [
+            "61\u009662",
+            "Echolocator Major",
+            "5"
+        ],
+        [
+            "63\u009664",
+            "Elasticity Major",
+            "5"
+        ],
+        [
+            "65\u009666",
+            "Energy Absorption Major",
+            "4"
+        ],
+        [
+            "67\u009668",
+            "Enlarged Form Major",
+            "6"
+        ],
+        [
+            "69\u009670",
+            "Exoskeleton Major",
+            "5"
+        ],
+        [
+            "71\u009672",
+            "Extra Arms Major",
+            "6"
+        ],
+        [
+            "73\u009674",
+            "Gazing Eye Major",
+            "4"
+        ],
+        [
+            "75\u009676",
+            "Pheromone Attraction Major",
+            "6"
+        ],
+        [
+            "77\u009678",
+            "Prehensile Tail Major",
+            "4"
+        ],
+        [
+            "79\u009680",
+            "Prickly Pear Major",
+            "4"
+        ],
+        [
+            "81\u009682",
+            "Radioactive Major",
+            "5"
+        ],
+        [
+            "83\u009684",
+            "Skeletal Reinforcement Major",
+            "5"
+        ],
+        [
+            "85\u009686",
+            "Stinger Major",
+            "4"
+        ],
+        [
+            "87\u009688",
+            "Telekinetic Mind Major",
+            "5"
+        ],
+        [
+            "89\u009690",
+            "Telepathy Major",
+            "5"
+        ],
+        [
+            "91\u009692",
+            "Tentacle Major",
+            "6"
+        ],
+        [
+            "93\u009694",
+            "Venomous Bite Major",
+            "4"
+        ],
+        [
+            "95\u009696",
+            "Vexing Voice Major",
+            "4"
+        ],
+        [
+            "97\u009698",
+            "Wings Major",
+            "6"
+        ],
+        [
+            "99\u0096100",
+            "X-Ray Vision Major",
+            "6"
+        ]
+    ]
+}

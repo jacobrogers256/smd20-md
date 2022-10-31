@@ -1,0 +1,34 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Table: Collision Direction"
+        ],
+        [
+            "Colliding Vehicle\u0092s Target",
+            "Multiplier"
+        ]
+    ],
+    "rows": [
+        [
+            "A stationary object",
+            "x 1"
+        ],
+        [
+            "A moving vehicle, striking head-on or 45 degrees from head-on",
+            "x 2"
+        ],
+        [
+            "A moving vehicle, striking perpendicular",
+            "x 1"
+        ],
+        [
+            "A moving vehicle, striking from the rear or 45 degrees from the rear",
+            "x 1/2"
+        ],
+        [
+            "A vehicle being sideswiped (see Sideswipe)",
+            "x 1/4"
+        ]
+    ]
+}

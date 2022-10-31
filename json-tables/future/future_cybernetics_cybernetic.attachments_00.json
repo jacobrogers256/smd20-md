@@ -1,0 +1,30 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Table: Massive Damage Effects"
+        ],
+        [
+            "d% Roll",
+            "Effect of Failed Fortitude Save"
+        ]
+    ],
+    "rows": [
+        [
+            "01\u009630",
+            "Normal Effect"
+        ],
+        [
+            "31\u009660",
+            "Attachment Disabled"
+        ],
+        [
+            "61\u009680",
+            "Normal Effect and Attachment Disabled"
+        ],
+        [
+            "81\u0096100",
+            "Attachment Damaged and Side Effect"
+        ]
+    ]
+}

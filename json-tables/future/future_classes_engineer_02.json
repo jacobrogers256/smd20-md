@@ -1,0 +1,50 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Table: Weapon Upgrade"
+        ],
+        [
+            "Handheld/Robot Weapon Upgrade",
+            "DC"
+        ],
+        [
+            "Vehicle/Mecha/Starship Weapon Upgrade",
+            "DC"
+        ]
+    ],
+    "rows": [
+        [
+            "Weapon also dazes target for 1 round",
+            "25"
+        ],
+        [
+            "Weapon also knocks target prone",
+            "30"
+        ],
+        [
+            "Weapon leaves target shaken for 1d4 rounds",
+            "35"
+        ],
+        [
+            "Weapon also stuns target for 1d4 rounds",
+            "40"
+        ],
+        [
+            "Weapon deals an extra two dice of damage",
+            "25"
+        ],
+        [
+            "Weapon ignores 5 points of target\u0092s hardness/DR",
+            "30"
+        ],
+        [
+            "Weapon\u0092s critical hit multiplier increases by 1",
+            "35"
+        ],
+        [
+            "Weapon ignores 10 points of target\u0092s hardness/DR",
+            "40"
+        ]
+    ]
+}

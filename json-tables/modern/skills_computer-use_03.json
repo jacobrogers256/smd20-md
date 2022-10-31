@@ -1,0 +1,52 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Type of Operation",
+            "DC",
+            "Time"
+        ]
+    ],
+    "rows": [
+        [
+            "Shut down passive remote (including cameras and door locks)",
+            "20",
+            "1 round per remote"
+        ],
+        [
+            "Shut down active remote (including motion detectors and alarms)",
+            "25",
+            "1 round per remote"
+        ],
+        [
+            "Reset parameters",
+            "30",
+            "1 minute per remote"
+        ],
+        [
+            "Change passcodes",
+            "25",
+            "1 minute"
+        ],
+        [
+            "Hide evidence of alteration",
+            "+10",
+            "1 minute"
+        ],
+        [
+            "Minimum security",
+            "\u00965",
+            "\u0097"
+        ],
+        [
+            "Exceptional security",
+            "+10",
+            "\u0097"
+        ],
+        [
+            "Maximum security",
+            "+15",
+            "\u0097"
+        ]
+    ]
+}

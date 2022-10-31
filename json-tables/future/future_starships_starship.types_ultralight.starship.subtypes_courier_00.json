@@ -1,0 +1,50 @@
+{
+    "caption": "",
+    "headers": [],
+    "rows": [
+        [
+            "Type: Ultralight",
+            "Size: Gargantuan (\u00964 size)"
+        ],
+        [
+            "Subtype: Courier",
+            "Tactical Speed: 3,000 ft. (6 sq.)"
+        ],
+        [
+            "Defense: 11",
+            "Length: 45 feet"
+        ],
+        [
+            "Flat-footed Defense: 9",
+            "Weight: 90,000 lb."
+        ],
+        [
+            "Autopilot Defense: 8",
+            "Targeting System Bonus: +2"
+        ],
+        [
+            "Hardness: 20",
+            ": 4 (trained +4)"
+        ],
+        [
+            "Hit Dice: 8d20 (160 hp)",
+            "Passenger Capacity: 12"
+        ],
+        [
+            "Initiative Modifier: +2",
+            "Cargo Capacity: 9,000 lb."
+        ],
+        [
+            "Pilot\u0092s Class Bonus: +3",
+            "Grapple Modifier: +12"
+        ],
+        [
+            "Pilot\u0092s Dex Modifier: +2",
+            "Base Purchase DC: 48"
+        ],
+        [
+            "Gunner\u0092s Attack Bonus: +2",
+            "Restriction: Licensed (+1)"
+        ]
+    ]
+}

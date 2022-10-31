@@ -1,0 +1,31 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Example Circumstances",
+            "Sense Motive Modifier"
+        ]
+    ],
+    "rows": [
+        [
+            "The target wants to believe the character.",
+            "\u00965"
+        ],
+        [
+            "The bluff is believable and doesn\u0092t affect the target much one way or the other.",
+            "+0"
+        ],
+        [
+            "The bluff is a little hard to believe or puts the target at some kind of risk.",
+            "+5"
+        ],
+        [
+            "The bluff is hard to believe or entails a large risk for the target.",
+            "+10"
+        ],
+        [
+            "The bluff is way out there; it\u0092s almost too incredible to consider.",
+            "+20"
+        ]
+    ]
+}

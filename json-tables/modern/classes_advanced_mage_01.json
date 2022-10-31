@@ -1,0 +1,51 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "DC",
+            "Task"
+        ]
+    ],
+    "rows": [
+        [
+            "15 + spell level",
+            "Identify a spell being cast. (You must see or hear the spell\u0092s verbal or somatic components.) You can\u0092t try again."
+        ],
+        [
+            "15 + spell level",
+            "Learn a spell from a spellbook or scroll. You can\u0092t try again for that spell until you gain at least 1 rank in Spellcraft."
+        ],
+        [
+            "15 + spell level",
+            "Prepare a spell from a borrowed spellbook. One try per day."
+        ],
+        [
+            "15 + spell level",
+            "When casting detect magical aura, determine the school of magic involved in the aura of a single item or creature you can see. (If the aura isn\u0092t a spell effect, the DC is 15 + one-half caster level.)"
+        ],
+        [
+            "20 + spell level",
+            "Identify a spell that\u0092s already in place and in effect. (You must be able to see or detect the effects of the spell.) You can\u0092t try again."
+        ],
+        [
+            "20 + spell level",
+            "Identify materials created or shaped by magic, such as noting that an iron wall is the result of a wall of iron spell. You can\u0092t try again."
+        ],
+        [
+            "20 + spell level",
+            "Decipher a written spell (such as a  scroll) without using read magic. One try per day."
+        ],
+        [
+            "25 + spell level",
+            "After rolling a saving throw against a spell targeted at you, determine what spell was cast upon you. This is a reaction."
+        ],
+        [
+            "25",
+            "Identify a potion. This takes 1 minute."
+        ],
+        [
+            "30 or higher",
+            "Understand a strange or unique magical effect. You can\u0092t try again."
+        ]
+    ]
+}

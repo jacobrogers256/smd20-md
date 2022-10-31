@@ -1,0 +1,35 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Example Ability Check",
+            "Key Ability"
+        ]
+    ],
+    "rows": [
+        [
+            "Forcing open a jammed or locked door",
+            "Strength"
+        ],
+        [
+            "Tying a rope",
+            "Dexterity"
+        ],
+        [
+            "Holding one\u0092s breath",
+            "Constitution"
+        ],
+        [
+            "Navigating a maze",
+            "Intelligence"
+        ],
+        [
+            "Recognize a stranger you\u0092ve seen before",
+            "Wisdom"
+        ],
+        [
+            "Getting yourself noticed in a crowd",
+            "Charisma"
+        ]
+    ]
+}

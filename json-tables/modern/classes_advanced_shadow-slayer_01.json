@@ -1,0 +1,27 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Creature/Object",
+            "Rating"
+        ]
+    ],
+    "rows": [
+        [
+            "Outsider",
+            "HD"
+        ],
+        [
+            "Magic item or spell",
+            "Caster level x 1/2"
+        ],
+        [
+            "Aberration, construct, dragon, elemental, undead creature",
+            "HD x 1/2"
+        ],
+        [
+            "All other denizens of Shadow",
+            "HD x 1/5"
+        ]
+    ]
+}

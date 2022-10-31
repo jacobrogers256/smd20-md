@@ -1,0 +1,35 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Housing",
+            "Purchase DC"
+        ]
+    ],
+    "rows": [
+        [
+            "Small condo",
+            "28"
+        ],
+        [
+            "Large condo",
+            "30"
+        ],
+        [
+            "Small house",
+            "30"
+        ],
+        [
+            "Medium house",
+            "32"
+        ],
+        [
+            "Large house",
+            "34"
+        ],
+        [
+            "Mansion",
+            "36"
+        ]
+    ]
+}

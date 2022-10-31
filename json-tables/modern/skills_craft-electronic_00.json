@@ -1,0 +1,37 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Type of Scratch-Built Electronics (Examples)",
+            "Purchase DC",
+            "Craft DC",
+            "Time"
+        ]
+    ],
+    "rows": [
+        [
+            "Simple (timer or detonator)",
+            "8",
+            "15",
+            "1 hr."
+        ],
+        [
+            "Moderate (radio direction finder, electronic lock)",
+            "12",
+            "20",
+            "12 hr."
+        ],
+        [
+            "Complex (cell phone)",
+            "16",
+            "25",
+            "24 hr."
+        ],
+        [
+            "Advanced (computer)",
+            "22",
+            "30",
+            "60 hr."
+        ]
+    ]
+}

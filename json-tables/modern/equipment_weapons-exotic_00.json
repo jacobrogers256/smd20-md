@@ -1,0 +1,98 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Weapon",
+            "Damage",
+            "Critical",
+            "Damage Type",
+            "Range Increment",
+            "Size",
+            "Weight",
+            "Purchase DC",
+            "Restriction"
+        ]
+    ],
+    "rows": [
+        [
+            "Chain 1",
+            "1d6/1d6",
+            "20",
+            "Bludgeoning",
+            "\u0097",
+            "Large",
+            "5 lb.",
+            "5",
+            "\u0097"
+        ],
+        [
+            "Chain saw",
+            "3d6",
+            "20",
+            "Slashing",
+            "\u0097",
+            "Large",
+            "10 lb.",
+            "9",
+            "\u0097"
+        ],
+        [
+            "Kama",
+            "1d6",
+            "20",
+            "Slashing",
+            "\u0097",
+            "Small",
+            "2 lb.",
+            "5",
+            "\u0097"
+        ],
+        [
+            "Katana",
+            "2d6",
+            "19\u009620",
+            "Slashing",
+            "\u0097",
+            "Large",
+            "6 lb.",
+            "12",
+            "\u0097"
+        ],
+        [
+            "Kukri",
+            "1d4",
+            "18\u009620",
+            "Slashing",
+            "\u0097",
+            "Small",
+            "1 lb.",
+            "5",
+            "\u0097"
+        ],
+        [
+            "Nunchaku",
+            "1d6",
+            "20",
+            "Bludgeoning",
+            "\u0097",
+            "Small",
+            "2 lb.",
+            "3",
+            "\u0097"
+        ],
+        [
+            "Three-section staff 1",
+            "1d10/1d10",
+            "20",
+            "Bludgeoning",
+            "\u0097",
+            "Large",
+            "3 lb.",
+            "4",
+            "\u0097"
+        ],
+        [
+            "1 See the description of this weapon for special rules."
+        ]
+    ]
+}

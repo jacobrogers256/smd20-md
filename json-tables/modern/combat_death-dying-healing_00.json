@@ -1,0 +1,19 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Effects of Hit Point Damage"
+        ]
+    ],
+    "rows": [
+        [
+            "At 0 hit points , a character is disabled."
+        ],
+        [
+            "At from \u00961 to \u00969 hit points, a character is dying."
+        ],
+        [
+            "At \u009610 or lower, a character is dead."
+        ]
+    ]
+}

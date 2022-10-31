@@ -1,0 +1,118 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Table: Drawbacks"
+        ],
+        [
+            "d%",
+            "Drawback",
+            "MP Value"
+        ]
+    ],
+    "rows": [
+        [
+            "01\u009605",
+            "Ability Decay 1",
+            "4"
+        ],
+        [
+            "06\u009610",
+            "Blood Hunger",
+            "1"
+        ],
+        [
+            "11\u009615",
+            "Brittle Bones",
+            "4"
+        ],
+        [
+            "16\u009620",
+            "Combat Fear",
+            "4"
+        ],
+        [
+            "21\u009625",
+            "Cybernetic Dependency",
+            "6"
+        ],
+        [
+            "26\u009630",
+            "Festering Sores",
+            "2"
+        ],
+        [
+            "31\u009635",
+            "Frailty",
+            "3"
+        ],
+        [
+            "36\u009640",
+            "Heat/Cold Susceptibility",
+            "1"
+        ],
+        [
+            "41\u009645",
+            "Lethargy",
+            "2"
+        ],
+        [
+            "46\u009650",
+            "Light Sensitivity",
+            "1"
+        ],
+        [
+            "51\u009655",
+            "Lost Arm",
+            "3"
+        ],
+        [
+            "56\u009660",
+            "Mindslave",
+            "2"
+        ],
+        [
+            "61\u009665",
+            "Neutrad Dependency",
+            "5"
+        ],
+        [
+            "66\u009670",
+            "Pheromone Repulsion",
+            "1"
+        ],
+        [
+            "71\u009675",
+            "Poisonous Blood",
+            "6"
+        ],
+        [
+            "76\u009680",
+            "Rapid Aging",
+            "2"
+        ],
+        [
+            "81\u009685",
+            "Reduced Speed 1",
+            "3"
+        ],
+        [
+            "86\u009690",
+            "Thin Skin",
+            "5"
+        ],
+        [
+            "91\u009695",
+            "Ultraviolet Allergy",
+            "3"
+        ],
+        [
+            "96\u0096100",
+            "Weak Immune System",
+            "1"
+        ],
+        [
+            "1 You may take this drawback multiple times. Its effects stack."
+        ]
+    ]
+}

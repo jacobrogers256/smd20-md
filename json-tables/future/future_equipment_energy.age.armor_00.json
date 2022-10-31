@@ -1,0 +1,52 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Table: Progress Level 8 Armor"
+        ],
+        [
+            "Armor",
+            "Type",
+            "Equipment Bonus",
+            "Nonprof. Bonus",
+            "Max Dex Bonus",
+            "Armor Penalty",
+            "Speed (30 ft./20 ft.)",
+            "Weight",
+            "Purchase DC",
+            "Restriction"
+        ],
+        [
+            "Heavy Armor"
+        ],
+        [
+            "Powered Armor"
+        ]
+    ],
+    "rows": [
+        [
+            "Unisoldier Combat Armor",
+            "Tactical",
+            "+10",
+            "+3",
+            "+1",
+            "\u00966",
+            "20 ft./15 ft.",
+            "30 lb.",
+            "19",
+            "Lic (+1)"
+        ],
+        [
+            "Boost Armor",
+            "Tactical",
+            "+7",
+            "+2",
+            "+4",
+            "\u00963",
+            "20 ft./15 ft.",
+            "20 lb.",
+            "18",
+            "Lic (+1)"
+        ]
+    ]
+}

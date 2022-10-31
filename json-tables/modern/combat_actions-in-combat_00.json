@@ -1,0 +1,233 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Table: Actions in Combat"
+        ],
+        [
+            "Attack Actions",
+            "Attack of Opportunity 1"
+        ],
+        [
+            "Move Actions",
+            "Attack of Opportunity 1"
+        ],
+        [
+            "Full-Round Actions",
+            "Attack of Opportunity 1"
+        ],
+        [
+            "Free Actions",
+            "Attack of Opportunity 1"
+        ],
+        [
+            "Action Type Varies",
+            "Attack of Opportunity 1"
+        ],
+        [
+            "No Action",
+            "Attack of Opportunity 1"
+        ]
+    ],
+    "rows": [
+        [
+            "Attack (melee)",
+            "No"
+        ],
+        [
+            "Attack (ranged)",
+            "Yes"
+        ],
+        [
+            "Attack (unarmed)",
+            "Yes"
+        ],
+        [
+            "Attack (aid another)",
+            "No"
+        ],
+        [
+            "Bull rush (attack)",
+            "No"
+        ],
+        [
+            "Escape a grapple",
+            "No"
+        ],
+        [
+            "Feint (see the Bluff skill)",
+            "No"
+        ],
+        [
+            "Ready (triggers an attack\n      action )",
+            "No"
+        ],
+        [
+            "Make a dying character stable",
+            "Yes"
+        ],
+        [
+            "Attack a weapon",
+            "Yes"
+        ],
+        [
+            "Attack an object",
+            "Maybe 2"
+        ],
+        [
+            "Total defense",
+            "No"
+        ],
+        [
+            "Use a skill that takes an attack action",
+            "Usually"
+        ],
+        [
+            "Start/complete full-round action",
+            "Varies"
+        ],
+        [
+            "Move your speed",
+            "Yes"
+        ],
+        [
+            "Use a piece of equipment",
+            "No"
+        ],
+        [
+            "Climb (one-quarter speed)",
+            "No"
+        ],
+        [
+            "Climb , accelerated (one-half speed)",
+            "No"
+        ],
+        [
+            "Crawl",
+            "No"
+        ],
+        [
+            "Draw a weapon 3",
+            "No"
+        ],
+        [
+            "Holster a weapon",
+            "Yes"
+        ],
+        [
+            "Move a heavy object",
+            "Yes"
+        ],
+        [
+            "Open a door",
+            "No"
+        ],
+        [
+            "Pick up an object",
+            "Yes"
+        ],
+        [
+            "Reload a firearm with a box magazine or speed loader",
+            "Yes"
+        ],
+        [
+            "Retrieve a stored object",
+            "Yes"
+        ],
+        [
+            "Stand up from prone, sitting, or kneeling",
+            "Yes"
+        ],
+        [
+            "Swim",
+            "No"
+        ],
+        [
+            "Use a skill that takes a move action",
+            "Usually"
+        ],
+        [
+            "Bull rush (charge)",
+            "No"
+        ],
+        [
+            "Charge",
+            "No"
+        ],
+        [
+            "Coup de grace",
+            "Yes"
+        ],
+        [
+            "Full attack",
+            "No"
+        ],
+        [
+            "Overrun (charge)",
+            "No"
+        ],
+        [
+            "Run",
+            "Yes"
+        ],
+        [
+            "Withdraw",
+            "No"
+        ],
+        [
+            "Extinguish flames",
+            "No"
+        ],
+        [
+            "Use a skill that takes a full round",
+            "Usually"
+        ],
+        [
+            "Reload a firearm with an internal magazine",
+            "Yes"
+        ],
+        [
+            "Drop an object",
+            "No"
+        ],
+        [
+            "Drop to prone, sitting, or kneeling",
+            "No"
+        ],
+        [
+            "Speak",
+            "No"
+        ],
+        [
+            "Disarm 4",
+            "Yes"
+        ],
+        [
+            "Grapple 4",
+            "Yes"
+        ],
+        [
+            "Load a weapon",
+            "Yes"
+        ],
+        [
+            "Trip an opponent 4",
+            "No (Yes if unarmed)"
+        ],
+        [
+            "Use a feat 5",
+            "Varies"
+        ],
+        [
+            "Delay",
+            "No"
+        ],
+        [
+            "5-foot step",
+            "No"
+        ],
+        [
+            "1 Regardless of the action, if a character moves out of a threatened square, the character usually provokes an attack\nof opportunity . This column indicates whether the action itself, not moving, provokes an attack\nof opportunity .  2 If the object is being held, carried, or worn by a creature, yes. If not, no.  3 If the character has a base attack bonus of +1 or higher, he or she can combine this action with a regular move. If the character has the Two-Weapon\nFighting feat, he or she can draw two light or one-handed weapons in the time it would normally take to draw one.  4 These attack forms substitute for a melee attack, not an action. As melee attacks, they can be used once in an attack or charge action, one or more times in a full attack action, or even as an attack of opportunity.  5 The description of a feat defines its effect."
+        ]
+    ]
+}

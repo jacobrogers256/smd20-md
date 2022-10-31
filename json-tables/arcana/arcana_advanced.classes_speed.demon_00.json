@@ -1,0 +1,120 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Table: The Speed Demon"
+        ],
+        [
+            "Level",
+            "Base Attack Bonus",
+            "Fort Save",
+            "Ref Save",
+            "Will Save",
+            "Special",
+            "Defense Bonus",
+            "Reputation Bonus"
+        ]
+    ],
+    "rows": [
+        [
+            "1st",
+            "+0",
+            "+0",
+            "+2",
+            "+0",
+            "Uncanny dodge X",
+            "+1",
+            "+0"
+        ],
+        [
+            "2nd",
+            "+1",
+            "+0",
+            "+3",
+            "+0",
+            "Hit the weak spot",
+            "+1",
+            "+0"
+        ],
+        [
+            "3rd",
+            "+2",
+            "+1",
+            "+3",
+            "+1",
+            "Bonus feat, vehicle empathy",
+            "+2",
+            "+1"
+        ],
+        [
+            "4th",
+            "+3",
+            "+1",
+            "+4",
+            "+1",
+            "Need for speed",
+            "+2",
+            "+1"
+        ],
+        [
+            "5th",
+            "+3",
+            "+1",
+            "+4",
+            "+1",
+            "Nursing the turns",
+            "+3",
+            "+1"
+        ],
+        [
+            "6th",
+            "+4",
+            "+2",
+            "+5",
+            "+2",
+            "Bonus feat, commandeer",
+            "+3",
+            "+2"
+        ],
+        [
+            "7th",
+            "+5",
+            "+2",
+            "+5",
+            "+2",
+            "Leadfoot",
+            "+4",
+            "+2"
+        ],
+        [
+            "8th",
+            "+6",
+            "+2",
+            "+6",
+            "+2",
+            "Redlining the needle",
+            "+4",
+            "+2"
+        ],
+        [
+            "9th",
+            "+6",
+            "+3",
+            "+6",
+            "+3",
+            "Bonus feat. restore vehicle",
+            "+5",
+            "+3"
+        ],
+        [
+            "10th",
+            "+7",
+            "+3",
+            "+7",
+            "+3",
+            "One with the machine",
+            "+5",
+            "+3"
+        ]
+    ]
+}

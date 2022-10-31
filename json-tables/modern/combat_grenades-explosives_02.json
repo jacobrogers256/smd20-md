@@ -1,0 +1,62 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Thrown Explosives (Miss 4 to5 Range Increments)"
+        ],
+        [
+            "Roll on d12",
+            "Location Struck"
+        ]
+    ],
+    "rows": [
+        [
+            "1",
+            "upper right corner, two squares beyond target"
+        ],
+        [
+            "2",
+            "upper right corner, one square beyond and right of target"
+        ],
+        [
+            "3",
+            "upper right corner, two squares right of target"
+        ],
+        [
+            "4",
+            "lower right corner, two squares right of target"
+        ],
+        [
+            "5",
+            "lower right corner, one square short and right of target"
+        ],
+        [
+            "6",
+            "lower right corner, two squares short of target"
+        ],
+        [
+            "7",
+            "lower left corner, two squares short of target"
+        ],
+        [
+            "8",
+            "lower left corner, one square short and left of target"
+        ],
+        [
+            "9",
+            "lower left corner, two squares left of target"
+        ],
+        [
+            "10",
+            "upper left corner, two squares left of target"
+        ],
+        [
+            "11",
+            "upper left corner, one square beyond and left of target"
+        ],
+        [
+            "12",
+            "upper left corner, two squares beyond target"
+        ]
+    ]
+}

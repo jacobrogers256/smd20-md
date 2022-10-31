@@ -1,0 +1,50 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Table: Monstrous Spider Poison"
+        ],
+        [
+            "Spider Size",
+            "Fort Save DC",
+            "Initial/Secondary Damage"
+        ]
+    ],
+    "rows": [
+        [
+            "Colossal",
+            "35",
+            "2d8 Str"
+        ],
+        [
+            "Gargantuan",
+            "31",
+            "2d6 Str"
+        ],
+        [
+            "Huge",
+            "22",
+            "1d8 Str"
+        ],
+        [
+            "Large",
+            "17",
+            "1d6 Str"
+        ],
+        [
+            "Medium-size",
+            "14",
+            "1d4 Str"
+        ],
+        [
+            "Small",
+            "11",
+            "1d3 Str"
+        ],
+        [
+            "Tiny",
+            "11",
+            "1d2 Str"
+        ]
+    ]
+}

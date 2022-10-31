@@ -1,0 +1,23 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Target Condition",
+            "DC Modifier"
+        ]
+    ],
+    "rows": [
+        [
+            "Each size category larger",
+            "\u00965"
+        ],
+        [
+            "Each size category smaller",
+            "+5"
+        ],
+        [
+            "Each speed category of difference",
+            "\u00962"
+        ]
+    ]
+}

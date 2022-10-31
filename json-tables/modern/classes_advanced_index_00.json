@@ -1,0 +1,38 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Basic Class 1",
+            "Advanced Class"
+        ]
+    ],
+    "rows": [
+        [
+            "Strong",
+            "Soldier ; Martial Artist ; Battle Mind ; Shadow Slayer"
+        ],
+        [
+            "Fast",
+            "Gunslinger ; Infiltrator"
+        ],
+        [
+            "Tough",
+            "Daredevil ; Bodyguard"
+        ],
+        [
+            "Smart",
+            "Field Scientist ; Techie ; Mage ; Occultist"
+        ],
+        [
+            "Dedicated",
+            "Field Medic ; Investigator , Acolyte"
+        ],
+        [
+            "Charismatic",
+            "Personality ; Negotiator ; Telepath"
+        ],
+        [
+            "1 The given basic class provides the fastest path to both of the associated advanced classes, though not the only path."
+        ]
+    ]
+}

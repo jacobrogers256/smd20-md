@@ -1,0 +1,100 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Table: Space Objects"
+        ],
+        [
+            "Object",
+            "Defense",
+            "Hardness",
+            "Hit Points"
+        ]
+    ],
+    "rows": [
+        [
+            "Asteroid, Colossal",
+            "\u00963",
+            "8",
+            "36,000"
+        ],
+        [
+            "Asteroid, Gargantuan",
+            "1",
+            "8",
+            "9,000"
+        ],
+        [
+            "Asteroid, Huge",
+            "3",
+            "8",
+            "4,500"
+        ],
+        [
+            "Asteroid, Large",
+            "4",
+            "8",
+            "1,125"
+        ],
+        [
+            "Debris cloud, Colossal",
+            "\u00963",
+            "0",
+            "1,600"
+        ],
+        [
+            "Debris cloud, Gargantuan",
+            "1",
+            "0",
+            "400"
+        ],
+        [
+            "Iceball, Colossal",
+            "\u00963",
+            "0",
+            "7,200"
+        ],
+        [
+            "Iceball, Gargantuan",
+            "1",
+            "0",
+            "1,800"
+        ],
+        [
+            "Iceball, Huge",
+            "3",
+            "0",
+            "900"
+        ],
+        [
+            "Iceball, Large",
+            "4",
+            "0",
+            "225"
+        ],
+        [
+            "Mine (Medium-size)",
+            "5",
+            "10",
+            "50"
+        ],
+        [
+            "Space hulk, Colossal",
+            "\u00963",
+            "10",
+            "3,600"
+        ],
+        [
+            "Space hulk, Gargantuan",
+            "1",
+            "10",
+            "900"
+        ],
+        [
+            "Space hulk, Huge",
+            "3",
+            "10",
+            "450"
+        ]
+    ]
+}

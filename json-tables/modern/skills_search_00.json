@@ -1,0 +1,23 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "DC",
+            "Task"
+        ]
+    ],
+    "rows": [
+        [
+            "10",
+            "Ransack an area to find a certain object."
+        ],
+        [
+            "20",
+            "Notice a typical secret compartment, a simple trap, or an obscure clue."
+        ],
+        [
+            "25+",
+            "Find a complex or well-hidden secret compartment or trap; notice an extremely obscure clue."
+        ]
+    ]
+}

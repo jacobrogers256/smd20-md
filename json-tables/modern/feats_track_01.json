@@ -1,0 +1,88 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Condition",
+            "DC Modifier"
+        ]
+    ],
+    "rows": [
+        [
+            "Every three targets in the group being tracked",
+            "\u00961"
+        ],
+        [
+            "Size of targets being tracked: 1"
+        ],
+        [
+            "Fine",
+            "+8"
+        ],
+        [
+            "Diminutive",
+            "+4"
+        ],
+        [
+            "Tiny",
+            "+2"
+        ],
+        [
+            "Small",
+            "+1"
+        ],
+        [
+            "Medium-size",
+            "+0"
+        ],
+        [
+            "Large",
+            "\u00961"
+        ],
+        [
+            "Huge",
+            "\u00962"
+        ],
+        [
+            "Gargantuan",
+            "\u00964"
+        ],
+        [
+            "Colossal",
+            "-8"
+        ],
+        [
+            "Every 24 hours since the trail was made",
+            "+1"
+        ],
+        [
+            "Every hour of rain since the trail was made",
+            "+1"
+        ],
+        [
+            "Fresh snow cover since the trail was made",
+            "+10"
+        ],
+        [
+            "Poor visibility: 2"
+        ],
+        [
+            "Overcast or moonless night",
+            "+6"
+        ],
+        [
+            "Moonlight",
+            "+3"
+        ],
+        [
+            "Fog or precipitation",
+            "+3"
+        ],
+        [
+            "Tracked target hides trail (and moves at half speed)",
+            "+5"
+        ],
+        [
+            "1 For a group of mixed sizes, apply only the modifier for the largest size category represented.  2 Apply only the largest modifier from this category."
+        ]
+    ]
+}

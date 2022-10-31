@@ -1,0 +1,117 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Table: Fiend Immunities, Resistances, and Damage Reduction"
+        ],
+        [
+            "Roll d%",
+            "Immunity",
+            "Roll d%",
+            "Resistance",
+            "Roll d%",
+            "Damage Reduction"
+        ]
+    ],
+    "rows": [
+        [
+            "01\u009606",
+            "Acid damage",
+            "01\u009621",
+            "None (do not roll again)",
+            "01\u009633",
+            "None (do not roll again)"
+        ],
+        [
+            "07\u009612",
+            "Cold damage",
+            "22\u009627",
+            "Acid resistance 10",
+            "34\u009645",
+            "5/specific weapon type 1"
+        ],
+        [
+            "13\u009618",
+            "Sonic/concussion damage",
+            "28\u009630",
+            "Acid resistance 20",
+            "46\u009657",
+            "10/specific weapon type 1"
+        ],
+        [
+            "19\u009624",
+            "Electricity damage",
+            "31\u009636",
+            "Cold resistance 10",
+            "58\u009663",
+            "20/specific weapon type 1"
+        ],
+        [
+            "25\u009630",
+            "Fire damage",
+            "37\u009639",
+            "Cold resistance 20",
+            "64\u009672",
+            "5/+1"
+        ],
+        [
+            "31\u009636",
+            "Ballistic damage",
+            "40\u009645",
+            "Sonic/concussion resistance 10",
+            "73\u009681",
+            "10/+1"
+        ],
+        [
+            "37\u009642",
+            "Bludgeoning damage",
+            "46\u009648",
+            "Sonic/concussion resistance 20",
+            "82\u009684",
+            "15/+1"
+        ],
+        [
+            "43\u009648",
+            "Piercing damage",
+            "49\u009654",
+            "Electricity resistance 10",
+            "85\u009687",
+            "20/+1"
+        ],
+        [
+            "49\u009654",
+            "Slashing damage",
+            "55\u009657",
+            "Electricity resistance 20",
+            "88\u009690",
+            "5/+2"
+        ],
+        [
+            "55\u009660",
+            "Poison damage",
+            "58\u009663",
+            "Fire resistance 10",
+            "91\u009693",
+            "10/+2"
+        ],
+        [
+            "61\u009666",
+            "Radiation damage",
+            "64\u009666",
+            "Fire resistance 20",
+            "94\u009698",
+            "15/+2"
+        ],
+        [
+            "67\u0096100",
+            "Choose one, and roll again",
+            "67\u0096100",
+            "Choose one, and roll again",
+            "99\u0096100",
+            "20/+2"
+        ],
+        [
+            "1 Includes weapons made of a specific material (silver or wood, for example) or weapons that deal a specific type of damage (ballistic, bludgeoning, piercing, or slashing)."
+        ]
+    ]
+}

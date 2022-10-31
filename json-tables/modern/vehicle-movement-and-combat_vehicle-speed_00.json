@@ -1,0 +1,71 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Table: Vehicle Speeds and Modifiers"
+        ],
+        [
+            "Speed Category",
+            "Character Scale",
+            "Chase Scale",
+            "Defense Modifier",
+            "Check/Roll Modifier"
+        ],
+        [
+            "Movement 1",
+            "Turn Number 2",
+            "Movement 1",
+            "Turn Number 2"
+        ]
+    ],
+    "rows": [
+        [
+            "Stationary 3",
+            "0",
+            "\u0097",
+            "0",
+            "\u0097",
+            "+0",
+            "\u0097"
+        ],
+        [
+            "Alley speed",
+            "1\u009620",
+            "1",
+            "1\u00962",
+            "1",
+            "+0",
+            "+0"
+        ],
+        [
+            "Street speed",
+            "21\u009650",
+            "2",
+            "3\u00965",
+            "1",
+            "+1",
+            "\u00961"
+        ],
+        [
+            "Highway speed",
+            "51\u0096150",
+            "4",
+            "6\u009615",
+            "2",
+            "+2",
+            "\u00962"
+        ],
+        [
+            "All-out",
+            "151+",
+            "8",
+            "16+",
+            "2",
+            "+4",
+            "\u00964"
+        ],
+        [
+            "1 The number of squares a vehicle can move at this speed.  2 The number of squares a vehicle must move at this speed before making a turn.  3 A stationary vehicle cannot move or maneuver."
+        ]
+    ]
+}

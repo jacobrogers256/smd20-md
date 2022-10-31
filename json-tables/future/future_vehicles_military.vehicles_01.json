@@ -1,0 +1,57 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Table: M-300 Hovertank Weapons"
+        ],
+        [
+            "Weapon",
+            "Damage",
+            "Critical",
+            "Damage Type",
+            "Range Increment",
+            "Rate of Fire",
+            "Size",
+            "Weight",
+            "Purchase DC",
+            "Restriction"
+        ],
+        [
+            "Progress Level 6: Fusion Age"
+        ],
+        [
+            "Progress Level 7: Gravity Age"
+        ]
+    ],
+    "rows": [
+        [
+            "Magazine"
+        ],
+        [
+            "T-95 Cavalcade chain gun",
+            "7d6",
+            "20",
+            "Ballistic",
+            "60 feet",
+            "S, A",
+            "Linked",
+            "Huge",
+            "185 lb.",
+            "21",
+            "Mil (+3)"
+        ],
+        [
+            "M-300 Rhino mass cannon",
+            "8d12",
+            "20",
+            "Ballistic",
+            "100 feet",
+            "S",
+            "\u0097",
+            "Huge",
+            "450 lb.",
+            "29",
+            "Mil (+3)"
+        ]
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Vehicle Speed Category",
+            "DC Modifier"
+        ]
+    ],
+    "rows": [
+        [
+            "Alley speed",
+            "+10"
+        ],
+        [
+            "Street speed",
+            "+5"
+        ],
+        [
+            "Highway speed",
+            "+0"
+        ],
+        [
+            "All-out",
+            "\u00965"
+        ]
+    ]
+}

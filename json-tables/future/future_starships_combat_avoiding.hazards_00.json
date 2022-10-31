@@ -1,0 +1,30 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Table: Avoid Hazard DCs"
+        ],
+        [
+            "Hazard Size",
+            "Pilot Check DC"
+        ]
+    ],
+    "rows": [
+        [
+            "Colossal",
+            "5"
+        ],
+        [
+            "Gargantuan",
+            "20"
+        ],
+        [
+            "Huge",
+            "15"
+        ],
+        [
+            "Large",
+            "10"
+        ]
+    ]
+}

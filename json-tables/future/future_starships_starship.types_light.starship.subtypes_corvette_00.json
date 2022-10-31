@@ -1,0 +1,50 @@
+{
+    "caption": "",
+    "headers": [],
+    "rows": [
+        [
+            "Type: Light",
+            "Size: Colossal (\u00968 size)"
+        ],
+        [
+            "Subtype: Corvette",
+            "Tactical Speed: 3,500 ft. (7 sq.)"
+        ],
+        [
+            "Defense: 7",
+            "Length: 320 feet"
+        ],
+        [
+            "Flat-footed Defense: 5",
+            "Weight: 3,200 tons"
+        ],
+        [
+            "Autopilot Defense: 5",
+            "Targeting System Bonus: +3"
+        ],
+        [
+            "Hardness: 30",
+            "Crew: 16 (trained +4)"
+        ],
+        [
+            "Hit Dice: 40d20 (800 hp)",
+            "Passenger Capacity: 32"
+        ],
+        [
+            "Initiative Modifier: +4",
+            "Cargo Capacity: 150 tons"
+        ],
+        [
+            "Pilot\u0092s Class Bonus: +3",
+            "Grapple Modifier: +16"
+        ],
+        [
+            "Pilot\u0092s Dex Modifier: +2",
+            "Base Purchase DC: 56"
+        ],
+        [
+            "Gunner\u0092s Attack Bonus: +2",
+            "Restriction: Military (+3)"
+        ]
+    ]
+}

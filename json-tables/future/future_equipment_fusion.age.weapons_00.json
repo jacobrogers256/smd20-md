@@ -1,0 +1,104 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Table: Progress Level 6 Ranged Weapons"
+        ],
+        [
+            "Weapon 1",
+            "Damage",
+            "Critical",
+            "Damage Type",
+            "Range Increment",
+            "Rate of Fire",
+            "Magazine",
+            "Size",
+            "Weight",
+            "Purchase DC",
+            "Restriction"
+        ]
+    ],
+    "rows": [
+        [
+            "Laser pistol",
+            "2d8",
+            "20",
+            "Fire",
+            "40 feet",
+            "S",
+            "50 box",
+            "Medium",
+            "3 lb.",
+            "17",
+            "Lic (+1)"
+        ],
+        [
+            "Laser rifle",
+            "3d8",
+            "20",
+            "Fire",
+            "80 feet",
+            "S, A",
+            "50 box",
+            "Large",
+            "8 lb.",
+            "19",
+            "Res (+2)"
+        ],
+        [
+            "Laser sniper rifle",
+            "3d8",
+            "20",
+            "Fire",
+            "120 feet",
+            "S",
+            "50 box",
+            "Large",
+            "14 lb.",
+            "21",
+            "Res (+2)"
+        ],
+        [
+            "Mini-grenade launcher",
+            "Varies 2",
+            "20",
+            "Varies 2",
+            "70 feet",
+            "Single",
+            "1 int.",
+            "Medium",
+            "4 lb.",
+            "20",
+            "Mil (+3)"
+        ],
+        [
+            "Mini-rocket launcher",
+            "Varies 2",
+            "20",
+            "Varies 2",
+            "150 feet",
+            "Single",
+            "1 int.",
+            "Medium",
+            "5 lb.",
+            "23",
+            "Mil (+3)"
+        ],
+        [
+            "Tangler gun",
+            "Special",
+            "\u0097",
+            "\u0097",
+            "20 feet",
+            "S, A",
+            "20 box",
+            "Large",
+            "8 lb.",
+            "16",
+            "Lic (+1)"
+        ],
+        [
+            "1 All weapons listed in this table require the Personal Firearms Proficiency feat.  2 Damage and damage type varies depending on the ammunition."
+        ]
+    ]
+}

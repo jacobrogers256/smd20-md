@@ -1,0 +1,34 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Table: Destruction Threshold"
+        ],
+        [
+            "Ship Type",
+            "Destroyed At"
+        ]
+    ],
+    "rows": [
+        [
+            "Ultralight",
+            "\u009620 hp"
+        ],
+        [
+            "Light",
+            "\u009640 hp"
+        ],
+        [
+            "Mediumweight",
+            "\u009660 hp"
+        ],
+        [
+            "Heavy",
+            "\u009680 hp"
+        ],
+        [
+            "Superheavy",
+            "\u0096100 hp"
+        ]
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "HD",
+            "Effect"
+        ]
+    ],
+    "rows": [
+        [
+            "12 or more",
+            "Dazed"
+        ],
+        [
+            "8\u009611",
+            "Stunned"
+        ],
+        [
+            "4\u00967",
+            "Paralyzed"
+        ],
+        [
+            "3 or less",
+            "Killed"
+        ]
+    ]
+}

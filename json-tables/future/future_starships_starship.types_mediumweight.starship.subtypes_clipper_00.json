@@ -1,0 +1,50 @@
+{
+    "caption": "",
+    "headers": [],
+    "rows": [
+        [
+            "Type: Mediumweight",
+            "Size: Colossal (\u00968 size)"
+        ],
+        [
+            "Subtype: Clipper",
+            "Tactical Speed: 3,500 ft. (7 sq.)"
+        ],
+        [
+            "Defense: 7",
+            "Length: 850 feet"
+        ],
+        [
+            "Flat-footed Defense: 5",
+            "Weight: 27,000 tons"
+        ],
+        [
+            "Autopilot Defense: 7",
+            "Targeting System Bonus: +3"
+        ],
+        [
+            "Hardness: 30",
+            "Crew: 32 (trained +4)"
+        ],
+        [
+            "Hit Dice: 150d20 (3,000 hp)",
+            "Passenger Capacity: 80"
+        ],
+        [
+            "Initiative Modifier: +2",
+            "Cargo Capacity: 10,000 tons"
+        ],
+        [
+            "Pilot\u0092s Class Bonus: +3",
+            "Grapple Modifier: +16"
+        ],
+        [
+            "Pilot\u0092s Dex Modifier: +2",
+            "Base Purchase DC: 60"
+        ],
+        [
+            "Gunner\u0092s Attack Bonus: +2",
+            "Restriction: Restricted (+2)"
+        ]
+    ]
+}

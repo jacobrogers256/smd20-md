@@ -1,0 +1,78 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Table: Dragon Spells And Spell-Like Abilities"
+        ],
+        [
+            "Age Category",
+            "Caster Level*",
+            "New Spell-like Ability (choose one)"
+        ]
+    ],
+    "rows": [
+        [
+            "Wyrmling",
+            "\u0097",
+            "\u0097"
+        ],
+        [
+            "Very young",
+            "\u0097",
+            "\u0097"
+        ],
+        [
+            "Young",
+            "1st",
+            "Daze or detect magical aura 1/day"
+        ],
+        [
+            "Juvenile",
+            "2nd",
+            "Sleep or true strike 1/day"
+        ],
+        [
+            "Young adult",
+            "3rd",
+            "Locate object or zone of truth 1/day"
+        ],
+        [
+            "Adult",
+            "4th",
+            "Protection from arrows/bullets or resist energy 1/day"
+        ],
+        [
+            "Mature adult",
+            "5th",
+            "Blur or invisibility 1/day"
+        ],
+        [
+            "Old",
+            "6th",
+            "Tongues or water breathing 1/day"
+        ],
+        [
+            "Very old",
+            "7th",
+            "Arcane eye or minor globe of invulnerability 1/day"
+        ],
+        [
+            "Ancient",
+            "8th",
+            "Confusion or freedom of movement 1/day"
+        ],
+        [
+            "Dragon King/Queen",
+            "9th",
+            "Break enchantment or true seeing 1/day"
+        ],
+        [
+            "Dragon Emperor/Empress",
+            "10th",
+            "Cloudkill or telekinesis 1/day"
+        ],
+        [
+            "*Caster level applies to arcane spells and spell-like abilities."
+        ]
+    ]
+}

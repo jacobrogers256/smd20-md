@@ -1,0 +1,120 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Table: The Engineer"
+        ],
+        [
+            "Class Level",
+            "Base Attack Bonus",
+            "Fort Save",
+            "Ref Save",
+            "Will Save",
+            "Special",
+            "Defense Bonus",
+            "Reputation Bonus"
+        ]
+    ],
+    "rows": [
+        [
+            "1st",
+            "+0",
+            "+1",
+            "+1",
+            "+0",
+            "Builder, improve kit (+1)",
+            "+0",
+            "+0"
+        ],
+        [
+            "2nd",
+            "+1",
+            "+2",
+            "+2",
+            "+0",
+            "Quick craft, superior repair",
+            "+1",
+            "+0"
+        ],
+        [
+            "3rd",
+            "+2",
+            "+2",
+            "+2",
+            "+1",
+            "Bonus feat",
+            "+1",
+            "+1"
+        ],
+        [
+            "4th",
+            "+3",
+            "+2",
+            "+2",
+            "+1",
+            "Improve kit (+2), reconfigure weapon, sabotage",
+            "+1",
+            "+1"
+        ],
+        [
+            "5th",
+            "+3",
+            "+3",
+            "+3",
+            "+1",
+            "Craft XP reserve, quick craft",
+            "+2",
+            "+1"
+        ],
+        [
+            "6th",
+            "+4",
+            "+3",
+            "+3",
+            "+2",
+            "Bonus feat, craft XP reserve",
+            "+2",
+            "+2"
+        ],
+        [
+            "7th",
+            "+5",
+            "+4",
+            "+4",
+            "+2",
+            "Craft XP reserve, improve kit (+3), quick fix",
+            "+2",
+            "+2"
+        ],
+        [
+            "8th",
+            "+6",
+            "+4",
+            "+4",
+            "+2",
+            "Craft XP reserve, weapon upgrade",
+            "+3",
+            "+2"
+        ],
+        [
+            "9th",
+            "+6",
+            "+4",
+            "+4",
+            "+3",
+            "Bonus feat, craft XP reserve",
+            "+3",
+            "+3"
+        ],
+        [
+            "10th",
+            "+7",
+            "+5",
+            "+5",
+            "+3",
+            "Craft XP reserve, unflustered",
+            "+3",
+            "+3"
+        ]
+    ]
+}

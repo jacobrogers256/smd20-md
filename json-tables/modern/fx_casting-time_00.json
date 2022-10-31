@@ -1,0 +1,102 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Table: FX Actions in Combat"
+        ],
+        [
+            "Attack Actions",
+            "AoO ?"
+        ],
+        [
+            "Move Actions",
+            "AoO?"
+        ],
+        [
+            "Full-Round Actions",
+            "AoO?"
+        ],
+        [
+            "Free Actions",
+            "AoO?"
+        ]
+    ],
+    "rows": [
+        [
+            "Activate a ring , rod, staff , wand , or wondrous item",
+            "No"
+        ],
+        [
+            "Cast a spell ( attack\naction casting time)",
+            "Yes"
+        ],
+        [
+            "Concentrate to maintain an active spell or power",
+            "No"
+        ],
+        [
+            "Dismiss a spell or power",
+            "No"
+        ],
+        [
+            "Drink a potion",
+            "Yes"
+        ],
+        [
+            "Manifest a power ( attack\naction manifestation time)",
+            "Yes"
+        ],
+        [
+            "Read a scroll",
+            "Yes"
+        ],
+        [
+            "Turn or rebuke undead",
+            "No"
+        ],
+        [
+            "Use spell-like ability",
+            "Yes"
+        ],
+        [
+            "Use supernatural ability",
+            "No"
+        ],
+        [
+            "Use extraordinary ability",
+            "No"
+        ],
+        [
+            "Use touch spell on self",
+            "No"
+        ],
+        [
+            "Direct or redirect an active spell or power",
+            "No"
+        ],
+        [
+            "Cast a spell ( full-round\naction casting time)",
+            "Yes"
+        ],
+        [
+            "Manifest a power ( full-round\naction manifestation time)",
+            "Yes"
+        ],
+        [
+            "Use touch spell on up to six friends",
+            "Yes"
+        ],
+        [
+            "Cease concentration on a spell or power",
+            "No"
+        ],
+        [
+            "Prepare spell components to cast a spell",
+            "No"
+        ],
+        [
+            "Make Spellcraft check on counterspell attempt",
+            "No"
+        ]
+    ]
+}

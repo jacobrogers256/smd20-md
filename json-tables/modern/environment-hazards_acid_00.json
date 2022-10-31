@@ -1,0 +1,33 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Table: Acid Damage"
+        ],
+        [
+            "Acid Strength",
+            "Splash Attack*",
+            "Total Immersion*"
+        ]
+    ],
+    "rows": [
+        [
+            "Mild",
+            "1d6",
+            "1d10"
+        ],
+        [
+            "Potent",
+            "2d6",
+            "2d10"
+        ],
+        [
+            "Concentrated",
+            "3d6",
+            "3d10"
+        ],
+        [
+            "* Damage per round of exposure."
+        ]
+    ]
+}

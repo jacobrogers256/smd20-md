@@ -1,0 +1,43 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Level",
+            "Abilities",
+            "Level",
+            "Abilities"
+        ]
+    ],
+    "rows": [
+        [
+            "1\u00962",
+            "Mage hand 3/day",
+            "11\u009612",
+            "Levitate"
+        ],
+        [
+            "3\u00964",
+            "Daze 3/day",
+            "13\u009614",
+            "Displacement"
+        ],
+        [
+            "5\u00966",
+            "Change self",
+            "15\u009616",
+            "Tongues"
+        ],
+        [
+            "7\u00968",
+            "Cause fear",
+            "17\u009618",
+            "Bestow curse"
+        ],
+        [
+            "9\u009610",
+            "Blur",
+            "19+",
+            "Animate dead"
+        ]
+    ]
+}

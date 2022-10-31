@@ -1,0 +1,87 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Object",
+            "Size",
+            "Weight",
+            "Purchase DC",
+            "Restriction"
+        ]
+    ],
+    "rows": [
+        [
+            "Black box",
+            "Tiny",
+            "0.5 lb.",
+            "4",
+            "Illegal (+4)"
+        ],
+        [
+            "Caller ID defeater",
+            "Tiny",
+            "1 lb.",
+            "5",
+            "\u0097"
+        ],
+        [
+            "Cellular interceptor",
+            "Tiny",
+            "0.5 lb.",
+            "23",
+            "\u0097"
+        ],
+        [
+            "Lineman\u0092s buttset",
+            "Tiny",
+            "1 lb.",
+            "13",
+            "Lic (+1)"
+        ],
+        [
+            "Metal detector",
+            "Small",
+            "2 lb.",
+            "11",
+            "\u0097"
+        ],
+        [
+            "Night vision goggles",
+            "Small",
+            "3 lb.",
+            "17",
+            "\u0097"
+        ],
+        [
+            "Tap detector",
+            "Tiny",
+            "1 lb.",
+            "7",
+            "\u0097"
+        ],
+        [
+            "Telephone tap"
+        ],
+        [
+            "Line tap",
+            "Tiny",
+            "0.5 lb.",
+            "13",
+            "Lic (+1)"
+        ],
+        [
+            "Receiver tap",
+            "Tiny",
+            "0.5 lb.",
+            "3",
+            "Res (+2)"
+        ],
+        [
+            "Telephone line tracer",
+            "Med",
+            "5 lb.",
+            "23",
+            "\u0097"
+        ]
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Result",
+            "Performance"
+        ]
+    ],
+    "rows": [
+        [
+            "10",
+            "Amateur performance. Audience may appreciate your performance, but isn\u0092t impressed."
+        ],
+        [
+            "15",
+            "Routine performance. Audience enjoys your performance, but it isn\u0092t exceptional."
+        ],
+        [
+            "20",
+            "Great performance. Audience highly impressed."
+        ],
+        [
+            "25",
+            "Memorable performance. Audience enthusiastic."
+        ],
+        [
+            "30",
+            "Masterful performance. Audience awed."
+        ]
+    ]
+}

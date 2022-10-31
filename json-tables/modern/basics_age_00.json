@@ -1,0 +1,38 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Table: Aging Effects"
+        ],
+        [
+            "Age Category",
+            "Ability Adjustments"
+        ]
+    ],
+    "rows": [
+        [
+            "Child (1\u009611)",
+            "\u00963 to Str and Con ; \u00961 to Dex , Int , Wis , and Cha"
+        ],
+        [
+            "Young adult (12\u009615)",
+            "Original scores"
+        ],
+        [
+            "Adult (16\u009639)",
+            "Original scores"
+        ],
+        [
+            "Middle age (40\u009659)",
+            "\u00961 to Str , Dex , and Con ; +1 to Int , Wis , and Cha"
+        ],
+        [
+            "Old (60\u009679)",
+            "\u00961 to Str , Dex , and Con ; +1 to Int , Wis , and Cha"
+        ],
+        [
+            "Venerable (80+)",
+            "\u00961 to Str , Dex , and Con ; +1 to Int , Wis , and Cha"
+        ]
+    ]
+}

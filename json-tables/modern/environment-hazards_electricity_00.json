@@ -1,0 +1,40 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Table: Electricity Damage"
+        ],
+        [
+            "Type",
+            "Examples",
+            "Damage",
+            "Fort DC"
+        ]
+    ],
+    "rows": [
+        [
+            "Jolt",
+            "Car battery, stun gun",
+            "1d3",
+            "10"
+        ],
+        [
+            "Low voltage",
+            "Fuse box, electrical socket",
+            "2d6",
+            "15"
+        ],
+        [
+            "Medium voltage",
+            "Industrial transformer, electric fence",
+            "4d6",
+            "15"
+        ],
+        [
+            "High voltage",
+            "Power line, electric chair, lightning",
+            "8d6",
+            "20"
+        ]
+    ]
+}

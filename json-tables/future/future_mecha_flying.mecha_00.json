@@ -1,0 +1,114 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Table: Flight Maneuverability"
+        ],
+        [
+            "Maneuver",
+            "Perfect",
+            "Good",
+            "Average",
+            "Poor",
+            "Clumsy"
+        ]
+    ],
+    "rows": [
+        [
+            "Minimum forward speed",
+            "None",
+            "None",
+            "Half",
+            "Half",
+            "Half"
+        ],
+        [
+            "Hover",
+            "Yes",
+            "Yes",
+            "No",
+            "No",
+            "No"
+        ],
+        [
+            "Fly backward",
+            "Yes",
+            "Yes",
+            "No",
+            "No",
+            "No"
+        ],
+        [
+            "Reverse",
+            "Free",
+            "\u00965 ft.",
+            "\u0097",
+            "\u0097",
+            "\u0097"
+        ],
+        [
+            "Turn",
+            "Any",
+            "90\u00b0/5 ft.",
+            "45\u00b0/5 ft.",
+            "45\u00b0/5 ft.",
+            "45\u00b0/10 ft."
+        ],
+        [
+            "Turn in place",
+            "Any",
+            "+90\u00b0/5 ft.",
+            "+45\u00b0/5 ft.",
+            "No",
+            "No"
+        ],
+        [
+            "Maximum turn",
+            "Any",
+            "Any",
+            "90\u00b0",
+            "45\u00b0",
+            "45\u00b0"
+        ],
+        [
+            "Up angle",
+            "Any",
+            "Any",
+            "60\u00b0",
+            "45\u00b0",
+            "45\u00b0"
+        ],
+        [
+            "Up speed",
+            "Full",
+            "Half",
+            "Half",
+            "Half",
+            "Half"
+        ],
+        [
+            "Down angle",
+            "Any",
+            "Any",
+            "Any",
+            "45\u00b0",
+            "45\u00b0"
+        ],
+        [
+            "Down speed",
+            "Double",
+            "Double",
+            "Double",
+            "Double",
+            "Double"
+        ],
+        [
+            "Between down and up",
+            "0 ft.",
+            "0 ft.",
+            "5 ft.",
+            "10 ft.",
+            "20 ft."
+        ]
+    ]
+}

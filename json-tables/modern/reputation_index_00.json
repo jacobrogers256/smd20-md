@@ -1,0 +1,22 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Reputation Check Modifier"
+        ]
+    ],
+    "rows": [
+        [
+            "The hero is famous, known far and wide with either a positive or negative connotation",
+            "+10"
+        ],
+        [
+            "GM character is part of the hero\u0092s professional or social circle",
+            "+5"
+        ],
+        [
+            "The hero has some small amount of fame or notoriety",
+            "+2"
+        ]
+    ]
+}

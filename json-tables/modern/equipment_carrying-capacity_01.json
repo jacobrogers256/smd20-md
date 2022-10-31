@@ -1,0 +1,31 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Previous Speed",
+            "Current Speed"
+        ]
+    ],
+    "rows": [
+        [
+            "20 ft.",
+            "15 ft."
+        ],
+        [
+            "30 ft.",
+            "20 ft."
+        ],
+        [
+            "40 ft.",
+            "30 ft."
+        ],
+        [
+            "50 ft.",
+            "40 ft."
+        ],
+        [
+            "60 ft.",
+            "50 ft."
+        ]
+    ]
+}

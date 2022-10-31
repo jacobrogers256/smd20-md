@@ -1,0 +1,34 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Long Jump Distance",
+            "DC 1",
+            "Long Jump Distance",
+            "DC 1"
+        ]
+    ],
+    "rows": [
+        [
+            "5 feet",
+            "5",
+            "20 feet",
+            "20"
+        ],
+        [
+            "10 feet",
+            "10",
+            "25 feet",
+            "25"
+        ],
+        [
+            "15 feet",
+            "15",
+            "30 feet",
+            "30"
+        ],
+        [
+            "1 Requires a 20-foot move. Without a 20-foot move, double the DC."
+        ]
+    ]
+}

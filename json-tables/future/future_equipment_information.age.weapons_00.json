@@ -1,0 +1,78 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Table: Progress Level 5 Ranged Weapons"
+        ],
+        [
+            "Weapon 1",
+            "Damage",
+            "Critical",
+            "Damage Type",
+            "Range Increment",
+            "Rate of Fire",
+            "Magazine",
+            "Size",
+            "Weight",
+            "Purchase DC",
+            "Restriction"
+        ]
+    ],
+    "rows": [
+        [
+            "Falcon .45",
+            "2d6",
+            "20",
+            "Ballistic",
+            "40 feet",
+            "S, A",
+            "20 box",
+            "Medium",
+            "2.5 lb.",
+            "18",
+            "Lic (+1)"
+        ],
+        [
+            "OICW assault rifle",
+            "2d8",
+            "20",
+            "Ballistic",
+            "70 feet",
+            "S",
+            "30 box",
+            "Large",
+            "18 lb.",
+            "26",
+            "Mil (+3)"
+        ],
+        [
+            "TacMil sniper rifle",
+            "2d10",
+            "20",
+            "Ballistic",
+            "120 feet",
+            "S",
+            "15 box",
+            "Large",
+            "14 lb.",
+            "21",
+            "Res (+2)"
+        ],
+        [
+            "Twin thunder machine gun",
+            "2d10",
+            "20",
+            "Ballistic",
+            "100 feet",
+            "A",
+            "Linked",
+            "Huge",
+            "42 lb.",
+            "22",
+            "Mil (+3)"
+        ],
+        [
+            "1 All weapons listed in this table require the Personal Firearms Proficiency feat."
+        ]
+    ]
+}

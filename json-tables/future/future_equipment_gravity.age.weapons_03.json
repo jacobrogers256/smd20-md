@@ -1,0 +1,65 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Table: Progress Level 7 Explosives And Splash Weapons"
+        ],
+        [
+            "Weapon",
+            "Damage",
+            "Critical",
+            "Damage Type",
+            "Burst Radius",
+            "Reflex DC",
+            "Range Increment",
+            "Size",
+            "Weight",
+            "Purchase DC",
+            "Restriction"
+        ]
+    ],
+    "rows": [
+        [
+            "Grenade, dissolver",
+            "2d6",
+            "\u0097",
+            "Acid",
+            "5 ft.",
+            "15",
+            "10 ft.",
+            "Small",
+            "2 lb.",
+            "14",
+            "Res (+2)"
+        ],
+        [
+            "Grenade, gravitic",
+            "6d6",
+            "\u0097",
+            "Bludgeoning",
+            "10 ft.",
+            "15",
+            "10 ft.",
+            "Tiny",
+            "1 lb.",
+            "20",
+            "Mil (+3)"
+        ],
+        [
+            "Grenade, stun",
+            "Special 1",
+            "\u0097",
+            "\u0097",
+            "10 ft.",
+            "18",
+            "10 ft.",
+            "Tiny",
+            "1 lb.",
+            "17",
+            "Mil (+3)"
+        ],
+        [
+            "1 See the weapon description for details."
+        ]
+    ]
+}

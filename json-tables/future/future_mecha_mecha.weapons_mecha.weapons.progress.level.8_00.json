@@ -1,0 +1,62 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Weapon",
+            "Damage",
+            "Critical",
+            "Damage Type",
+            "Range Increment",
+            "Rate of Fire",
+            "Magazine",
+            "Size",
+            "Weight",
+            "Purchase DC",
+            "Restriction"
+        ]
+    ],
+    "rows": [
+        [
+            "Avenger electro-scimitar 3",
+            "Varies 1",
+            "18\u009620",
+            "Slashing/ Electricity",
+            "\u0097",
+            "\u0097",
+            "\u0097",
+            "Varies 1",
+            "\u0097",
+            "Varies 1",
+            "\u0097"
+        ],
+        [
+            "LT-5 Longshot mass driver",
+            "15d6",
+            "20",
+            "Ballistic",
+            "120 ft.",
+            "Single",
+            "10 box",
+            "Huge",
+            "90 lb.",
+            "24",
+            "Mil (+3)"
+        ],
+        [
+            "RP-91 Reaper laser scythe 3",
+            "Varies 1",
+            "4",
+            "Slashing/ Fire",
+            "\u0097",
+            "\u0097",
+            "\u0097",
+            "Varies 1",
+            "\u0097",
+            "Varies 1",
+            "\u0097"
+        ],
+        [
+            "1 See the weapon\u0092s description for details.  2 See the weapon\u0092s description for collateral effects to crew and passengers.  3 This mastercraft weapon grants a +1 bonus on attack rolls."
+        ]
+    ]
+}

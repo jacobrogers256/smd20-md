@@ -1,0 +1,27 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Strength of Source",
+            "Save DC"
+        ]
+    ],
+    "rows": [
+        [
+            "Easily resistible",
+            "10"
+        ],
+        [
+            "Moderate",
+            "15"
+        ],
+        [
+            "Strong",
+            "20"
+        ],
+        [
+            "Overpowering",
+            "25"
+        ]
+    ]
+}

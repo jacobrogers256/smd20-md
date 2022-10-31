@@ -1,0 +1,27 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Upgrade",
+            "Diplomacy DC"
+        ]
+    ],
+    "rows": [
+        [
+            "Seat at sporting event to field pass",
+            "10"
+        ],
+        [
+            "Hotel room to suite",
+            "15"
+        ],
+        [
+            "Concert or theater ticket to backstage pass",
+            "20"
+        ],
+        [
+            "Economy transportation to first-class",
+            "25"
+        ]
+    ]
+}

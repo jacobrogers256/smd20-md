@@ -1,0 +1,48 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Components",
+            "DC Modifier"
+        ],
+        [
+            "Frame Shape and Locomotion"
+        ],
+        [
+            "External Components"
+        ],
+        [
+            "Armor"
+        ]
+    ],
+    "rows": [
+        [
+            "Articulated frame",
+            "+5"
+        ],
+        [
+            "Accessory mount",
+            "+1"
+        ],
+        [
+            "Loading mechanism",
+            "+2"
+        ],
+        [
+            "Basic toolkit",
+            "+2"
+        ],
+        [
+            "Basic electrical kit",
+            "+2"
+        ],
+        [
+            "Searchlight",
+            "+1"
+        ],
+        [
+            "Natural armor bonus +2",
+            "+2*"
+        ]
+    ]
+}

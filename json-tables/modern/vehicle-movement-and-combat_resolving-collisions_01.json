@@ -1,0 +1,43 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Smallest Object or Creature Size",
+            "Number of Dice"
+        ]
+    ],
+    "rows": [
+        [
+            "Colossal",
+            "20"
+        ],
+        [
+            "Gargantuan",
+            "16"
+        ],
+        [
+            "Huge",
+            "12"
+        ],
+        [
+            "Large",
+            "8"
+        ],
+        [
+            "Medium-size",
+            "4"
+        ],
+        [
+            "Small",
+            "2"
+        ],
+        [
+            "Tiny",
+            "1"
+        ],
+        [
+            "Smaller than Tiny",
+            "0"
+        ]
+    ]
+}

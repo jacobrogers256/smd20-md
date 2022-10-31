@@ -1,0 +1,30 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Thrown Explosives (hit)"
+        ],
+        [
+            "Roll on d4",
+            "Corner of targeted square"
+        ]
+    ],
+    "rows": [
+        [
+            "1",
+            "Upper Left"
+        ],
+        [
+            "2",
+            "Upper Right"
+        ],
+        [
+            "3",
+            "Lower Right"
+        ],
+        [
+            "4",
+            "Lower Left"
+        ]
+    ]
+}

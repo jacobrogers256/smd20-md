@@ -1,0 +1,27 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Rating",
+            "Aura Power"
+        ]
+    ],
+    "rows": [
+        [
+            "1 or lower",
+            "Faint"
+        ],
+        [
+            "2\u00964",
+            "Moderate"
+        ],
+        [
+            "5\u009610",
+            "Strong"
+        ],
+        [
+            "11 or higher",
+            "Overwhelming"
+        ]
+    ]
+}

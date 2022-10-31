@@ -1,0 +1,35 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Table: Progress Level 8 Melee Weapons"
+        ],
+        [
+            "Weapon 1",
+            "Damage",
+            "Critical",
+            "Damage Type",
+            "Range Increment",
+            "Size",
+            "Weight",
+            "Purchase DC",
+            "Restriction"
+        ]
+    ],
+    "rows": [
+        [
+            "Beam sword",
+            "2d8",
+            "19\u009620",
+            "Fire",
+            "\u0097",
+            "Medium",
+            "1 lb.",
+            "17",
+            "\u0097"
+        ],
+        [
+            "1 All weapons listed in this table require the Simple Weapons Proficiency feat."
+        ]
+    ]
+}

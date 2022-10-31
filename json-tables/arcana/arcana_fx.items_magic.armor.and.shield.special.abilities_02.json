@@ -1,0 +1,23 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Spell Resistance",
+            "Purchase DC Modifier"
+        ]
+    ],
+    "rows": [
+        [
+            "15",
+            "+1"
+        ],
+        [
+            "19",
+            "+2"
+        ],
+        [
+            "23",
+            "+3"
+        ]
+    ]
+}

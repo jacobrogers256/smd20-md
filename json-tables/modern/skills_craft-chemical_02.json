@@ -1,0 +1,286 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Table: Poisons",
+            "Poison",
+            "Type",
+            "Save DC",
+            "Initial Damage",
+            "Secondary Damage",
+            "Purchase DC",
+            "Restriction",
+            "Craft DC",
+            "Time"
+        ]
+    ],
+    "rows": [
+        [
+            "Arsenic",
+            "Ingested",
+            "15",
+            "1d4 Str",
+            "2d4 Con",
+            "9",
+            "Res (+2)",
+            "24",
+            "4 hr."
+        ],
+        [
+            "Atropine",
+            "Injury",
+            "13",
+            "1d6 Dex",
+            "1d6 Str",
+            "3",
+            "Res (+2)",
+            "14",
+            "1 hr."
+        ],
+        [
+            "Belladonna (plant)",
+            "Injury",
+            "18",
+            "1d6 Str",
+            "2d6 Str",
+            "14",
+            "Lic (+1)",
+            "n/a",
+            "n/a"
+        ],
+        [
+            "Blue vitriol",
+            "Injury",
+            "12",
+            "1d2 Con",
+            "1d2 Con",
+            "3",
+            "Res (+2)",
+            "9",
+            "1 hr."
+        ],
+        [
+            "Blue-ringed octopus venom",
+            "Injury",
+            "15",
+            "1d4 Con",
+            "1d4 Con",
+            "14",
+            "Lic (+1)",
+            "n/a",
+            "n/a"
+        ],
+        [
+            "Chloral hydrate",
+            "Ingested",
+            "18",
+            "1d6 Dex",
+            "Unconsciousness 1d3 hours",
+            "12",
+            "Res (+2)",
+            "28",
+            "8 hr."
+        ],
+        [
+            "Chloroform 1",
+            "Inhaled",
+            "17",
+            "Unconsciousness 1d3 hours",
+            "\u0097",
+            "9",
+            "Res (+2)",
+            "24",
+            "4 hr."
+        ],
+        [
+            "Curare (plant)",
+            "Injury",
+            "18",
+            "2d4 Dex",
+            "2d4 Wis",
+            "15",
+            "Res (+2)",
+            "n/a",
+            "n/a"
+        ],
+        [
+            "Cyanide",
+            "Injury",
+            "16",
+            "1d6 Con",
+            "2d6 Con",
+            "15",
+            "Mil (+3)",
+            "31",
+            "15 hr."
+        ],
+        [
+            "Cyanogen",
+            "Inhaled",
+            "19",
+            "1d4 Dex",
+            "2d4 Con",
+            "12",
+            "Mil (+3)",
+            "28",
+            "8 hr."
+        ],
+        [
+            "DDT",
+            "Inhaled",
+            "17",
+            "1d2 Str",
+            "1d4 Str",
+            "9",
+            "Lic (+1)",
+            "20",
+            "4 hr."
+        ],
+        [
+            "Knockout gas",
+            "Inhaled",
+            "18",
+            "1d3 Dex",
+            "Unconsciousness 1d3 hours",
+            "12",
+            "Res (+2)",
+            "26",
+            "8 hr."
+        ],
+        [
+            "Lead arsenate (gas)",
+            "Inhaled",
+            "12",
+            "1d2 Str",
+            "1d4 Con",
+            "6",
+            "Res (+2)",
+            "17",
+            "2 hr."
+        ],
+        [
+            "Lead arsenate (solid)",
+            "Ingested",
+            "12",
+            "1d2 Con",
+            "1d4 Con",
+            "6",
+            "Res (+2)",
+            "18",
+            "2 hr."
+        ],
+        [
+            "Mustard gas",
+            "Inhaled",
+            "17",
+            "1d4 Con",
+            "2d4 Con",
+            "12",
+            "Mil (+3)",
+            "26",
+            "8 hr."
+        ],
+        [
+            "Paris green (gas)",
+            "Inhaled",
+            "14",
+            "1d2 Con",
+            "1d4 Con",
+            "9",
+            "Res (+2)",
+            "20",
+            "4 hr."
+        ],
+        [
+            "Paris green (solid)",
+            "Ingested",
+            "14",
+            "1d4 Con",
+            "1d4 Con",
+            "9",
+            "Res (+2)",
+            "24",
+            "4 hr."
+        ],
+        [
+            "Puffer poison (fish)",
+            "Injury",
+            "13",
+            "1d6 Str",
+            "Paralysis 2d6 minutes",
+            "13",
+            "Lic (+1)",
+            "n/a",
+            "n/a"
+        ],
+        [
+            "Rattlesnake venom",
+            "Injury",
+            "12",
+            "1d6 Con",
+            "1d6 Con",
+            "12",
+            "Lic (+1)",
+            "n/a",
+            "n/a"
+        ],
+        [
+            "Sarin nerve gas",
+            "Inhaled",
+            "18",
+            "1d4 Con",
+            "2d4 Con",
+            "15",
+            "Illegal (+4)",
+            "30",
+            "15 hr."
+        ],
+        [
+            "Scorpion/tarantula venom",
+            "Injury",
+            "11",
+            "1d2 Str",
+            "1d2 Str",
+            "12",
+            "Lic (+1)",
+            "n/a",
+            "n/a"
+        ],
+        [
+            "Strychnine",
+            "Injury",
+            "19",
+            "1d3 Dex",
+            "2d4 Con",
+            "9",
+            "Res (+2)",
+            "23",
+            "4 hr."
+        ],
+        [
+            "Tear gas",
+            "Inhaled",
+            "15",
+            "Nauseated 1d6 rounds",
+            "\u0097",
+            "9",
+            "Res (+2)",
+            "21",
+            "4 hr."
+        ],
+        [
+            "VX nerve gas",
+            "Inhaled",
+            "22",
+            "1d6 Con",
+            "2d6 Con",
+            "21",
+            "Illegal (+4)",
+            "42",
+            "48 hr."
+        ],
+        [
+            "1 Chloroform gives off vapor that causes unconsciousness. Applying chloroform to an unwilling subject requires a successful grapple check and pin. n/a: Certain poisons can\u0092t be made with the Craft skill. Instead, such a poison must be obtained by extracting it from the creature in question."
+        ]
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "caption": "",
+    "headers": [
+        [
+            "Turning Check Result",
+            "Most Powerful Creature Affected (Maximum Hit Dice)"
+        ]
+    ],
+    "rows": [
+        [
+            "0 or lower",
+            "Acolyte level \u00964"
+        ],
+        [
+            "1\u00963",
+            "Acolyte level \u00963"
+        ],
+        [
+            "4\u00966",
+            "Acolyte level \u00962"
+        ],
+        [
+            "7\u00969",
+            "Acolyte level \u00961"
+        ],
+        [
+            "10\u009612",
+            "Acolyte level"
+        ],
+        [
+            "13\u009615",
+            "Acolyte level +1"
+        ],
+        [
+            "16\u009618",
+            "Acolyte level +2"
+        ],
+        [
+            "19\u009621",
+            "Acolyte level +3"
+        ],
+        [
+            "22 or higher",
+            "Acolyte level +4"
+        ]
+    ]
+}
